@@ -1,0 +1,501 @@
+customer_id,signup_date,age,gender,region,account_type
+a13759e7-ebdf-4d6a-89ec-498aabbf3de1,2023-11-24,56,M,London,Premium
+fd8274c3-1e95-4545-8887-99c3ccc3ef73,2023-02-27,69,Other,Wales,Business
+e46df74c-7f2b-43e3-8d22-10fee719080c,2023-01-13,46,Other,North West,Business
+41d0b626-7c97-4b26-85fe-20cefb08c6e2,2023-05-21,32,M,Scotland,Business
+0ff19026-554f-47e8-bdff-9e41120deb5a,2023-05-06,60,F,North West,Premium
+6fe8ab8f-7de3-4f38-8a20-dfa605962c09,2023-04-25,25,M,London,Free
+5a26ea18-3a2b-4035-bc1b-2f901ffefa45,2023-03-13,38,Other,Scotland,Premium
+659a0763-5da4-4a9e-bc54-e3e730c1f30a,2023-02-22,56,Other,South East,Free
+5361a714-36a1-4ad4-bf9f-27cca6906312,2023-12-13,36,F,North West,Free
+23e8fea9-bd20-4a92-bc50-d24c81cdb4dc,2023-10-07,40,Other,London,Premium
+18ef7905-de53-4113-846f-33ec0feaf1fa,2023-02-14,28,M,Wales,Free
+d4ce29ff-b4f6-40bf-b9c9-dcaa916ed5c1,2023-10-30,28,F,Scotland,Free
+3f7e4a32-4e15-4925-91a8-c0a641791c2a,2023-08-05,41,M,North West,Business
+f255a341-30a4-4d3b-9bc2-7c0aced48802,2023-01-17,53,M,North West,Free
+c0c43dfe-1478-4774-a0eb-3d66984fb7de,2023-01-16,57,F,South East,Premium
+435ee49d-59d2-491d-9289-b214862ba3fc,2023-02-17,41,M,South East,Premium
+4cac66d2-dbce-47af-8bcd-be0033309827,2023-04-22,20,Other,Wales,Free
+374331c4-0c46-4926-b37e-dbfb4be82131,2023-04-30,39,M,Wales,Business
+0bbeec69-3774-4eec-8b51-4f8d545dd517,2023-09-16,19,F,London,Business
+5f94602b-e3f1-4321-bea4-88a6f8d17225,2023-11-05,41,F,London,Free
+8f783b60-bcd7-4424-a5ef-4f3a9fb8cf5b,2023-01-14,61,F,Wales,Free
+b330ff40-13aa-4fe1-b843-739ce4929d10,2023-10-15,47,M,Wales,Premium
+fc0981f6-11de-4a5d-b291-e1ad776b491d,2023-04-12,55,F,Scotland,Free
+238cf77e-2fbc-40cb-bfad-35f32a90e7ef,2023-11-29,19,F,South East,Business
+24d7cfe3-19e1-4c6d-9a08-b8a403dff569,2023-12-26,38,M,London,Free
+36732d1d-6db6-47a2-9b51-d237c91a32b1,2023-10-07,50,Other,South East,Premium
+4cfe96ac-dfca-44a3-96a4-f5daf69bb111,2023-08-03,29,M,South East,Premium
+4b55fd91-be54-4b88-b044-ee20abdc1f38,2023-04-23,39,F,Wales,Premium
+4966fe65-364a-401e-9244-32cb6af4f0e1,2023-08-18,61,F,Scotland,Premium
+a62e154e-e908-419d-aae1-a75bcdceccb2,2023-10-29,42,M,North West,Premium
+39a6cfe5-9d36-4106-b025-ca53f688dbc8,2023-05-23,66,Other,Scotland,Free
+3a4aa2c4-649e-49c2-85b5-6fe3bb256a38,2023-01-04,44,F,Scotland,Free
+571376a1-37eb-4f39-bc4e-8fec129f92c2,2023-03-23,59,F,South East,Free
+639f41dc-8a34-4cf6-a23e-113726c3d150,2023-12-24,45,F,Scotland,Free
+36f835d0-40a4-4b58-87a1-75a39277f46a,2023-08-05,33,M,London,Premium
+5c0aaad3-9ba8-42fd-a454-ef5e76c6e20e,2023-06-24,32,F,South East,Business
+684c597f-bafe-42fa-9f6e-4be73de5a6a6,2023-05-23,64,Other,London,Free
+24df6ce6-9d72-48ef-ba6b-73120672efd6,2023-03-21,68,F,North West,Business
+6ae942fb-9fd5-4496-a9d2-1633df3951cf,2023-04-21,61,F,South East,Free
+8098f757-698e-45d8-97c5-b333b6882bcd,2023-06-22,69,Other,North West,Free
+3cfc26b8-fe08-44cb-ab4b-3692ab86489f,2023-02-22,20,F,South East,Business
+7419fcad-01df-4304-a8ad-487f1aa1ae64,2023-02-17,54,M,Wales,Premium
+5f888994-a2dd-4b6a-a855-11f6042c45b1,2023-07-14,68,M,Scotland,Free
+11a85f9a-cadb-46c4-a69a-c71177db00d2,2023-02-19,24,M,Wales,Free
+61698055-57fa-428b-ab74-41cd41672245,2023-07-03,38,Other,North West,Free
+ed2aed15-a2d2-41dd-bd35-cc807636b563,2023-06-26,26,F,Scotland,Business
+232ef6a1-25b8-4217-ab21-20c1bd0baed1,2023-11-06,56,M,South East,Premium
+91c49acd-d210-483b-8035-da45356b8d37,2023-05-16,35,Other,Scotland,Business
+1ebefc98-4cf1-42bc-9517-3a7e2854314a,2023-01-23,21,F,London,Business
+c87b7612-fd7f-445c-ab11-43cee45e0ea0,2023-08-24,42,Other,Scotland,Premium
+0aacced1-8f63-452a-b2ed-a89df5a28bab,2023-10-02,31,M,London,Business
+f23cd007-6a56-4c0d-bfde-3f2eb08df912,2023-03-05,67,M,Scotland,Premium
+81d135d4-a2e2-4490-8025-42db1075bd0e,2023-07-13,26,M,London,Free
+8e4d5aee-da56-43a4-9d39-da8dab153bb1,2023-02-10,43,Other,North West,Premium
+aaf8a030-b3b7-479a-a62e-00ec08c041b3,2023-10-10,19,Other,Wales,Free
+45534b52-ef77-457e-b084-0b7c2560d9e9,2023-05-31,37,M,South East,Business
+cfed6ce6-0153-476b-aed7-b80cc1019f4c,2023-11-18,45,Other,Scotland,Business
+f95d961b-7a6f-4dbb-b22d-636962028e62,2023-11-13,64,M,Wales,Free
+f6c40bcb-c791-4f4f-b113-0c226c64f08b,2023-07-05,24,M,South East,Business
+52927210-fc5b-46b4-bb89-7e01c8f5fd76,2023-10-23,61,F,South East,Premium
+dda9ef5a-458d-46b7-963e-3bc9b44bd270,2023-04-09,25,Other,London,Free
+099adf95-da0b-42cf-9f52-9ded33216ea4,2023-12-27,64,M,North West,Business
+c30a4fee-889a-483b-9a89-771c8e03605a,2023-02-05,52,M,North West,Free
+5f801523-89dc-4780-9df7-57eae61a6d33,2023-01-24,31,Other,Wales,Premium
+42b7eb9d-89e0-4c73-969f-c2d266e13ae2,2023-12-05,34,F,North West,Premium
+8ab6f095-2843-42e2-b0ba-020c4b3e8ab2,2023-04-27,53,F,Scotland,Business
+ff888699-b956-4f9e-816b-ca590ffd6371,2023-05-29,67,M,North West,Premium
+0db1effe-7591-4c79-916f-3296986dba5c,2023-02-10,57,Other,Wales,Free
+1fa4fed9-94bd-4f64-bb2e-6b6bba526d2c,2023-04-30,21,F,North West,Premium
+0994803a-2cca-4a7f-9ff1-49fe855c94c4,2023-02-21,19,Other,Scotland,Free
+1a3a6584-3881-4f4f-9463-7778a46f0481,2023-07-14,23,Other,London,Free
+4233607c-0979-4a3d-8f0b-2a403db733b7,2023-05-23,59,M,Wales,Premium
+fec04489-3a7e-4701-80c5-766776c41dda,2023-08-21,21,F,London,Business
+c37b898e-a5a8-4f37-a994-d2e541130907,2023-11-22,46,M,London,Premium
+c99e2e83-b062-462f-9093-563af70bda42,2023-07-06,35,F,London,Free
+e46653cc-6c33-459b-8c7f-2ff4f3e6fe5a,2023-03-25,43,F,South East,Free
+0d7d68c9-e4df-4a33-bdb4-51ace99d6f4f,2023-07-09,61,F,South East,Premium
+17c6f93f-e169-4c24-9992-3a65d10d3af9,2023-07-01,51,F,London,Business
+8eeac281-0bf4-4d55-9438-c1b06f73e990,2023-04-18,27,F,Wales,Business
+c6da6f82-0681-453d-af8c-4ba7cefbf96d,2023-12-10,53,Other,Scotland,Free
+67771868-a0d8-436a-b200-5e99a3c4933c,2023-05-17,31,M,Scotland,Free
+e43944c2-da56-4056-83fa-e082eb2603e8,2023-12-26,48,Other,North West,Business
+b249ad9c-d249-4825-a026-d4e112f5d2ad,2023-12-16,65,F,Wales,Premium
+0cf22333-b7d9-45ac-b33c-07e8d614ca37,2023-11-28,32,M,South East,Free
+e86af8d2-762c-4947-a8aa-3b826ba788b3,2023-02-06,25,F,London,Free
+f815364e-e007-4427-b4d7-bfba5b325307,2023-11-08,31,M,North West,Business
+0acc8eb1-7064-43d4-bdf9-8164f5b9b046,2023-11-22,40,Other,Scotland,Premium
+167f1806-b5cf-4132-a2a2-557edc8a9998,2023-03-29,57,M,South East,Business
+769f33d8-c00d-48cb-901c-c8fb49ff2c54,2023-10-01,38,M,South East,Premium
+ea6fb0f7-21ac-419b-886e-d83a5c296076,2023-05-06,33,M,London,Premium
+b91eb521-6ac5-47ff-bbd7-dc1cd5149c0c,2023-03-25,62,M,Scotland,Premium
+0287a9ee-a04c-4d65-96aa-ca5c411ab84a,2023-08-25,35,M,Wales,Free
+947eab59-0103-4929-ac15-ecb2b82e30e9,2023-07-14,64,F,South East,Business
+128a63d2-8ce2-47dc-8280-e40fc31ddda7,2023-05-19,41,M,London,Business
+0a108a8d-6c7e-4393-a5d5-0e3825c33222,2023-11-24,43,M,Wales,Premium
+488ce3c6-3e54-4518-b580-254949fd7fd6,2023-12-19,42,Other,Scotland,Free
+58cc783c-e7c5-4dc2-8716-642f10168b1f,2023-10-13,62,M,South East,Free
+61ad94c8-6a18-4b1c-93d8-10e9acc13d24,2023-04-23,58,Other,Wales,Business
+e78f4555-2d2b-428f-9c2b-93884aef0dfe,2023-12-17,46,F,Wales,Free
+b4b35f99-0ba3-4bcd-a901-12806270b18a,2023-06-16,32,M,Wales,Free
+23f28c59-9a71-4cf6-b8c2-2744b7138e30,2023-01-29,62,Other,South East,Premium
+3165443c-b2b9-4219-84d8-95ca5e72e91e,2023-04-28,18,Other,South East,Free
+0ae4049b-aa39-46ec-9469-7e7659e2cb63,2023-01-17,42,F,North West,Premium
+7190e124-10c6-4444-bd14-74434bbfc61c,2023-06-11,24,M,Scotland,Business
+fae1522f-8922-4fa4-b93f-10b30e440101,2023-07-25,26,M,London,Free
+b58dfdac-776d-45a8-a0fd-a592b38b1da8,2023-05-18,41,Other,Wales,Business
+75391525-375c-4a6e-9935-8ba83c44d1f6,2023-02-03,18,M,North West,Business
+49cf1c24-20a2-440c-97f6-44d9c353e95f,2023-04-19,61,Other,London,Free
+7423a730-c902-487f-8732-fe676e6a1bd1,2023-10-18,25,M,North West,Free
+3710087b-ccd3-42b0-a065-257c8520f222,2023-06-11,41,Other,South East,Business
+3dba1607-996c-46b6-9568-da26b4338b25,2023-04-19,28,M,Wales,Free
+bb70b845-e2fb-417f-a1ed-4d2ffc95df8a,2023-12-02,68,F,London,Premium
+e12bd2c6-b899-4333-b124-4092a8a1277b,2023-09-13,34,M,London,Premium
+b833ba14-c993-4e95-b7cb-9428978426b1,2023-07-22,25,M,London,Free
+4050c2c3-54de-4a8c-92f6-1d3daf2e73f6,2023-11-26,52,F,London,Business
+9a3970a8-c5e1-4782-a90b-32479725071d,2023-08-23,52,M,London,Free
+579dd5dd-4bc7-48cc-8e56-afd590fce178,2023-03-15,50,F,North West,Free
+3ad98fc5-608a-498b-9e8f-032824bfe75a,2023-05-16,22,M,Wales,Business
+5bd9598c-9014-47be-acc4-7a5b7ccf981b,2023-03-13,59,Other,South East,Business
+091af577-b7c0-49ad-8dc3-5b67b58221b5,2023-05-07,56,Other,South East,Premium
+049e0d3d-529e-4af6-b457-fe534932938f,2023-10-15,58,M,South East,Business
+cab26628-ce35-42eb-bc69-79da9ccf1aa0,2023-10-03,45,M,South East,Premium
+96b3f73c-627e-4cac-a062-883d0e01ab21,2023-05-15,24,M,North West,Business
+7e49f965-ec87-4138-b26b-86b4c5802fbe,2023-10-27,26,Other,Scotland,Free
+85d8a3f8-3db4-4b35-adf8-62561cbfb3c0,2023-08-08,25,M,Wales,Premium
+94acfcee-13de-418e-a9ff-c0e4eab72ade,2023-10-26,29,Other,London,Premium
+f60d460e-6511-4f1a-bdc7-5728163264dd,2023-07-24,51,F,Scotland,Premium
+33afe775-cb8f-406f-a7d1-7c8a311bfdfd,2023-07-05,50,Other,South East,Free
+e64ce0ea-a494-43c4-9f4c-f368f55ec413,2023-04-23,65,Other,Scotland,Free
+c102f343-feec-469e-ac0b-4bf722d7c6ee,2023-03-12,40,F,Wales,Free
+750153d9-7056-4219-a037-4e4d0a75056f,2023-09-18,41,Other,London,Free
+cd55ed4d-a2c3-436f-98bc-6da6bdcccd7c,2023-09-10,54,M,London,Free
+d44274f1-203b-435d-a4d1-ddbd1494cac5,2023-02-16,52,M,Wales,Premium
+82e1c0a8-d53c-4aa6-8528-f7b00b635030,2023-01-25,61,Other,Wales,Free
+0a1ee921-0a29-4c89-8047-f139f2ab4b2a,2023-02-26,57,M,South East,Premium
+b2248a5f-226b-4c15-95b0-2b7826018f74,2023-03-20,39,Other,London,Free
+dccf8899-e005-4e5f-abce-83582aee3460,2023-11-18,44,M,Scotland,Business
+f17d87c0-c59e-4615-8366-4d25ff6b057c,2023-03-23,52,M,North West,Premium
+7633a38b-dfca-4730-a50e-30110a619989,2023-12-15,18,Other,North West,Business
+8b0f9bd4-30fd-42ed-866f-4ec2d842dac3,2023-08-05,52,M,Wales,Premium
+60429018-6c67-434d-aac8-8c023be3d23a,2023-11-02,54,Other,South East,Business
+a3a97ba5-5e33-4421-8025-268dc6bfcd14,2023-02-02,64,M,North West,Free
+df562e1c-f0dd-4d51-ad97-b0a3b6f9a550,2023-07-17,31,M,London,Free
+f155465a-44eb-4db1-a5cf-fcfc2cc44484,2023-07-15,20,F,Wales,Free
+6a7eb539-dbaa-4698-a389-4db00485be67,2023-11-02,18,F,Scotland,Premium
+1768a715-4738-4436-b72d-32e017ec132f,2023-08-28,22,Other,Wales,Business
+73e7ea79-0504-4729-b5f5-1ac889a98486,2023-09-28,43,F,Scotland,Free
+ffc99be4-2d20-4eaf-b787-bc69e7387232,2023-05-09,31,Other,Wales,Business
+9ed98b55-134a-42d6-9ff2-e0be5c01a824,2023-10-11,56,F,Wales,Business
+a21d2207-9bef-420c-8112-4eb399874b93,2023-01-06,44,M,Wales,Free
+6aca10de-18d5-4cee-b110-b7075914ecc5,2023-12-15,26,Other,Scotland,Free
+64eaecfb-0466-4638-9886-103ffcb740ed,2023-02-28,32,Other,Scotland,Business
+086d0297-47f7-433b-9382-8158d453abb5,2023-12-16,32,M,Wales,Free
+0912546f-162a-45e8-807f-6dff6d2e3135,2023-10-02,43,Other,North West,Free
+673700c1-f66d-483a-a0da-ab25790052f3,2023-05-17,59,Other,South East,Free
+8f4db454-b1ec-458b-8d06-aa522b1616cd,2023-11-25,30,F,South East,Premium
+3910ee2e-8293-4328-ad64-bd9adf66a043,2023-06-24,68,Other,South East,Business
+5ced339b-e5dc-4c06-bba8-5abade567e16,2023-02-27,49,M,Scotland,Business
+02b25e1c-254f-4cee-a523-8028b476baca,2023-05-31,56,F,Scotland,Premium
+54b7a578-2bed-4fe9-9ee9-cd342e7997bb,2023-08-11,66,F,North West,Business
+24bb3971-9e38-48ae-9b42-9f53a449cc4b,2023-03-22,69,M,South East,Free
+29a7652c-985b-4627-a9ef-647e81d4d7c7,2023-08-21,49,M,South East,Business
+81c42e62-0477-4224-8afe-9a49950a229d,2023-01-02,21,F,Wales,Free
+436c7271-4af5-4646-8575-82287c013bed,2023-05-15,47,Other,Scotland,Premium
+93a15283-3468-4f78-9b5f-6c343803a54f,2023-09-14,54,F,South East,Free
+3e3ef7e6-9010-4bc7-8093-bee13c174495,2023-04-02,40,M,North West,Business
+f109e130-9e3d-482b-80ab-112bc0bac3be,2023-09-17,56,F,North West,Business
+6ae1c525-f668-45b4-95e6-a3fc6ec9e341,2023-02-24,62,M,South East,Business
+e8a74ab0-fef0-4125-bcce-37b358ef5c14,2023-11-17,32,F,Scotland,Premium
+d6cb7cfd-0cc0-439a-a36f-7ce2960febde,2023-06-02,60,Other,North West,Premium
+ed28b7fc-35e3-4fe8-bf6a-0ad871495096,2023-11-24,46,F,Wales,Business
+50441573-ef1d-41ab-9b23-4881ceb48745,2023-09-17,53,F,North West,Free
+f030c0a8-1c1f-4c59-ac41-3a8ec4e8fa95,2023-11-08,30,M,London,Premium
+7783d7a3-9053-4b5c-817e-eb774503a840,2023-04-12,49,M,London,Business
+59550c46-476f-4052-9ffe-46a3874804ef,2023-03-20,24,M,Scotland,Business
+e349bb99-413b-4992-8ea2-4a6b7c9ca2f8,2023-07-11,68,F,South East,Premium
+307714de-b9de-4543-a999-bd9192265b9e,2023-03-24,39,Other,Scotland,Premium
+cd0b94a3-ddf4-415a-930b-75bd7b14049a,2023-10-04,45,M,Scotland,Premium
+2099de82-e67b-433e-844e-b3e593815b5c,2023-09-29,19,M,Scotland,Free
+f9d91239-b61c-491b-a810-439192fb8cb2,2023-01-01,59,F,Scotland,Free
+ca4dd150-5bc2-4ca6-bd34-f1c04e5a87af,2023-11-03,62,M,Wales,Business
+4f6e18e8-ad36-40fb-9421-2a18f013aa9a,2023-06-15,23,Other,Wales,Premium
+65a2a27f-2394-4e62-a506-fe6b6f2cd4da,2023-09-08,45,Other,North West,Free
+2659aba5-816d-4582-aff3-ff788a8c4cc3,2023-01-10,45,M,London,Premium
+1de113c8-3e18-4d7f-b9e6-4025bc05571e,2023-02-27,61,M,Scotland,Business
+aee8efc9-9895-43cc-8288-ad942bcd3738,2023-07-05,61,F,North West,Free
+ff1294b2-ba61-462b-ae55-d108c5d28c8d,2023-06-07,37,Other,London,Free
+35c8edff-b732-49e5-927a-230e7eebaa44,2023-05-03,47,Other,South East,Free
+1e8e390b-51f3-4e04-9949-55cdd514e5ea,2023-01-30,28,M,Wales,Business
+b9c85c8c-af88-4a43-a6fe-13817b802fb3,2023-05-04,45,F,London,Premium
+81777a4b-099e-48fb-8466-9d9ff0d0f037,2023-10-18,42,Other,South East,Free
+70f76124-adba-4d38-8141-226fb219a6cc,2023-02-10,56,Other,London,Business
+38bc5f4a-9da9-4c42-9dc9-d7828dfccebe,2023-02-13,50,F,Wales,Premium
+155e685c-c629-4761-b891-e31aea65df89,2023-09-06,18,F,Wales,Business
+1dad97a3-14be-456f-a828-2c472916a32f,2023-02-05,44,Other,North West,Premium
+e315bb98-ec89-4a50-b259-824d457ee0e8,2023-09-30,69,Other,Scotland,Business
+276f006f-a0cc-4fff-b4d9-cf49891fd57f,2023-03-06,30,F,London,Premium
+a3069a9b-56cd-4ded-9c4e-39cdd6f87630,2023-03-07,58,Other,London,Free
+a71f1381-6afb-4d0a-b1b5-b343b19d7239,2023-12-04,20,M,South East,Premium
+f02b18d5-7d1f-4ad9-9286-2181b455cd2a,2023-09-01,56,M,Wales,Business
+5f699a7e-d975-4983-aba5-d74f092f3eff,2023-10-09,23,F,London,Business
+50dc8e6a-66be-40c3-b080-3172418fdebb,2023-03-26,25,F,Wales,Premium
+1887357c-4e0f-4a4a-bc54-0a8166003e66,2023-05-16,44,F,London,Free
+1819803e-63cc-4fa1-bcdc-7a1b72a1226e,2023-09-28,26,M,North West,Free
+4b68b986-4daf-4b5d-8448-f2cd7f278f46,2023-11-07,54,Other,Scotland,Premium
+e3d384a2-375f-4518-ae17-f9195934c27a,2023-08-05,50,M,London,Premium
+14ed53b9-6ae5-4de3-a91d-f36c6c23eeef,2023-04-19,68,Other,Wales,Business
+c99061eb-9b69-4e5f-b218-c59228057278,2023-10-04,59,M,North West,Free
+3dcbe47a-dd06-49ad-8ee3-ce8fa38b2d23,2023-12-20,61,Other,London,Premium
+71a065d4-9e66-4e35-b70d-4f2790a07327,2023-04-13,41,M,South East,Free
+fb7d8eb6-3f56-4240-8e58-21c29c8820f1,2023-06-09,32,F,Scotland,Premium
+5ce80007-04af-4b38-bb8f-a6efa151f05b,2023-07-24,49,M,London,Premium
+bbcd0c2d-4552-41db-9e76-20a1655d028f,2023-12-10,49,Other,North West,Free
+516cb53a-e872-4224-bada-0065f61fed41,2023-11-29,41,M,South East,Premium
+99616492-cbe7-402a-95fb-f633fac4ec4b,2023-07-11,58,M,North West,Premium
+aa9a5151-3bac-4c1d-90e7-d1c3fa1b5c00,2023-08-13,69,M,North West,Business
+da3e6864-e4d6-444f-8ba8-e59d61259065,2023-09-22,66,F,South East,Premium
+454b4af8-517f-4692-8d8e-10eb9a3d8297,2023-08-20,66,M,North West,Premium
+29d15aba-b8ca-4ab6-a53f-fd0d9fb47de0,2023-03-03,69,F,South East,Premium
+d0821df1-d7b9-4dbe-8076-07970ee35c66,2023-05-07,29,F,London,Business
+559537c3-2ba2-4112-9790-9ea894870380,2023-04-26,56,M,South East,Free
+f509b7f5-df07-4b29-b36f-6443f313dd26,2023-02-02,19,M,South East,Business
+3a25e245-3c11-403c-9430-a2fa71f51379,2023-06-23,20,M,Scotland,Business
+de4c7a56-f9a5-4202-b5c2-c0d4cf4c820d,2023-01-11,66,Other,South East,Free
+0c62ef3a-cd71-4a93-b3e3-1a5719b1f6e9,2023-10-29,54,M,South East,Business
+a71bdc38-49db-4985-8376-2e39ec0170db,2023-10-11,66,F,London,Free
+e979067a-0623-4c53-afc1-038c8a688649,2023-04-28,34,M,Scotland,Business
+9f9beb79-821e-4118-8c32-9dc65d663770,2023-10-29,66,Other,Wales,Free
+4844dbc4-832c-4d11-a60a-62b1f2ddeac3,2023-04-23,19,M,London,Premium
+471e2777-a784-48cd-9534-d9e394cee980,2023-01-04,19,Other,London,Business
+39a37987-5875-4daa-9b05-843c04faf920,2023-02-06,45,Other,Wales,Business
+a26781e8-3fdc-4f2f-b43f-15b898550857,2023-12-29,40,M,South East,Business
+28b7afdf-188a-4493-9c2b-1799c2cf6e42,2023-11-20,54,F,North West,Business
+32552244-6081-4286-ac24-e964ff9f7638,2023-01-31,49,Other,Scotland,Premium
+e5f1f4a1-d9fa-43df-ad16-ad2ee679fa1c,2023-04-28,50,M,North West,Business
+d10b40f5-5777-445e-b4f8-2452a3fa11af,2023-02-04,18,M,Wales,Premium
+3b7d8deb-29cf-4aa4-b5f3-cfec2f9ed6f7,2023-01-17,36,F,London,Premium
+ad802c2a-d351-410e-b9f4-aee0ed770332,2023-06-19,19,Other,London,Premium
+528b49cd-7d83-49be-beea-2382b54d92da,2023-02-06,61,Other,Scotland,Premium
+ee117e6d-e1ff-41a5-9346-58e514ac002e,2023-09-21,43,M,London,Free
+3e549daf-84c8-4071-81bb-dcd71c17906f,2023-05-02,49,M,London,Free
+9f2ebdbc-1e81-48db-bfed-b90d3fd9e481,2023-05-23,23,F,Scotland,Business
+fe93466a-6dd0-43c2-9f72-41558ae90292,2023-12-09,49,F,Scotland,Free
+32ef7b70-df54-4324-89ca-20aced16fef6,2023-09-06,21,Other,Wales,Free
+71d59aea-911c-446a-9b94-19f7ef7c7aaf,2023-04-20,28,Other,London,Business
+1add3ca1-6916-4312-86ee-1ab54b35b4db,2023-10-04,34,M,London,Business
+e4f335f8-ce75-48a7-897e-135d102029a3,2023-03-09,55,Other,Wales,Business
+c11a6604-a6c4-4158-873c-60c59b901be8,2023-10-20,41,F,South East,Free
+c936a2fe-b2ea-402f-8bbb-58f91156c3d3,2023-10-23,22,F,South East,Free
+4a196101-1fe2-41e7-86c7-5a53454c0dad,2023-08-31,69,M,South East,Business
+cf7ee6b4-2c1c-46a7-8808-f186f2f91f65,2023-05-05,51,F,Wales,Premium
+12a228c5-f019-4dc0-a1fb-4c06ba98c788,2023-08-31,23,F,London,Business
+02cee621-5b1b-4e36-8c61-0c39d5d144da,2023-07-28,39,F,Wales,Premium
+4d552037-746e-4142-a2c3-4b408369e9f9,2023-04-08,28,F,Wales,Premium
+87849327-0bd4-4993-9e4f-85b9d741105f,2023-02-18,65,M,South East,Business
+88612f24-632d-44f6-90e3-f6e88ed0e177,2023-02-19,33,M,North West,Business
+476f9367-587e-4182-8102-a3ca5443d83c,2023-12-04,50,Other,London,Business
+6676aca8-6740-42b0-81e4-358c6f7cf008,2023-08-09,26,F,South East,Free
+403540b8-37a4-4546-b62a-d75b0110e574,2023-07-01,23,Other,North West,Premium
+edf90d3b-a609-46d7-8365-b57253bd35d1,2023-08-05,33,M,North West,Free
+9c0ebcaa-eb9a-4747-b1d6-2b062e342fbf,2023-07-30,46,M,Scotland,Free
+1c175879-5bd1-44c0-bf91-57c5c7b60ce0,2023-08-28,20,M,London,Business
+65a4d4be-3141-46e0-8eff-d60a54e23b0a,2023-01-28,37,M,North West,Free
+75dfc50d-715a-457e-8172-854d9d937909,2023-12-11,53,M,South East,Business
+c4ae513d-03e0-4c7e-9300-cac44de50dce,2023-12-01,36,M,Scotland,Premium
+20d834a4-f7cd-47f0-b951-84af20b8f1f0,2023-11-27,43,M,London,Business
+99e37326-2ac7-4d26-bc56-2946d5cd7681,2023-02-20,20,F,Wales,Free
+20298690-cef9-42d8-8284-e5413a7c1c5a,2023-02-01,36,Other,South East,Free
+2b5489c5-93ae-48cc-8cea-c2d9b72cd903,2023-07-26,37,M,North West,Business
+e91d2bfb-1609-4290-8934-f0a30ccda5a4,2023-06-23,49,F,North West,Business
+c6c8ea66-5b11-430d-a1b8-e5c54ad16af4,2023-02-25,24,F,South East,Free
+a9baa1e5-bb60-4538-8dd6-5e04a298101e,2023-05-08,69,Other,North West,Premium
+00207988-da3d-43f5-a298-4c2a35862b7c,2023-04-09,58,M,Scotland,Premium
+3d1ba46b-abb1-4313-b3c4-69490e84cde9,2023-04-08,50,Other,London,Business
+5a31878a-ed1e-428e-99f4-8cbfc4fba08c,2023-10-02,57,M,Scotland,Premium
+c2d10d8d-d41a-463b-aa64-22ce6262af58,2023-08-18,56,F,North West,Free
+fb6a0d6c-cd8d-4a56-bc95-83b79e4233e0,2023-03-13,35,F,Wales,Business
+7321954e-13a8-4736-8720-1613e9d5ab96,2023-08-05,57,F,London,Free
+aa99b759-0f40-492a-be07-293bcb0fd92f,2023-04-04,18,F,London,Free
+d7bd7d87-e85e-4c31-91b4-17c2e0378003,2023-05-23,28,Other,South East,Premium
+e002d05c-2b86-4383-bc82-11508ee3f286,2023-08-25,45,M,South East,Business
+a42fcfba-edf9-4493-bf56-44bf71f1b0b7,2023-05-08,42,M,Wales,Business
+4fcd5b76-44f0-46c4-894e-9e1ccb857ceb,2023-02-08,67,Other,London,Premium
+6c80b943-be98-4ac1-986f-db7316633f76,2023-08-15,40,M,Wales,Free
+d676e249-7138-42d0-9b9c-a0ba9344cb61,2023-10-09,48,F,South East,Free
+fdcce0b2-a420-4098-a725-a3adecad54e3,2023-02-20,47,M,South East,Free
+bdbe44aa-6b3a-44b5-b751-d09e75fc6987,2023-01-26,59,F,London,Free
+762ebcaa-de76-415f-9289-a0d280d4270d,2023-11-30,52,Other,Scotland,Business
+3f0bab7f-609d-452a-a2bd-cf866a487247,2023-10-04,24,M,North West,Business
+d7c9ceaf-d609-45b7-836b-7c0ec294dfb1,2023-01-08,33,Other,South East,Premium
+946c295d-a009-4a3e-9d19-8fcea4cba1ba,2023-02-17,43,M,South East,Premium
+f18b2bfe-6b65-4118-827a-ad2b521a81a1,2023-05-02,65,F,Scotland,Business
+86f31468-89f1-4065-86f2-661ec3bad8a8,2023-03-27,69,Other,Scotland,Business
+ad40abeb-ab3a-4ded-925c-5e8423ba31bd,2023-07-28,66,M,Wales,Free
+3cc9d344-42ca-4fed-b3f8-affeefe79732,2023-09-06,19,F,Wales,Free
+36eee2e6-2404-4892-a20f-08a6c682133e,2023-09-04,18,Other,North West,Premium
+126f2367-75d7-4d55-b970-4eaa3916c31e,2023-04-20,65,Other,North West,Business
+6e28af27-b8ff-49e2-b13e-c5401115f563,2023-07-25,29,M,London,Premium
+dadd3287-0739-488d-9099-fb21ec1bf246,2023-01-31,22,M,Wales,Business
+c6cfccd2-eeb3-4316-a55e-9ccc34ee2a72,2023-03-26,54,M,South East,Free
+c36a63ef-5f73-451f-b477-ac2283c552b6,2023-07-14,49,F,Wales,Premium
+fcb8903f-ffa8-4e13-a9ee-7a104bb1a141,2023-01-02,26,M,South East,Premium
+f6b005ea-3260-4f65-bf0c-433d98c3bb92,2023-07-19,58,Other,Scotland,Business
+085084bc-d2ed-4e35-8374-526db52e8e9d,2023-05-16,52,Other,Wales,Free
+46e7fd64-0624-4580-842c-ea455da1842d,2023-08-21,36,M,Scotland,Premium
+0f1d9483-0f03-48d0-b6bd-16ffe0648543,2023-05-27,65,M,North West,Free
+127e9581-dabb-414e-a8c4-2d27797edf3c,2023-08-05,33,Other,North West,Premium
+6186415a-a8fb-4e35-bf1a-52715b6d5b3e,2023-12-23,20,F,London,Free
+304bbd53-4431-4f1c-9d1c-941202e89c2e,2023-10-12,37,M,Wales,Business
+dcf69da4-8010-493f-8949-ecc3ea73144e,2023-12-05,41,M,Scotland,Premium
+c9a94f01-ab03-4c5c-acd5-a742677834fa,2023-09-07,50,Other,South East,Premium
+515959b9-db6f-447a-bb8d-9a141e5da95b,2023-03-21,41,M,North West,Free
+40531000-4408-4b2e-9383-e1cb8e8ad1e9,2023-04-08,69,F,North West,Free
+d5f80f81-cdfc-471c-8cd1-7189ec782753,2023-06-01,28,Other,South East,Premium
+61c00ac2-f659-45f0-b8c4-b92176aad708,2023-04-22,66,M,Scotland,Business
+37dd21d9-af60-4ee1-89c9-76396cae0978,2023-01-30,25,Other,Scotland,Free
+8520d380-53df-4359-88fb-16cd7228451d,2023-10-24,53,M,Wales,Free
+1d21c88f-dec7-4856-8cdd-ad41a7378e39,2023-10-05,55,M,Wales,Free
+223199b7-fe9b-4867-8cfb-99797a14c4e0,2023-02-01,57,M,London,Premium
+f4aebad9-1a1f-45a2-98ef-90b0d189e7b3,2023-06-10,37,F,North West,Premium
+4cf39ed1-2316-4a4d-bab2-54fe18cb3ced,2023-01-30,52,F,Wales,Premium
+084c5475-09b3-45f6-9759-ede294dab051,2023-01-26,65,Other,Scotland,Premium
+a876fee4-c297-4f17-8fde-5deb667447c0,2023-10-27,42,M,South East,Business
+4a982fc6-0947-41e6-b0af-51b81b3a0a1f,2023-09-02,52,M,Scotland,Business
+39586d83-4bbe-4e85-a9a7-2aa45c348c65,2023-09-15,42,F,North West,Premium
+8efc52d7-5fb9-45f9-a18b-c8419b9586ff,2023-09-29,46,M,Scotland,Business
+34318e67-2eb4-4552-a551-41309330d8d9,2023-03-22,35,F,London,Free
+1555f578-aa30-45ad-8afa-5b114723aebe,2023-01-30,63,M,North West,Free
+1a6576a6-7b28-40ff-b2d9-74ed24a7fe5c,2023-09-18,35,Other,South East,Free
+5d7faa5c-b0a4-4321-b14a-1aa3b133ca59,2023-02-11,19,M,London,Premium
+46a2fa86-4dd5-451e-a10c-52bc2a052ee0,2023-04-06,52,M,North West,Free
+5b992c6f-8a90-411c-90a5-7cca60394c59,2023-02-05,33,F,South East,Business
+a1a79fce-e342-402e-876a-d0b12377e3e1,2023-11-01,58,M,London,Premium
+44aaafd7-ca3c-4dd6-9ae0-52f572f60952,2023-02-04,53,M,London,Business
+7d6f5426-d97b-42ef-9eaa-c043c6bb77da,2023-12-12,50,F,North West,Free
+95dc007d-1bdd-4912-a216-a51d17929e6f,2023-05-01,21,Other,Wales,Free
+2fddd608-4438-4998-b590-ec1418e4c90e,2023-07-26,50,Other,London,Free
+dbce4ced-75c3-4c85-ab38-f36c3c312db4,2023-03-03,31,F,London,Premium
+b301cec9-81d5-4322-bc63-f987bb4810eb,2023-10-19,38,F,South East,Business
+88a2e7c7-abf8-4af7-ba48-bbe9f7f5b473,2023-05-07,65,F,Scotland,Premium
+ff29aaab-cf57-4265-9a76-80446497be18,2023-10-24,37,F,North West,Premium
+83dd5108-98bb-41a9-ad1b-834225f05178,2023-11-01,25,F,North West,Free
+4fdd6850-cef6-41bf-b706-82aadbe7f010,2023-01-21,24,Other,Wales,Premium
+3e1762ad-7f04-4ca5-af8d-5e258b0c24d5,2023-11-14,20,Other,Wales,Premium
+97c662b2-4df6-46bc-ad30-c5ba23a5303a,2023-02-11,34,F,North West,Free
+64e34b56-7bad-40ba-bed8-b6a0ed359958,2023-08-03,50,M,Wales,Premium
+2a0ae064-2072-4808-8582-0f24efd40bae,2023-12-03,65,F,South East,Free
+0af77e4a-77d4-4ffe-a1bb-cd72b56cd488,2023-10-26,29,M,North West,Free
+33f901e1-2cd7-449a-80ca-74f1b44d739c,2023-10-17,68,F,Wales,Free
+354a8a72-0397-49b3-beeb-0277983cfa38,2023-09-25,39,F,North West,Free
+21061613-7c0a-4baa-ac77-89491153ef5f,2023-06-11,39,Other,Scotland,Premium
+e1dfa02b-0698-4b30-9e95-bc335064bdbf,2023-05-14,63,M,London,Free
+1e7a2475-0886-4039-855d-5d1632aad0f4,2023-04-15,47,M,North West,Free
+499c1c03-8f34-48b3-8844-53f1a6eb2970,2023-12-09,55,Other,London,Premium
+eb8633aa-026a-4cbc-b91b-a77d0bdc2fee,2023-06-10,55,Other,Wales,Premium
+0670c849-260d-4bd0-be9f-21f192959e68,2023-05-03,62,Other,London,Business
+de88308b-1d55-41a1-8d51-cc938d50bfde,2023-05-16,68,Other,North West,Premium
+1f0e4c7b-7398-4384-be63-c5565475f0ea,2023-07-22,25,M,Scotland,Premium
+f0b1e60e-42eb-4915-9106-27ac5bd6d0a1,2023-03-09,44,M,Wales,Business
+2988a873-6f28-441e-bafb-f2a096709788,2023-12-10,44,F,North West,Premium
+4e5e5d9e-c0b1-415f-87ed-9ea495065c24,2023-11-27,51,F,Wales,Premium
+50e7cd0e-61a8-4c6c-8309-d44d67c16bfe,2023-06-03,38,Other,South East,Premium
+41003395-c4a8-404b-b70c-cf10084c1e98,2023-08-23,47,Other,London,Premium
+195ba982-33aa-472d-9b48-1b97aa389d87,2023-06-11,50,Other,South East,Business
+faf24cd8-178b-46c7-bbee-829fa20ee82a,2023-02-07,45,F,North West,Premium
+bb95e232-1e36-4959-81e3-1c4b81384eab,2023-01-05,64,F,Scotland,Premium
+6b9a1019-0a9c-4f9b-ba4f-98a8562e5fde,2023-08-23,50,F,Wales,Business
+d7ff7103-3e93-40d6-9fdd-bec39c09ab56,2023-11-15,22,F,London,Free
+d9daa547-c8f2-4f76-ae48-85d207cfc049,2023-10-16,65,F,Wales,Business
+ee441ad9-509c-46ae-8847-57ff9fd59c8c,2023-02-21,36,F,North West,Free
+42fc3c58-ba43-4e75-9282-3b4889f6e86a,2023-02-07,21,F,Wales,Business
+62f2eb7c-f963-438d-8043-bda6c0263875,2023-10-03,52,Other,London,Business
+abdf5cea-e136-4f62-9942-42c18eef20dc,2023-04-20,66,Other,North West,Premium
+bc553463-d6ff-43ee-ab2c-fbf7a8f72373,2023-09-17,34,Other,Wales,Free
+54478c5e-dcd4-4aa6-9e30-2f21dde0959a,2023-05-16,61,Other,Scotland,Premium
+e8199bae-23b5-4f3c-9c62-3fe7e898ea92,2023-03-09,45,F,North West,Free
+02cad84b-4cbf-482b-8eba-7910ae2e115a,2023-06-28,47,M,North West,Business
+9e0f5dd8-d8a7-4bae-9e5d-ac1103024007,2023-02-05,46,F,Scotland,Business
+866f081a-4d85-4f74-b56d-026c8184efd0,2023-05-06,63,M,South East,Free
+4c5a2f32-f031-426c-8dc1-996329bc5abe,2023-07-09,23,Other,London,Premium
+c4be35d2-66c4-4069-aefe-7bc6a03a821b,2023-05-26,52,F,South East,Premium
+3c762ab2-31c3-45b5-a827-e1a617899958,2023-03-22,58,Other,Wales,Premium
+311ef060-6e50-4c86-96b0-96514a80b3a6,2023-08-13,54,F,Scotland,Premium
+ef36fa9e-b2a0-4a81-ac28-2e9fd90b50e6,2023-10-06,41,Other,South East,Business
+cbd11ab7-fe0d-4f7d-9430-bb28a8d284f1,2023-12-27,46,M,North West,Business
+ce3547be-7082-43ce-87e9-cdd80dd8f2fb,2023-06-04,66,M,Wales,Business
+81998f73-dc20-4c69-ba57-d24d40820d84,2023-11-10,63,M,Wales,Business
+b99f797e-2860-4a6a-afe5-20d033756372,2023-12-01,48,F,South East,Business
+a3fcb176-4d9a-40c9-bd91-2233af8ad45c,2023-09-28,52,M,South East,Premium
+0694960c-86c0-4e30-80ec-28425671e497,2023-01-05,50,F,Scotland,Premium
+19c35df9-da66-4e33-b094-a34a3b20be1b,2023-12-08,69,M,London,Premium
+5f431c9e-fe90-4201-bb9c-641f8d1f6dc6,2023-10-11,38,M,South East,Premium
+3760d7ff-efa6-48f8-b285-9d1aa7cd0904,2023-06-03,49,F,South East,Business
+576fa81d-2adb-4ea6-be0f-cb845074a39a,2023-12-06,40,F,North West,Business
+503bc695-e040-462b-9875-afd6f40e8582,2023-02-23,50,M,Wales,Business
+a073185d-33c4-4c4b-8495-f1ade133c90a,2023-03-10,20,F,London,Free
+c42d492b-cf84-4449-84a4-6f9bc67daef6,2023-05-16,35,M,North West,Premium
+a5af5054-dd0e-456c-9a85-f8ea5b1de63b,2023-03-01,42,F,Scotland,Premium
+4ea8463e-a430-47d8-90e5-2f57b0885547,2023-02-24,59,Other,Scotland,Business
+6b0c7013-ee69-4253-9609-467f223ecebf,2023-10-11,48,Other,South East,Premium
+5d16b26b-bb40-4a4e-b903-b75bc3b2b814,2023-03-21,20,Other,South East,Premium
+7aa0c4af-901e-4ce9-82f3-b5b3199725ad,2023-05-20,57,Other,Scotland,Business
+93ba7d93-e334-4de6-8698-b2960ea90409,2023-05-25,63,Other,South East,Free
+cbfefdbc-11d0-4c9e-bc08-9481c96e4440,2023-11-06,41,M,London,Free
+186c600e-22a2-46d4-aed8-ddc0e4cd9c12,2023-04-18,67,Other,South East,Free
+de8c3dbd-5fea-4968-9664-71182d3bee6b,2023-06-25,49,Other,Wales,Business
+426ba4fa-9ace-4edd-805e-b88ac3f8289e,2023-04-15,64,Other,South East,Premium
+b25975a4-5ebd-4668-9e9a-ab1dc31207fb,2023-12-18,39,Other,North West,Business
+996c8852-baab-4b91-b03b-543f89b95a8f,2023-11-21,40,F,London,Business
+d7fea523-7e75-4330-9de9-800f9cfe46d0,2023-05-16,19,M,North West,Premium
+d41a6819-030d-48c9-95e2-f2b0dc1c5c10,2023-09-16,44,Other,North West,Free
+d2129ff8-8e34-4968-a990-c1f74a2af0a5,2023-09-08,59,Other,Wales,Free
+3d9b321d-b2c1-4814-9a7c-1b2581578997,2023-05-09,19,Other,London,Business
+94ebd461-940a-4b21-936d-43ac3475ecf5,2023-01-27,43,M,London,Free
+bdad566c-2d98-42a1-89be-fe124e50afc7,2023-02-17,34,F,London,Business
+3759b6dc-d0bd-4fae-b3b5-021d7d80b436,2023-11-21,57,M,London,Business
+184183ae-b873-42c9-9736-cd4ec70455a1,2023-08-05,50,F,London,Premium
+e001a706-b158-424c-8743-f469e0314cb4,2023-05-22,26,Other,Wales,Premium
+1607f24f-bb58-4522-b81a-97e18ee0352f,2023-01-23,60,Other,South East,Premium
+54d0087d-b357-4a84-8988-0c32cf7bc553,2023-01-02,65,M,North West,Business
+8820655f-afd6-4b9b-977b-c39bd0ea0413,2023-06-20,56,M,London,Premium
+55951a6b-ff57-40ed-a000-5cc993af3218,2023-03-08,46,F,South East,Free
+838a400b-1dde-480b-b1d8-a0b81b53b18c,2023-11-23,59,F,South East,Free
+754d6947-0d5f-44e0-b4db-451b14e530aa,2023-05-15,43,M,North West,Business
+1951f402-4650-4917-a006-d6fb90ed17ab,2023-03-24,52,F,Wales,Business
+4339b71f-4e0d-4ec7-a320-dadb99fbf637,2023-08-15,67,M,Scotland,Premium
+b539ddb8-a374-48b1-9105-65ce4444accb,2023-10-10,42,F,Scotland,Business
+f17065a9-a5e9-4054-aaf0-74006ae50b46,2023-12-28,41,M,South East,Business
+4efbc7ca-f4ed-4c15-bd97-2c85744d1dbc,2023-08-07,30,M,North West,Free
+be13e91b-ee58-4fd6-ae80-fe9ae53d6711,2023-10-15,24,M,Scotland,Free
+352f7418-5c81-441b-ae4b-008caf13eae0,2023-01-05,53,F,South East,Premium
+3df0af43-0115-45ba-b3d8-8732a88a68d6,2023-02-27,62,F,Wales,Business
+de4e3795-7f04-4dcf-b01b-631953764240,2023-02-08,37,F,Scotland,Business
+f8d814b6-46c8-4118-a4c9-29a78e34e93e,2023-12-20,18,M,South East,Free
+b1830c2b-7be8-4448-8561-422c57cbbb6f,2023-03-18,25,F,South East,Business
+a8001f07-a5bb-4fd3-8746-302d870c2757,2023-10-07,63,F,London,Free
+d0c31b54-8948-4f3f-a171-6d33985e2db5,2023-01-19,33,M,Wales,Premium
+721919d4-c57e-40a3-bc0f-f4d9b8579d29,2023-07-09,31,Other,London,Free
+963091b4-acd4-4a6f-9623-5cd4805b8041,2023-10-26,29,M,North West,Business
+4cc07676-27f6-44e2-a022-2a794bd5b345,2023-10-10,68,F,London,Premium
+ac997db4-da03-4f9d-8f92-32c2a20d0039,2023-03-17,40,M,London,Free
+1c74d0fb-4ace-40a1-a8ce-147bf8beddd2,2023-08-09,32,Other,Scotland,Free
+f74802bf-6917-4276-b29f-514e2c43e69b,2023-03-07,45,M,South East,Premium
+517a6395-6bf9-40cd-af05-c9bc5b3ba2c0,2023-01-22,51,F,Wales,Premium
+d016ee83-d2fd-4768-af21-91370b098eae,2023-06-07,19,Other,London,Free
+476ce902-95e8-4817-89d9-7034a28fdffa,2023-07-06,49,F,Wales,Business
+43d8f8b0-4bd2-4db3-bfa8-e091c58f2b53,2023-01-21,40,Other,London,Free
+fd501918-58b3-4d78-92f9-ebc10d455092,2023-07-03,39,Other,North West,Premium
+f40d9c41-799a-4345-be64-e517db5f84ca,2023-04-18,68,M,London,Free
+89cdbf24-b521-465c-9316-a03ec435c8d3,2023-12-16,42,M,Scotland,Premium
+40cf6b0c-816c-43d6-b985-4b1ed5edd2a6,2023-05-08,39,F,South East,Premium
+cfa13661-42e0-4f92-84df-9a7350d1b65d,2023-12-08,39,M,North West,Business
+1029bd1b-57df-49c6-8345-53fc151284df,2023-02-22,66,M,London,Premium
+c9d33854-0d00-4e5b-9616-c1c75ee06509,2023-07-01,69,Other,Wales,Premium
+f9fead34-03aa-4fcc-ab20-3246df86337d,2023-10-14,59,M,North West,Business
+37caaf49-6593-4cb2-9d25-6d6e323b66e9,2023-07-28,23,Other,North West,Premium
+9e4e55b8-da77-4a61-bb1f-24aed38a9f37,2023-11-14,32,Other,London,Business
+97cf5bb3-a0c6-4691-862a-144c7339a731,2023-03-21,60,Other,North West,Business
+54cac78b-1cd2-4b7a-b012-b6b2e2adb653,2023-05-02,54,F,Wales,Premium
+3fda53f6-b99e-443d-9bba-394a51b65ffa,2023-03-25,50,F,North West,Premium
+a0805296-335a-45ca-8504-f9bf67811ce0,2023-04-01,25,F,Wales,Free
+bb62fa05-c850-4b26-a89e-3da03f752247,2023-07-31,61,Other,London,Business
+978db4ba-198d-470b-9014-9b2527075e62,2023-01-13,61,F,South East,Free
+04bd80c5-4dff-4af9-a06e-4e649fab3aa4,2023-04-02,22,F,North West,Premium
+101e02c2-e8e9-4fcf-9e6a-94249052d734,2023-06-20,56,M,South East,Free
+deae79f9-0c1c-48f7-9eaa-b0104ae33a42,2023-07-30,21,F,Wales,Business
+3e628eeb-5712-49e8-8f50-3df4c0cefa9c,2023-12-09,23,F,North West,Free
+fa1050cc-bbf9-4409-97b6-58d9dec6a451,2023-05-08,62,Other,Scotland,Business
+647ba9cc-af44-40f2-8a4c-21aa2cdf6cf4,2023-05-17,49,Other,South East,Premium
+1c16d8fc-f660-4c12-829c-c5db6175b6d8,2023-03-23,69,Other,North West,Premium
+90bb03c1-85ad-488a-b793-53776172d237,2023-12-26,47,Other,South East,Business
+6e4ae58b-0d1f-4e63-9b6d-7be3cb03d7f9,2023-02-25,64,Other,North West,Premium
+1b23ff4a-6d2f-4d44-8103-6696b11421d0,2023-07-15,52,Other,London,Premium
+f1177af0-03c4-4a6e-bfc8-2b39e6c201fe,2023-01-20,57,F,South East,Premium
+e70dd736-e5ad-45ae-b821-769ac81f3e18,2023-08-29,69,Other,Scotland,Premium
+17f31303-96d5-4658-a797-f349d1045c66,2023-04-24,33,Other,Scotland,Business
+4086f94d-cf8e-4106-90b8-33c20dc172cd,2023-04-13,30,M,Wales,Free
+25d3e60f-edcc-4b11-8780-e6eb81d75abc,2023-08-24,67,F,North West,Free
+7a9a31b8-9b0a-4e3b-8f20-f6a09662391a,2023-06-29,59,F,South East,Premium
+c2426a9a-833b-4c90-a442-75ff3e587d03,2023-06-06,47,F,Wales,Free
+fa7a807e-7023-4d17-8d5e-52ea763dd58b,2023-04-27,36,Other,South East,Free
+16b38b3a-d55d-4656-a986-be4b00b8ba89,2023-04-25,34,Other,North West,Premium
+27aeca1e-6ca1-47b7-af3a-dc6b73b28929,2023-01-13,36,Other,Scotland,Premium
+caed1e80-df40-4f65-91af-58b348825aaf,2023-12-04,45,M,London,Free
+6af67ab0-fc1c-4863-be57-7b96c4f6e3ff,2023-04-09,43,Other,Scotland,Business
+c222022e-f0c1-430e-9459-c2a9c87799de,2023-07-24,54,M,Wales,Premium
+2a10bb85-2fa7-4b29-bf3f-74df3b5db165,2023-06-18,43,F,London,Business
+0050555c-4baf-45a9-9c76-91a0593d9da9,2023-05-23,40,Other,Wales,Free
+b6716e60-4c99-4e92-a849-70bfbce18c37,2023-02-05,26,M,North West,Premium
+8f08528b-0d03-4da0-bd11-32419626ed86,2023-05-23,29,M,London,Business
+0dbe61c8-9407-4212-8e9e-dee45d950f0b,2023-06-29,18,Other,Wales,Premium
+33d3821a-aa07-41be-a061-5bedaf99ab67,2023-11-25,18,F,North West,Free
+63fd77b9-5a8b-422f-a327-57158532ca1b,2023-09-18,64,F,Scotland,Business
+ab086e45-6d23-4f3a-ac8f-3d1373e3956f,2023-07-24,51,F,North West,Free
+88f5b7ac-b90c-4bef-89a8-0c8bdd5465d3,2023-12-14,49,M,South East,Free
+791b41e6-640c-4c0d-a8d5-a0f5ee7c2bc2,2023-10-02,65,M,North West,Premium
+0036471c-c2ad-4c44-834c-d7aa0f8d0552,2023-06-19,42,M,North West,Business
+3d9ee783-523c-4644-9abc-16eeadaf9de2,2023-01-15,57,M,South East,Free
+1835613d-e9b2-4766-bf12-035a142cc146,2023-03-01,62,F,Wales,Free
+2fe12b2d-0075-47ef-bf34-473ccb43882f,2023-05-14,18,Other,Wales,Business
