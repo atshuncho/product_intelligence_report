@@ -1,0 +1,731 @@
+session_id,customer_id,login_time,logout_time,features_used,session_channel,session_duration_min
+b9c061c1-48b6-4697-9f18-85acb998f428,155e685c-c629-4761-b891-e31aea65df89,19/01/2024,22/02/2024,"['loan_calc', 'budgeting', 'notifications']",Mobile,48970
+ca913de2-009a-4b11-9f5a-8a5f66c291fd,ef36fa9e-b2a0-4a81-ac28-2e9fd90b50e6,07/02/2024,27/02/2024,"['budgeting', 'savings_pot']",Web,29112
+ab793138-7251-4844-a1cc-16fc11e85f4d,049e0d3d-529e-4af6-b457-fe534932938f,07/03/2024,13/03/2024,['budgeting'],Mobile,7712
+dcd63129-40ab-49ba-adf5-1c75ded8e259,3a4aa2c4-649e-49c2-85b5-6fe3bb256a38,07/03/2024,21/03/2024,"['savings_pot', 'loan_calc']",Web,20027
+02b80485-1dc3-4d48-bc45-be496b3ecff8,9ed98b55-134a-42d6-9ff2-e0be5c01a824,06/01/2024,10/03/2024,['notifications'],Mobile,92626
+655dd353-0fe3-4999-ac90-f8abd014e361,684c597f-bafe-42fa-9f6e-4be73de5a6a6,13/01/2024,06/02/2024,['savings_pot'],Mobile,34714
+245b5795-ec65-4e42-836f-dc545a1cdc63,83dd5108-98bb-41a9-ad1b-834225f05178,19/01/2024,09/03/2024,"['notifications', 'budgeting']",Web,71112
+b223be95-c435-49f8-b8d4-590f241255ba,65a2a27f-2394-4e62-a506-fe6b6f2cd4da,30/01/2024,04/03/2024,"['loan_calc', 'notifications']",Mobile,48462
+ea1da1a2-5924-4202-ab13-13a41384461f,6a7eb539-dbaa-4698-a389-4db00485be67,01/03/2024,26/03/2024,['loan_calc'],Web,35938
+bfec3f14-6dfb-4477-8118-b68397ad24cf,c4ae513d-03e0-4c7e-9300-cac44de50dce,13/02/2024,20/03/2024,"['budgeting', 'notifications', 'savings_pot']",Web,52300
+313efcdc-fd74-4783-810a-3487d6d3ca7a,f17065a9-a5e9-4054-aaf0-74006ae50b46,04/02/2024,11/02/2024,"['savings_pot', 'notifications', 'budgeting']",Web,10216
+6a39777e-14c3-496f-bff1-441e36c29558,bb62fa05-c850-4b26-a89e-3da03f752247,29/01/2024,27/03/2024,['notifications'],Mobile,83437
+b189ed31-a3fb-4d49-94db-cb7bad5e78b6,5f431c9e-fe90-4201-bb9c-641f8d1f6dc6,16/01/2024,30/01/2024,"['notifications', 'budgeting']",Mobile,20209
+adf6c1d8-cabf-432a-8450-4bc8759ad8c4,5bd9598c-9014-47be-acc4-7a5b7ccf981b,11/02/2024,22/02/2024,['savings_pot'],Web,16039
+83a6f303-5519-40e7-a581-f00e26c57207,0bbeec69-3774-4eec-8b51-4f8d545dd517,18/02/2024,20/03/2024,"['savings_pot', 'budgeting', 'loan_calc']",Web,44021
+44ade0fa-450d-408e-9b08-1e8698d5e245,43d8f8b0-4bd2-4db3-bfa8-e091c58f2b53,01/02/2024,11/03/2024,"['savings_pot', 'budgeting', 'notifications']",Mobile,56608
+1b543fe2-61a4-4509-a219-1fb0b4365f30,d0821df1-d7b9-4dbe-8076-07970ee35c66,19/02/2024,18/03/2024,"['savings_pot', 'budgeting']",Mobile,39448
+b5a04602-0e58-49f1-9abb-d1bdb115cda2,be13e91b-ee58-4fd6-ae80-fe9ae53d6711,02/02/2024,07/03/2024,"['loan_calc', 'budgeting']",Web,49612
+4135cc4f-8235-41a4-946e-7de89049a864,f9fead34-03aa-4fcc-ab20-3246df86337d,19/03/2024,29/03/2024,"['loan_calc', 'savings_pot', 'budgeting']",Mobile,13706
+d0452dca-310c-4046-b449-0e4d7f1cf49a,a42fcfba-edf9-4493-bf56-44bf71f1b0b7,28/02/2024,01/03/2024,"['budgeting', 'notifications']",Mobile,2741
+391a9113-af6e-465f-bb3a-131f142e07aa,bc553463-d6ff-43ee-ab2c-fbf7a8f72373,25/01/2024,18/03/2024,"['savings_pot', 'budgeting', 'notifications']",Web,76785
+27328457-dc0d-43ef-b415-100afa32d9b4,54cac78b-1cd2-4b7a-b012-b6b2e2adb653,14/02/2024,13/03/2024,"['budgeting', 'loan_calc', 'notifications']",Mobile,40839
+a71dd2e0-90bb-4b7f-9a67-2a3f48effc2b,f255a341-30a4-4d3b-9bc2-7c0aced48802,18/01/2024,18/02/2024,"['budgeting', 'loan_calc', 'notifications']",Mobile,44858
+99bd449c-09ad-4a4e-858b-61ffd0404493,1555f578-aa30-45ad-8afa-5b114723aebe,26/01/2024,29/03/2024,['loan_calc'],Web,90335
+22f98437-9af0-4325-aebc-a82cf9979084,4b55fd91-be54-4b88-b044-ee20abdc1f38,28/01/2024,16/03/2024,"['budgeting', 'savings_pot', 'loan_calc']",Web,69000
+fd33e0e6-122d-4345-8fce-2686d7fa9c9d,1607f24f-bb58-4522-b81a-97e18ee0352f,28/01/2024,16/03/2024,['savings_pot'],Mobile,69574
+e73b9126-8009-4969-b9f4-74359e859bad,5b992c6f-8a90-411c-90a5-7cca60394c59,27/01/2024,31/01/2024,"['notifications', 'savings_pot', 'budgeting']",Mobile,6400
+409b3462-af11-4601-991c-e77b69786c05,b833ba14-c993-4e95-b7cb-9428978426b1,19/01/2024,22/02/2024,['notifications'],Mobile,48592
+926f8a38-bbec-4c4b-84d6-8a603d41c030,46a2fa86-4dd5-451e-a10c-52bc2a052ee0,14/02/2024,18/03/2024,['notifications'],Web,47644
+d4ab8ea8-a028-4749-9a88-e4175a516539,4a196101-1fe2-41e7-86c7-5a53454c0dad,29/01/2024,14/02/2024,['budgeting'],Mobile,22069
+9ef41310-1c57-45b5-97f4-4d5b081bd582,f6c40bcb-c791-4f4f-b113-0c226c64f08b,13/02/2024,12/03/2024,"['budgeting', 'loan_calc', 'notifications']",Web,40446
+93e17d1e-6e2b-4a90-99b2-fc6543900198,61c00ac2-f659-45f0-b8c4-b92176aad708,21/02/2024,22/03/2024,"['loan_calc', 'savings_pot']",Web,43744
+fe4c00f2-5a88-4116-a852-49be2aaa4b57,60429018-6c67-434d-aac8-8c023be3d23a,27/01/2024,27/02/2024,['budgeting'],Web,44363
+bb30dafa-f1e8-443e-b20d-d0da2a7243ec,44aaafd7-ca3c-4dd6-9ae0-52f572f60952,12/01/2024,12/03/2024,['savings_pot'],Web,86781
+dcb47592-20ae-4a8d-aa86-91afd060fa00,e12bd2c6-b899-4333-b124-4092a8a1277b,22/02/2024,17/03/2024,"['loan_calc', 'savings_pot']",Web,34512
+712817a3-0601-4181-9c7e-341eb8d3173a,3f0bab7f-609d-452a-a2bd-cf866a487247,22/03/2024,25/03/2024,"['notifications', 'savings_pot']",Web,4423
+6d01c00d-63e6-4995-9d79-c95d8c39b856,435ee49d-59d2-491d-9289-b214862ba3fc,01/02/2024,11/02/2024,"['notifications', 'loan_calc']",Mobile,14609
+77908161-2bdd-4be4-80d4-40c4d7ac0f25,1c74d0fb-4ace-40a1-a8ce-147bf8beddd2,11/03/2024,28/03/2024,"['budgeting', 'loan_calc']",Mobile,24254
+5a6f7b74-1409-40cb-b4bb-89e91b7b2422,471e2777-a784-48cd-9534-d9e394cee980,14/01/2024,19/01/2024,['notifications'],Mobile,7330
+ee7a19a6-0f4b-4144-9b67-09e137e21b3c,0694960c-86c0-4e30-80ec-28425671e497,27/01/2024,03/03/2024,"['budgeting', 'notifications']",Mobile,52195
+a58f68a0-ce92-48fe-9115-238e38462c8d,49cf1c24-20a2-440c-97f6-44d9c353e95f,04/01/2024,23/03/2024,"['loan_calc', 'budgeting']",Mobile,113694
+cd72d39f-a3f7-408c-b992-3291d6655a67,515959b9-db6f-447a-bb8d-9a141e5da95b,08/01/2024,28/01/2024,"['notifications', 'budgeting', 'loan_calc']",Web,29218
+213fe42c-efc8-457a-842c-7dfc90b8fd8d,25d3e60f-edcc-4b11-8780-e6eb81d75abc,10/02/2024,25/03/2024,['notifications'],Web,64281
+b25fb236-77fd-4ce0-aecb-4cfcd5e9e7cb,e001a706-b158-424c-8743-f469e0314cb4,29/02/2024,20/03/2024,"['savings_pot', 'notifications']",Mobile,28928
+59fe508d-c043-4a5f-a556-9e7c3fcf1a03,e70dd736-e5ad-45ae-b821-769ac81f3e18,24/01/2024,25/01/2024,"['budgeting', 'loan_calc']",Mobile,2314
+9150135f-728d-4c83-adfd-66a801fe94cb,45534b52-ef77-457e-b084-0b7c2560d9e9,13/02/2024,29/02/2024,"['savings_pot', 'budgeting']",Web,23015
+b4f5a6d2-6831-4492-82bc-a5d6c2b5ac83,3a4aa2c4-649e-49c2-85b5-6fe3bb256a38,20/01/2024,02/02/2024,"['notifications', 'loan_calc']",Mobile,19205
+3b97dbed-7127-46e9-8a1d-d3d4b10a7aba,33d3821a-aa07-41be-a061-5bedaf99ab67,19/01/2024,23/01/2024,"['budgeting', 'savings_pot']",Web,6344
+ea670202-5793-4184-8e1b-be241438955c,5361a714-36a1-4ad4-bf9f-27cca6906312,25/01/2024,01/03/2024,"['notifications', 'budgeting']",Mobile,51571
+eb129dbc-d1d0-44f3-85d6-aa0d0ef14e33,4e5e5d9e-c0b1-415f-87ed-9ea495065c24,21/02/2024,29/02/2024,"['savings_pot', 'loan_calc', 'notifications']",Mobile,11400
+b73b8a93-d220-4c23-98fb-ee41697558d5,24bb3971-9e38-48ae-9b42-9f53a449cc4b,13/01/2024,06/02/2024,"['notifications', 'loan_calc']",Mobile,33967
+453ae23b-b7fc-4586-be0e-bfd7ac45427d,0acc8eb1-7064-43d4-bdf9-8164f5b9b046,10/01/2024,26/02/2024,"['loan_calc', 'notifications', 'savings_pot']",Mobile,67693
+0bb68d1c-8edc-477d-bbba-d0ea58a71cff,e46653cc-6c33-459b-8c7f-2ff4f3e6fe5a,23/02/2024,04/03/2024,"['loan_calc', 'notifications']",Mobile,14770
+fdc9caac-43b8-4f93-8665-14abc06acdc4,ac997db4-da03-4f9d-8f92-32c2a20d0039,22/01/2024,09/03/2024,"['loan_calc', 'notifications', 'budgeting']",Mobile,67636
+5bc542bc-c359-4495-a3d7-849df9467bdb,60429018-6c67-434d-aac8-8c023be3d23a,05/01/2024,09/02/2024,"['savings_pot', 'loan_calc']",Web,49617
+0917e0ec-3fab-4786-a342-6dd0b0f67a44,b99f797e-2860-4a6a-afe5-20d033756372,18/02/2024,05/03/2024,"['savings_pot', 'notifications']",Web,22641
+d96706db-653a-49da-bf42-4b3b3d1e10d5,91c49acd-d210-483b-8035-da45356b8d37,05/01/2024,13/02/2024,"['notifications', 'loan_calc']",Mobile,55626
+4ca93678-d658-4dad-9a28-773ec3c17e7c,a62e154e-e908-419d-aae1-a75bcdceccb2,31/01/2024,24/02/2024,"['notifications', 'loan_calc', 'budgeting']",Web,34532
+91b14b48-72be-4c4d-bdd4-4769983e7bd2,b2248a5f-226b-4c15-95b0-2b7826018f74,12/02/2024,17/02/2024,['notifications'],Mobile,6176
+99469ea1-3f30-42ab-8b5a-d73817c7b341,8b0f9bd4-30fd-42ed-866f-4ec2d842dac3,10/01/2024,02/03/2024,"['loan_calc', 'notifications', 'savings_pot']",Mobile,75958
+959c82d4-a818-4b53-aa3f-662a1698d965,c87b7612-fd7f-445c-ab11-43cee45e0ea0,01/01/2024,04/03/2024,"['loan_calc', 'notifications']",Mobile,90504
+e3b0defe-1f31-401f-95b6-e3ba48f93239,c9a94f01-ab03-4c5c-acd5-a742677834fa,20/02/2024,15/03/2024,['savings_pot'],Web,34975
+4d5873a0-d246-488b-9f54-12724d792c5b,4cc07676-27f6-44e2-a022-2a794bd5b345,25/03/2024,30/03/2024,"['savings_pot', 'loan_calc', 'budgeting']",Mobile,7751
+b5a69707-1c0a-4030-9369-caaca08ffb00,e91d2bfb-1609-4290-8934-f0a30ccda5a4,15/01/2024,19/03/2024,"['loan_calc', 'notifications', 'budgeting']",Web,92075
+77bb3c3c-1b6e-444b-b1b8-df88a4311ec5,82e1c0a8-d53c-4aa6-8528-f7b00b635030,07/02/2024,08/02/2024,"['notifications', 'loan_calc']",Web,2029
+26ce30c6-97a3-400f-a459-920777b4bcad,32552244-6081-4286-ac24-e964ff9f7638,29/02/2024,04/03/2024,"['notifications', 'loan_calc', 'savings_pot']",Web,5403
+cffefe73-2a88-441a-bb64-ad6dd41e8ee0,dda9ef5a-458d-46b7-963e-3bc9b44bd270,19/01/2024,07/03/2024,"['loan_calc', 'budgeting', 'notifications']",Web,69649
+28309031-18ea-4e15-bbef-fa58557fc1fe,c2426a9a-833b-4c90-a442-75ff3e587d03,09/03/2024,14/03/2024,"['notifications', 'budgeting']",Mobile,6570
+24a471bb-df52-48c7-ad30-efccc61d1857,73e7ea79-0504-4729-b5f5-1ac889a98486,26/01/2024,03/02/2024,"['loan_calc', 'notifications']",Web,10778
+ecc6aa4e-10de-4903-9f50-773014ca066e,f17065a9-a5e9-4054-aaf0-74006ae50b46,28/02/2024,21/03/2024,['budgeting'],Mobile,30823
+86df6188-8dc0-4fb9-aad2-102fd5e11cbc,ee117e6d-e1ff-41a5-9346-58e514ac002e,06/01/2024,28/01/2024,"['loan_calc', 'budgeting', 'savings_pot']",Web,31479
+23cbf3eb-21f6-4930-ba35-3c0e01a9a4dd,61c00ac2-f659-45f0-b8c4-b92176aad708,09/01/2024,11/03/2024,"['notifications', 'budgeting']",Mobile,89664
+c4f02160-0697-430f-b392-208119b35e91,86f31468-89f1-4065-86f2-661ec3bad8a8,29/02/2024,15/03/2024,"['budgeting', 'notifications', 'loan_calc']",Mobile,21121
+0ce4795e-39d5-4e47-b17a-4ad65e6256c9,24d7cfe3-19e1-4c6d-9a08-b8a403dff569,22/02/2024,09/03/2024,"['budgeting', 'savings_pot', 'notifications']",Web,23475
+645b88d5-e7ce-451e-85cc-42d71bf537d4,a9baa1e5-bb60-4538-8dd6-5e04a298101e,22/01/2024,20/03/2024,"['loan_calc', 'notifications']",Web,84195
+40e53980-ca6e-4d8b-9bff-3b21d72b8edb,a3a97ba5-5e33-4421-8025-268dc6bfcd14,04/01/2024,18/02/2024,"['loan_calc', 'budgeting']",Mobile,64656
+a28fc6b0-7acc-467d-af4d-133b6a1a5915,aa99b759-0f40-492a-be07-293bcb0fd92f,16/01/2024,25/02/2024,"['savings_pot', 'notifications', 'loan_calc']",Mobile,57059
+d7bf2e4f-0cf6-454d-8ebf-ccdc538f483d,94acfcee-13de-418e-a9ff-c0e4eab72ade,08/02/2024,29/02/2024,['loan_calc'],Mobile,30436
+aefcb977-63f3-42ea-8d19-01a59618cb1f,a073185d-33c4-4c4b-8495-f1ade133c90a,17/01/2024,01/02/2024,"['savings_pot', 'loan_calc']",Mobile,23000
+aa8696a5-eac6-4be1-b0a4-28c100a3d2a8,0ae4049b-aa39-46ec-9469-7e7659e2cb63,04/01/2024,27/02/2024,"['savings_pot', 'loan_calc']",Web,77570
+fc3157b9-147b-424d-ba59-5dbe363c3cb2,c30a4fee-889a-483b-9a89-771c8e03605a,12/03/2024,24/03/2024,"['loan_calc', 'budgeting']",Mobile,17303
+3f4cbc9f-10a6-4bd0-adba-5466e7103039,ef36fa9e-b2a0-4a81-ac28-2e9fd90b50e6,17/01/2024,26/02/2024,"['budgeting', 'savings_pot']",Web,56340
+68316c83-ebce-4979-abb3-0b81ab994cf9,1e8e390b-51f3-4e04-9949-55cdd514e5ea,27/01/2024,22/03/2024,"['notifications', 'loan_calc', 'budgeting']",Web,79587
+110d4632-3485-4e90-84b7-5115caa1e021,7190e124-10c6-4444-bd14-74434bbfc61c,04/01/2024,13/01/2024,"['loan_calc', 'budgeting', 'notifications']",Mobile,13451
+791ff5cf-bcdb-4867-bf2b-949070f9ca0e,0c62ef3a-cd71-4a93-b3e3-1a5719b1f6e9,01/01/2024,09/03/2024,['budgeting'],Mobile,97420
+074bdad4-7596-4a43-8044-738a36abd9c6,d10b40f5-5777-445e-b4f8-2452a3fa11af,21/02/2024,23/02/2024,"['budgeting', 'loan_calc', 'notifications']",Web,2843
+4f1ccb40-ea09-4163-a301-a8301a3520da,978db4ba-198d-470b-9014-9b2527075e62,24/02/2024,07/03/2024,"['notifications', 'savings_pot']",Web,16686
+bf580efc-7e57-411f-b057-a4b9d51bed1d,9f9beb79-821e-4118-8c32-9dc65d663770,10/01/2024,04/02/2024,"['notifications', 'savings_pot']",Web,36281
+e49f3b8e-b4a2-42ea-83a3-0f7fc99f9634,27aeca1e-6ca1-47b7-af3a-dc6b73b28929,31/01/2024,09/02/2024,"['budgeting', 'loan_calc', 'notifications']",Mobile,12376
+76954096-a626-444f-83b2-3b2a9fb90c68,be13e91b-ee58-4fd6-ae80-fe9ae53d6711,26/01/2024,29/01/2024,"['budgeting', 'savings_pot', 'notifications']",Web,3934
+9445fcad-ab5e-4861-a44e-00660b23f25d,b330ff40-13aa-4fe1-b843-739ce4929d10,11/02/2024,13/03/2024,"['loan_calc', 'notifications']",Web,44146
+9b436b34-05d0-4150-9332-eacae1151804,963091b4-acd4-4a6f-9623-5cd4805b8041,14/02/2024,28/02/2024,"['savings_pot', 'budgeting', 'notifications']",Mobile,19763
+d4b2eba5-1bb6-4c58-90b4-2868719c676d,d44274f1-203b-435d-a4d1-ddbd1494cac5,13/01/2024,20/02/2024,"['savings_pot', 'budgeting', 'loan_calc']",Web,54955
+1f37e06f-b116-43eb-80a8-a83dbe24232b,3f7e4a32-4e15-4925-91a8-c0a641791c2a,15/02/2024,24/02/2024,"['budgeting', 'savings_pot', 'notifications']",Web,12566
+481d5858-b822-48fb-88c6-22e236c54c17,4b55fd91-be54-4b88-b044-ee20abdc1f38,12/02/2024,06/03/2024,"['loan_calc', 'budgeting', 'savings_pot']",Web,33192
+7ce97113-1db6-470f-a726-7cc125f6bad4,0cf22333-b7d9-45ac-b33c-07e8d614ca37,25/01/2024,25/02/2024,"['savings_pot', 'budgeting', 'loan_calc']",Web,43887
+61f43757-23ff-4010-988c-a18f545df9dd,fa7a807e-7023-4d17-8d5e-52ea763dd58b,18/01/2024,26/01/2024,['loan_calc'],Mobile,12083
+1b960b9b-242f-4288-b008-efa8fe8457cf,1d21c88f-dec7-4856-8cdd-ad41a7378e39,11/01/2024,26/03/2024,['budgeting'],Web,108621
+3059a772-3978-40a9-b584-3d38676b141d,33f901e1-2cd7-449a-80ca-74f1b44d739c,31/01/2024,03/03/2024,"['notifications', 'loan_calc', 'budgeting']",Web,47169
+9880085d-dcc3-4d65-b813-000a8f465638,d7bd7d87-e85e-4c31-91b4-17c2e0378003,07/03/2024,18/03/2024,['savings_pot'],Web,15315
+34e52b51-1531-4a6b-b2f8-34e401360484,499c1c03-8f34-48b3-8844-53f1a6eb2970,11/02/2024,18/03/2024,"['notifications', 'savings_pot', 'loan_calc']",Mobile,50887
+50a4a6ad-5ee3-422e-b45f-46ead55b7ee8,65a4d4be-3141-46e0-8eff-d60a54e23b0a,29/02/2024,29/02/2024,['savings_pot'],Web,1336
+9a3ce5af-0d55-47d6-8816-b5937ac50526,3e3ef7e6-9010-4bc7-8093-bee13c174495,24/01/2024,20/03/2024,['loan_calc'],Mobile,81086
+e5e8ec58-8869-4c17-bb1c-d260f427492f,0db1effe-7591-4c79-916f-3296986dba5c,17/01/2024,19/01/2024,"['notifications', 'savings_pot']",Mobile,2533
+57ec0c92-ed7e-48d3-ad21-9f544203da0f,a71bdc38-49db-4985-8376-2e39ec0170db,02/01/2024,17/02/2024,"['loan_calc', 'notifications', 'budgeting']",Mobile,66026
+36ac8b63-3ffe-4ca5-ba2d-4e236dd6d8c5,f815364e-e007-4427-b4d7-bfba5b325307,31/01/2024,16/02/2024,['budgeting'],Mobile,22609
+d2cc48e2-e03f-4c70-b93d-d7d0bb3dc3c7,fd501918-58b3-4d78-92f9-ebc10d455092,27/01/2024,09/03/2024,"['notifications', 'savings_pot', 'loan_calc']",Mobile,59362
+d464afc3-452b-4b9e-b512-5c35f5f1cee1,c0c43dfe-1478-4774-a0eb-3d66984fb7de,16/01/2024,12/03/2024,"['savings_pot', 'loan_calc']",Mobile,79742
+e38f0260-f9a6-4e6c-a50b-17ed649be441,3a25e245-3c11-403c-9430-a2fa71f51379,25/02/2024,22/03/2024,['loan_calc'],Web,37622
+6fa9db1b-32a0-4d21-90ad-c7c99adbf9ad,5f699a7e-d975-4983-aba5-d74f092f3eff,28/02/2024,27/03/2024,['budgeting'],Web,41421
+b0519ee2-2b81-452b-b6fe-3255f60bf0a5,4a196101-1fe2-41e7-86c7-5a53454c0dad,06/02/2024,15/02/2024,['loan_calc'],Web,11727
+208f40ae-dcf2-4732-ab10-62f1de0960f7,85d8a3f8-3db4-4b35-adf8-62561cbfb3c0,30/01/2024,15/02/2024,"['budgeting', 'savings_pot', 'loan_calc']",Web,22509
+752a7957-3eaf-4263-bb6a-ad9af80c565c,e12bd2c6-b899-4333-b124-4092a8a1277b,08/01/2024,28/02/2024,"['budgeting', 'loan_calc', 'notifications']",Web,72276
+51da6874-b69e-4d90-9adc-44aa736a792d,647ba9cc-af44-40f2-8a4c-21aa2cdf6cf4,06/02/2024,24/02/2024,"['savings_pot', 'loan_calc', 'budgeting']",Web,25319
+6fd636a4-ba0c-4ecf-a16e-918a3193dc07,e4f335f8-ce75-48a7-897e-135d102029a3,09/01/2024,18/02/2024,"['savings_pot', 'loan_calc', 'notifications']",Web,56751
+34d622f4-a086-4e33-8c4b-7994687e107e,791b41e6-640c-4c0d-a8d5-a0f5ee7c2bc2,17/01/2024,21/03/2024,"['budgeting', 'notifications']",Web,92277
+00e3e94f-1ff1-48bd-9826-6a2821c6ad78,41003395-c4a8-404b-b70c-cf10084c1e98,13/02/2024,30/03/2024,['savings_pot'],Web,66782
+3e66039b-d987-4cf9-9177-7d6f57100571,4fdd6850-cef6-41bf-b706-82aadbe7f010,30/01/2024,02/02/2024,"['loan_calc', 'savings_pot', 'notifications']",Web,4924
+e1d7d77f-44ed-420f-a804-d2b742cae5bc,0db1effe-7591-4c79-916f-3296986dba5c,23/01/2024,29/01/2024,"['loan_calc', 'budgeting', 'savings_pot']",Mobile,8978
+47588c3f-77d2-4ebc-ad49-1f10e352a2ef,559537c3-2ba2-4112-9790-9ea894870380,01/01/2024,13/01/2024,"['loan_calc', 'notifications', 'budgeting']",Mobile,16414
+47acf7ca-5153-4a66-bb02-9685691b1718,c6c8ea66-5b11-430d-a1b8-e5c54ad16af4,24/01/2024,05/02/2024,"['notifications', 'savings_pot']",Web,16532
+f340db52-1d0b-4db4-b4b6-f5bdd66a9b4d,4cf39ed1-2316-4a4d-bab2-54fe18cb3ced,04/02/2024,19/03/2024,"['budgeting', 'loan_calc', 'savings_pot']",Web,62563
+3d2b60cc-ae17-466f-9c7a-313b1dca6c79,dcf69da4-8010-493f-8949-ecc3ea73144e,22/01/2024,17/03/2024,"['savings_pot', 'loan_calc']",Web,79105
+f2c3cb96-1a67-44e5-8bef-b655b788666b,94ebd461-940a-4b21-936d-43ac3475ecf5,10/02/2024,21/02/2024,"['loan_calc', 'savings_pot']",Mobile,15954
+b86d13ea-6be7-4c00-a8e8-654eafad4c80,5f94602b-e3f1-4321-bea4-88a6f8d17225,25/01/2024,03/02/2024,['savings_pot'],Mobile,12910
+f4914507-2ff2-4af1-acea-d536b213b9fd,b6716e60-4c99-4e92-a849-70bfbce18c37,31/01/2024,03/03/2024,['loan_calc'],Web,46320
+81e8e510-b834-4494-8a68-2d7b349f92da,b4b35f99-0ba3-4bcd-a901-12806270b18a,23/02/2024,10/03/2024,['savings_pot'],Mobile,23638
+0e9d0127-5444-45a2-9dbd-50970fa1e4fe,1c16d8fc-f660-4c12-829c-c5db6175b6d8,22/02/2024,27/03/2024,['notifications'],Mobile,50024
+2a1a9dfc-1adc-4a57-8678-efbb585a9895,0d7d68c9-e4df-4a33-bdb4-51ace99d6f4f,02/01/2024,30/03/2024,"['budgeting', 'savings_pot']",Mobile,127928
+a30b3cb8-983c-4710-b3a7-6dffbd19db3a,0a1ee921-0a29-4c89-8047-f139f2ab4b2a,24/01/2024,11/03/2024,"['notifications', 'savings_pot', 'budgeting']",Mobile,66701
+cccdf007-6e90-4be3-83dd-4d227a8ac03d,e8199bae-23b5-4f3c-9c62-3fe7e898ea92,11/01/2024,20/01/2024,"['budgeting', 'loan_calc']",Web,12792
+19779438-ae3d-4086-8a70-0cd900fbc3a0,c37b898e-a5a8-4f37-a994-d2e541130907,28/01/2024,24/03/2024,"['notifications', 'savings_pot']",Mobile,80721
+4bc2c57e-6379-46d0-86d0-9df0d349ee1e,bdbe44aa-6b3a-44b5-b751-d09e75fc6987,06/02/2024,27/03/2024,"['savings_pot', 'loan_calc']",Web,71217
+374b4717-46d2-43a9-b27a-8f9c6c431b35,88612f24-632d-44f6-90e3-f6e88ed0e177,03/03/2024,12/03/2024,['loan_calc'],Mobile,13538
+926a5ee1-15a3-403f-a201-38c1985aba4d,b1830c2b-7be8-4448-8561-422c57cbbb6f,05/03/2024,05/03/2024,['notifications'],Mobile,1199
+2b0f1a33-ff4d-4815-97c9-d0392d247950,488ce3c6-3e54-4518-b580-254949fd7fd6,29/01/2024,10/03/2024,['notifications'],Mobile,59796
+1b01ce8c-0c5f-4faa-ac6b-1979a2ab8111,abdf5cea-e136-4f62-9942-42c18eef20dc,11/01/2024,08/02/2024,['notifications'],Mobile,40139
+f6bbb7ae-e2a2-4435-b40a-213b81fb3319,00207988-da3d-43f5-a298-4c2a35862b7c,28/02/2024,04/03/2024,"['savings_pot', 'loan_calc', 'budgeting']",Web,8280
+8dcc6799-09a3-4117-8bce-e0be22fb9381,3d9b321d-b2c1-4814-9a7c-1b2581578997,27/01/2024,28/02/2024,"['notifications', 'budgeting', 'savings_pot']",Web,45295
+d9e6c849-3a56-40c1-a7da-51bb25c84b99,2099de82-e67b-433e-844e-b3e593815b5c,03/02/2024,18/02/2024,"['loan_calc', 'notifications']",Web,22164
+43542afc-5f9e-46a8-9382-90396347a2c0,cd55ed4d-a2c3-436f-98bc-6da6bdcccd7c,21/01/2024,26/02/2024,"['notifications', 'budgeting']",Web,51809
+fd308091-20f7-4880-8917-bb56d7d1362a,d0c31b54-8948-4f3f-a171-6d33985e2db5,11/02/2024,16/02/2024,"['notifications', 'savings_pot']",Mobile,7393
+a98939d1-cbd0-4c11-ab2f-24f1c7e738bf,ff29aaab-cf57-4265-9a76-80446497be18,09/03/2024,24/03/2024,['savings_pot'],Web,22710
+295439c3-f301-4a20-9a3a-dc930d00dcd5,00207988-da3d-43f5-a298-4c2a35862b7c,04/02/2024,29/03/2024,"['notifications', 'loan_calc', 'savings_pot']",Mobile,78744
+d5b98e69-2d9c-45d6-a6b5-01285a043b41,6ae1c525-f668-45b4-95e6-a3fc6ec9e341,07/02/2024,14/03/2024,"['loan_calc', 'notifications', 'savings_pot']",Mobile,51419
+3a6e2303-f1d5-4c13-b098-893b72fbf201,3d9ee783-523c-4644-9abc-16eeadaf9de2,18/02/2024,27/02/2024,"['savings_pot', 'notifications', 'budgeting']",Mobile,12695
+645d5eb1-f2e6-4dd0-be2d-905f0135fdaf,3fda53f6-b99e-443d-9bba-394a51b65ffa,01/03/2024,16/03/2024,"['notifications', 'savings_pot', 'budgeting']",Mobile,22349
+447c9abb-091a-4543-bc4d-a10a07bf5c92,d9daa547-c8f2-4f76-ae48-85d207cfc049,20/01/2024,02/03/2024,"['budgeting', 'notifications', 'loan_calc']",Mobile,60650
+0b65e7d4-6e95-4b2e-b471-ef312e9ed0f0,0036471c-c2ad-4c44-834c-d7aa0f8d0552,12/03/2024,27/03/2024,"['budgeting', 'notifications']",Mobile,21775
+b49b9df3-5f3a-4cf3-b929-1d221e52e4b4,5f94602b-e3f1-4321-bea4-88a6f8d17225,08/01/2024,18/03/2024,"['loan_calc', 'budgeting', 'notifications']",Web,100228
+98414d3f-e240-410b-881c-cd3cb9e731a3,24bb3971-9e38-48ae-9b42-9f53a449cc4b,02/02/2024,25/03/2024,"['notifications', 'savings_pot', 'budgeting']",Mobile,73783
+95d63750-6c25-4679-95ff-7dddcacb1a8e,3165443c-b2b9-4219-84d8-95ca5e72e91e,08/01/2024,09/02/2024,"['budgeting', 'loan_calc', 'notifications']",Web,46721
+45d1e88c-338f-4807-8751-194d2460492a,6a7eb539-dbaa-4698-a389-4db00485be67,11/01/2024,25/02/2024,['savings_pot'],Mobile,65557
+177b977e-b70a-495f-9057-8223f104ff12,cfed6ce6-0153-476b-aed7-b80cc1019f4c,06/01/2024,25/02/2024,"['notifications', 'loan_calc']",Web,71716
+66047147-f50b-4844-9962-5223a89cd489,2b5489c5-93ae-48cc-8cea-c2d9b72cd903,16/02/2024,08/03/2024,"['loan_calc', 'savings_pot', 'budgeting']",Web,30970
+86d87dd1-70a7-4c38-81fb-7311e8dd833c,ab086e45-6d23-4f3a-ac8f-3d1373e3956f,19/01/2024,29/02/2024,"['loan_calc', 'notifications', 'savings_pot']",Mobile,59765
+4f76e85c-0008-4ed2-a7f9-597df88ad3a5,d41a6819-030d-48c9-95e2-f2b0dc1c5c10,22/02/2024,08/03/2024,"['notifications', 'savings_pot', 'loan_calc']",Mobile,22024
+354e8861-6c33-41a9-8870-7b5be0245544,1e7a2475-0886-4039-855d-5d1632aad0f4,30/01/2024,05/03/2024,['loan_calc'],Web,49788
+2d6ad5c0-2c46-4c0f-8369-c364b5905a26,3710087b-ccd3-42b0-a065-257c8520f222,17/02/2024,04/03/2024,"['savings_pot', 'loan_calc', 'budgeting']",Web,23754
+8b53905a-e03a-408c-94d9-8e560adb8d77,426ba4fa-9ace-4edd-805e-b88ac3f8289e,11/01/2024,15/01/2024,"['budgeting', 'loan_calc', 'savings_pot']",Web,6248
+e5084e38-5e72-4a76-b328-3e7eba9899d7,0aacced1-8f63-452a-b2ed-a89df5a28bab,19/01/2024,27/03/2024,['notifications'],Web,98001
+55db6a54-c402-428a-ab07-61007539dd03,17f31303-96d5-4658-a797-f349d1045c66,14/02/2024,17/02/2024,['loan_calc'],Web,3732
+6e051762-4112-4b40-a354-8beaa61fd9d2,0acc8eb1-7064-43d4-bdf9-8164f5b9b046,09/01/2024,12/03/2024,['savings_pot'],Mobile,90718
+c251b62c-a4ef-41c7-851d-99b5b2f6043b,0cf22333-b7d9-45ac-b33c-07e8d614ca37,16/02/2024,06/03/2024,"['savings_pot', 'notifications', 'budgeting']",Web,27587
+0a8c8ef5-85e2-49c1-8b8b-6f5ef4981ce5,29d15aba-b8ca-4ab6-a53f-fd0d9fb47de0,06/01/2024,03/02/2024,['budgeting'],Web,41459
+c6dedae0-4dcb-409a-9c2e-564f1281bb2f,a71bdc38-49db-4985-8376-2e39ec0170db,13/01/2024,09/03/2024,"['notifications', 'loan_calc', 'budgeting']",Web,80990
+cb9047fc-f624-4ff8-9050-155769518284,e315bb98-ec89-4a50-b259-824d457ee0e8,16/02/2024,12/03/2024,"['budgeting', 'savings_pot', 'loan_calc']",Mobile,35121
+0a3db783-8d78-4d10-9689-0d06a5ec40ae,c11a6604-a6c4-4158-873c-60c59b901be8,07/02/2024,20/03/2024,"['loan_calc', 'savings_pot', 'notifications']",Web,60046
+aea348b4-cf2e-4142-9fe9-2f0dd0d2e828,099adf95-da0b-42cf-9f52-9ded33216ea4,21/02/2024,07/03/2024,"['notifications', 'budgeting']",Mobile,22165
+682c8952-b4f1-43cd-836d-494eb9071f1d,65a4d4be-3141-46e0-8eff-d60a54e23b0a,06/01/2024,21/03/2024,"['savings_pot', 'budgeting', 'notifications']",Web,108627
+5840dae1-811d-495b-84f3-88958957af0d,02cee621-5b1b-4e36-8c61-0c39d5d144da,12/02/2024,11/03/2024,"['notifications', 'loan_calc']",Mobile,40518
+4a30861a-275b-464f-911c-43da77c2258d,a71f1381-6afb-4d0a-b1b5-b343b19d7239,02/03/2024,22/03/2024,['notifications'],Mobile,29780
+15399323-1d59-43b4-9bca-c2adff99415c,a8001f07-a5bb-4fd3-8746-302d870c2757,29/01/2024,31/01/2024,"['budgeting', 'notifications']",Mobile,3528
+455792da-ff65-490b-b5bd-844e724fa302,36732d1d-6db6-47a2-9b51-d237c91a32b1,06/03/2024,14/03/2024,"['savings_pot', 'notifications', 'budgeting']",Web,10998
+f21a5a1d-b25e-4135-8701-cbd7e0c282a8,d7fea523-7e75-4330-9de9-800f9cfe46d0,02/01/2024,09/02/2024,"['loan_calc', 'notifications']",Mobile,53429
+82ed1ed5-bab6-42e5-b048-4bb6058db80c,0bbeec69-3774-4eec-8b51-4f8d545dd517,24/01/2024,17/02/2024,"['savings_pot', 'notifications']",Web,35320
+81c7253f-e92a-475d-a55c-82ed5aa727fb,8520d380-53df-4359-88fb-16cd7228451d,01/01/2024,24/01/2024,['notifications'],Mobile,34080
+107e4b2e-25a0-4b69-a9ef-c49de5566a5e,b58dfdac-776d-45a8-a0fd-a592b38b1da8,20/01/2024,29/03/2024,"['loan_calc', 'savings_pot', 'notifications']",Web,99251
+a1674c49-dd95-49d5-b851-39e4299be4cd,0f1d9483-0f03-48d0-b6bd-16ffe0648543,07/01/2024,27/02/2024,"['savings_pot', 'loan_calc', 'budgeting']",Web,72689
+86edb785-e4a4-4c62-8633-1459d054341e,04bd80c5-4dff-4af9-a06e-4e649fab3aa4,05/01/2024,08/01/2024,['loan_calc'],Web,4175
+5509ea58-ad64-4671-b608-614b97f04c05,1add3ca1-6916-4312-86ee-1ab54b35b4db,08/02/2024,15/02/2024,['notifications'],Mobile,9507
+5a4b8645-38ce-49f2-bc91-395c51a48b06,67771868-a0d8-436a-b200-5e99a3c4933c,01/02/2024,11/02/2024,"['savings_pot', 'budgeting']",Web,14515
+77712d49-d4aa-4369-9a1c-339dd0d5a031,c42d492b-cf84-4449-84a4-6f9bc67daef6,06/01/2024,02/02/2024,['notifications'],Mobile,38855
+eecd0556-72ac-4c5e-874f-897416901283,23e8fea9-bd20-4a92-bc50-d24c81cdb4dc,06/01/2024,15/02/2024,"['loan_calc', 'savings_pot', 'notifications']",Mobile,57597
+f8e4ae98-a66d-4750-8649-81c82bfed0ec,94ebd461-940a-4b21-936d-43ac3475ecf5,07/01/2024,16/01/2024,['savings_pot'],Web,12837
+f8c15a1d-0d6c-4139-9e4a-178adb981c2e,3d1ba46b-abb1-4313-b3c4-69490e84cde9,03/01/2024,11/03/2024,"['loan_calc', 'savings_pot']",Web,97212
+df33998f-e78a-46e5-836a-c878e9e5b911,3df0af43-0115-45ba-b3d8-8732a88a68d6,07/02/2024,22/03/2024,['loan_calc'],Web,63632
+3ac2f2c6-ca74-4920-9411-1a50786f7b19,50441573-ef1d-41ab-9b23-4881ceb48745,17/01/2024,22/02/2024,"['savings_pot', 'loan_calc', 'budgeting']",Mobile,51643
+44ed3ee4-d77e-4eae-96a8-7825edd60d4e,40cf6b0c-816c-43d6-b985-4b1ed5edd2a6,13/01/2024,06/03/2024,"['notifications', 'loan_calc', 'savings_pot']",Mobile,76996
+31edc710-c934-4c40-8c72-98430ba36752,36732d1d-6db6-47a2-9b51-d237c91a32b1,08/02/2024,19/03/2024,"['loan_calc', 'notifications']",Web,57463
+69812655-79a5-45f8-b8bd-478291daed34,639f41dc-8a34-4cf6-a23e-113726c3d150,04/02/2024,19/03/2024,"['notifications', 'savings_pot']",Web,64034
+c27a60f3-3b10-4eee-a7e9-4c13a99822d7,8e4d5aee-da56-43a4-9d39-da8dab153bb1,04/02/2024,24/03/2024,"['budgeting', 'notifications']",Web,71146
+9f52e557-7630-4527-b231-e998345f43dc,6ae1c525-f668-45b4-95e6-a3fc6ec9e341,08/01/2024,17/01/2024,"['budgeting', 'notifications', 'savings_pot']",Mobile,12948
+a612b270-2564-44e3-91a0-e701670d263c,5bd9598c-9014-47be-acc4-7a5b7ccf981b,03/03/2024,25/03/2024,"['budgeting', 'notifications', 'savings_pot']",Web,32573
+7d365ef6-2349-4232-b0d9-2b38bc89e10e,67771868-a0d8-436a-b200-5e99a3c4933c,01/03/2024,19/03/2024,"['savings_pot', 'budgeting']",Mobile,25660
+e6bd9ba5-3f2b-410a-81d0-ba7805da83e0,7aa0c4af-901e-4ce9-82f3-b5b3199725ad,19/02/2024,20/02/2024,['savings_pot'],Mobile,1788
+34271f4b-57e8-4614-b424-974315dc1feb,e1dfa02b-0698-4b30-9e95-bc335064bdbf,13/01/2024,14/03/2024,['budgeting'],Web,87844
+99dfcf11-64f6-44a9-8044-c32dbe6af11e,1f0e4c7b-7398-4384-be63-c5565475f0ea,29/02/2024,24/03/2024,"['loan_calc', 'savings_pot', 'notifications']",Mobile,34142
+8fea903c-e161-492d-afb5-4593f2d23d57,099adf95-da0b-42cf-9f52-9ded33216ea4,01/02/2024,08/03/2024,"['savings_pot', 'loan_calc']",Web,51508
+007e39ff-c1f7-4d78-a44c-e12b5dba7f38,ed2aed15-a2d2-41dd-bd35-cc807636b563,11/01/2024,29/02/2024,"['savings_pot', 'loan_calc', 'notifications']",Web,70405
+97945060-0f25-4a3d-8712-505aa1e4ee32,0acc8eb1-7064-43d4-bdf9-8164f5b9b046,17/01/2024,08/02/2024,"['notifications', 'loan_calc', 'savings_pot']",Web,31585
+f4f97abd-0faa-4b33-839a-5f40da7c68e4,81d135d4-a2e2-4490-8025-42db1075bd0e,12/01/2024,07/02/2024,"['loan_calc', 'budgeting']",Mobile,37878
+0f14594b-13d3-4005-ace0-2a9ad126291a,6e4ae58b-0d1f-4e63-9b6d-7be3cb03d7f9,07/03/2024,24/03/2024,"['budgeting', 'notifications']",Web,24651
+7e51b92a-554f-434b-a985-060e55e4026f,43d8f8b0-4bd2-4db3-bfa8-e091c58f2b53,21/01/2024,30/01/2024,"['budgeting', 'loan_calc']",Web,12756
+7c85ec43-abaa-4a56-915d-8f4b9831da21,c6da6f82-0681-453d-af8c-4ba7cefbf96d,01/01/2024,16/03/2024,['notifications'],Web,107820
+e13ecfbd-03cc-4ba0-9ca9-6426c200f9df,2988a873-6f28-441e-bafb-f2a096709788,03/01/2024,22/02/2024,"['loan_calc', 'budgeting', 'savings_pot']",Mobile,71943
+db60bb38-280e-4fa0-ae03-8148471b5498,155e685c-c629-4761-b891-e31aea65df89,12/02/2024,15/02/2024,"['savings_pot', 'notifications']",Mobile,5127
+097d4433-2327-4548-bc98-0c9042667830,49cf1c24-20a2-440c-97f6-44d9c353e95f,06/03/2024,23/03/2024,"['savings_pot', 'loan_calc', 'notifications']",Web,23976
+00dc7802-c509-43c5-8841-1313fd4c8df4,d7c9ceaf-d609-45b7-836b-7c0ec294dfb1,04/02/2024,14/03/2024,"['budgeting', 'loan_calc']",Mobile,55724
+717cba6d-358b-4ea5-8035-586ebf079bbc,e70dd736-e5ad-45ae-b821-769ac81f3e18,21/01/2024,30/03/2024,"['notifications', 'budgeting', 'savings_pot']",Web,98543
+3363e7c1-956c-413d-b992-a3a0da7a9ba7,93a15283-3468-4f78-9b5f-6c343803a54f,11/02/2024,27/03/2024,['budgeting'],Mobile,64688
+b433e3ec-0de7-46c2-b134-00663222ac1f,b539ddb8-a374-48b1-9105-65ce4444accb,01/02/2024,06/02/2024,['budgeting'],Mobile,7189
+5a691322-f5e2-4e4b-babe-56988c3077e3,42fc3c58-ba43-4e75-9282-3b4889f6e86a,26/01/2024,20/03/2024,"['notifications', 'loan_calc', 'budgeting']",Mobile,78829
+5a34b853-e0e7-408d-ae9d-1fc8d4287939,f4aebad9-1a1f-45a2-98ef-90b0d189e7b3,18/01/2024,12/02/2024,['budgeting'],Mobile,36266
+91dbfa8a-65bf-4a3e-ade3-6f65ce74fa6e,d7c9ceaf-d609-45b7-836b-7c0ec294dfb1,06/03/2024,11/03/2024,"['loan_calc', 'savings_pot']",Mobile,6367
+71aa70e6-9b19-488f-9c06-03d80e68249c,3df0af43-0115-45ba-b3d8-8732a88a68d6,10/03/2024,17/03/2024,"['notifications', 'loan_calc']",Web,10411
+bcafe5bf-94fc-4bc5-a426-d1ff1b04c854,20298690-cef9-42d8-8284-e5413a7c1c5a,11/01/2024,29/01/2024,['loan_calc'],Web,25943
+6b30736e-5910-4e58-8054-f5e913e21bc5,6aca10de-18d5-4cee-b110-b7075914ecc5,03/01/2024,30/01/2024,['savings_pot'],Mobile,38687
+6e389ffc-11bf-4a14-a5be-23159fe7fd3d,1e7a2475-0886-4039-855d-5d1632aad0f4,08/02/2024,11/02/2024,"['savings_pot', 'budgeting']",Mobile,4926
+9802b0de-c1ec-4143-a5c1-a8ce72fb11af,4efbc7ca-f4ed-4c15-bd97-2c85744d1dbc,02/01/2024,12/03/2024,"['notifications', 'loan_calc']",Mobile,100786
+868642b8-f5d6-4027-8472-b3716e1c2dca,ee441ad9-509c-46ae-8847-57ff9fd59c8c,22/01/2024,28/01/2024,"['loan_calc', 'budgeting']",Mobile,8300
+eb69a34f-eef0-498a-9986-9660c34411a2,e979067a-0623-4c53-afc1-038c8a688649,19/01/2024,08/03/2024,"['budgeting', 'loan_calc', 'notifications']",Web,69936
+930abf17-ba3a-4467-84e5-459d5ed657b8,38bc5f4a-9da9-4c42-9dc9-d7828dfccebe,07/01/2024,26/02/2024,"['notifications', 'loan_calc']",Web,72811
+20eb0a92-abbd-4c67-b428-fa91d018e7df,f6b005ea-3260-4f65-bf0c-433d98c3bb92,10/01/2024,23/01/2024,"['savings_pot', 'notifications']",Web,18581
+3335ee22-e5a6-484e-a762-5d97d9b93872,63fd77b9-5a8b-422f-a327-57158532ca1b,04/01/2024,03/02/2024,['savings_pot'],Mobile,43880
+a6f8baea-381d-4ade-bdf5-7565a5fa0ec3,a3fcb176-4d9a-40c9-bd91-2233af8ad45c,10/02/2024,23/02/2024,"['notifications', 'savings_pot', 'budgeting']",Mobile,19049
+cbc5b888-4446-4b5c-9475-c58e4be82dd0,02cad84b-4cbf-482b-8eba-7910ae2e115a,24/02/2024,29/03/2024,['loan_calc'],Web,49041
+3ba0a18c-3261-430a-aacb-47760f83a342,3ad98fc5-608a-498b-9e8f-032824bfe75a,05/03/2024,11/03/2024,['budgeting'],Mobile,9096
+01ef3a1e-8ba9-422d-9049-6663aba2586e,517a6395-6bf9-40cd-af05-c9bc5b3ba2c0,05/01/2024,18/01/2024,"['budgeting', 'notifications']",Mobile,19244
+a40d940f-f76d-4ac2-8db3-2fbb2d4d188c,e1dfa02b-0698-4b30-9e95-bc335064bdbf,23/01/2024,07/03/2024,['notifications'],Mobile,63938
+5a569b19-3ffa-4112-a517-55727b46b675,fe93466a-6dd0-43c2-9f72-41558ae90292,08/03/2024,22/03/2024,['loan_calc'],Web,20968
+e3d80e44-2cb5-4e1c-a5bb-2d082cfc7eba,8f783b60-bcd7-4424-a5ef-4f3a9fb8cf5b,05/01/2024,19/02/2024,"['budgeting', 'notifications', 'savings_pot']",Mobile,65850
+ace9be97-1ce1-4cd9-95ea-37497952a051,64eaecfb-0466-4638-9886-103ffcb740ed,06/02/2024,10/03/2024,"['savings_pot', 'loan_calc', 'budgeting']",Mobile,46962
+1a4fe6ae-5de7-4352-ae8c-04f862b5312b,33afe775-cb8f-406f-a7d1-7c8a311bfdfd,09/02/2024,13/03/2024,['notifications'],Mobile,46804
+43334d37-eba4-47c0-a2ea-71f61c715370,7e49f965-ec87-4138-b26b-86b4c5802fbe,22/01/2024,23/01/2024,['loan_calc'],Web,1424
+8f0da188-77c9-4180-9807-b6312db56723,dcf69da4-8010-493f-8949-ecc3ea73144e,09/03/2024,25/03/2024,"['savings_pot', 'notifications']",Mobile,23343
+3102e400-b30d-4594-86d5-c4b5291b5141,2988a873-6f28-441e-bafb-f2a096709788,06/01/2024,22/01/2024,"['notifications', 'budgeting', 'loan_calc']",Mobile,23151
+67fb459c-550f-4d6e-8801-a82fecaf5eb4,3dba1607-996c-46b6-9568-da26b4338b25,13/01/2024,19/02/2024,"['loan_calc', 'savings_pot', 'notifications']",Web,52624
+21119cf1-123d-4acb-a4c6-cc18cef9952b,1b23ff4a-6d2f-4d44-8103-6696b11421d0,27/01/2024,27/02/2024,"['savings_pot', 'notifications', 'loan_calc']",Web,45450
+6d1fc6a0-7d1b-4ba1-872d-5886d9dcf5c9,9a3970a8-c5e1-4782-a90b-32479725071d,22/01/2024,17/03/2024,"['loan_calc', 'savings_pot']",Mobile,79362
+5ed072c3-333c-4d32-a2e2-6ee220562480,ef36fa9e-b2a0-4a81-ac28-2e9fd90b50e6,22/02/2024,27/03/2024,"['notifications', 'budgeting', 'savings_pot']",Web,49147
+f8eabeae-15c7-4c7e-9461-2904e94650f2,426ba4fa-9ace-4edd-805e-b88ac3f8289e,30/01/2024,31/01/2024,"['savings_pot', 'loan_calc', 'notifications']",Web,2122
+a066ed67-309b-4472-959b-3e0ec4f1c6b0,cfa13661-42e0-4f92-84df-9a7350d1b65d,24/02/2024,10/03/2024,"['budgeting', 'notifications']",Mobile,21114
+0385b27a-f8d9-4322-b73a-0086e61ef214,0994803a-2cca-4a7f-9ff1-49fe855c94c4,15/03/2024,18/03/2024,['budgeting'],Web,4023
+52ae5c53-9976-4232-acc0-b13c57f241d9,d2129ff8-8e34-4968-a990-c1f74a2af0a5,30/01/2024,08/03/2024,"['savings_pot', 'budgeting']",Mobile,54721
+f35e0130-59e9-4414-a716-4b3477b4709c,21061613-7c0a-4baa-ac77-89491153ef5f,22/01/2024,07/03/2024,['notifications'],Mobile,64276
+03e76fd8-46db-404c-8ccd-8674707f7d7d,e78f4555-2d2b-428f-9c2b-93884aef0dfe,28/01/2024,28/01/2024,"['notifications', 'loan_calc', 'savings_pot']",Mobile,764
+32b95698-6e6d-435b-b067-bc4a83f7e106,6e28af27-b8ff-49e2-b13e-c5401115f563,14/01/2024,19/01/2024,['budgeting'],Web,8128
+32abfbe9-3039-4fa1-a652-1626197b8660,8efc52d7-5fb9-45f9-a18b-c8419b9586ff,01/03/2024,30/03/2024,"['notifications', 'budgeting', 'savings_pot']",Web,42333
+7dab73d0-3ef1-44a1-a202-6911eba3aa92,fd8274c3-1e95-4545-8887-99c3ccc3ef73,21/01/2024,08/02/2024,"['budgeting', 'loan_calc']",Web,26064
+12dba359-65b2-4370-a0ca-d7d6895f4b06,64eaecfb-0466-4638-9886-103ffcb740ed,07/02/2024,14/02/2024,"['budgeting', 'loan_calc']",Web,10295
+1ec11e1b-de45-434f-9970-3cd7eb6bc91b,5d16b26b-bb40-4a4e-b903-b75bc3b2b814,28/01/2024,28/03/2024,['loan_calc'],Mobile,86607
+cd3259b0-983c-4439-aee5-b788a971aa7b,42b7eb9d-89e0-4c73-969f-c2d266e13ae2,06/01/2024,29/03/2024,"['budgeting', 'notifications', 'loan_calc']",Mobile,119496
+6871baca-cfb7-4893-9030-970bdec3584d,e4f335f8-ce75-48a7-897e-135d102029a3,23/03/2024,24/03/2024,['notifications'],Mobile,1281
+14acae75-75d6-4d6d-b3bb-5b59e7aeeb2e,f8d814b6-46c8-4118-a4c9-29a78e34e93e,16/01/2024,22/01/2024,"['loan_calc', 'notifications', 'budgeting']",Web,7394
+7ead036a-2934-4ccc-ab95-6fa0b6c7a37f,947eab59-0103-4929-ac15-ecb2b82e30e9,26/02/2024,22/03/2024,"['notifications', 'savings_pot', 'loan_calc']",Mobile,35569
+7c5777fd-ac7a-4fb5-86ac-eefdc9af4608,20298690-cef9-42d8-8284-e5413a7c1c5a,02/03/2024,17/03/2024,"['loan_calc', 'savings_pot', 'notifications']",Web,21866
+21d1ae51-0521-4aa3-b227-435ef045100e,0ae4049b-aa39-46ec-9469-7e7659e2cb63,08/02/2024,17/02/2024,"['notifications', 'loan_calc', 'savings_pot']",Web,12141
+ddde4a31-c74b-455d-8840-22b9803c1e36,40cf6b0c-816c-43d6-b985-4b1ed5edd2a6,15/02/2024,04/03/2024,"['loan_calc', 'savings_pot']",Mobile,26909
+df1f1085-49a7-4c1d-b549-2258be328c52,bb70b845-e2fb-417f-a1ed-4d2ffc95df8a,05/01/2024,22/03/2024,"['notifications', 'savings_pot']",Mobile,111250
+554ad78f-11f1-4dfa-8995-00e53bf4f525,d41a6819-030d-48c9-95e2-f2b0dc1c5c10,01/02/2024,11/02/2024,"['budgeting', 'loan_calc']",Web,14958
+4f4d9f8e-787f-4bb6-8216-18ead89c77dc,085084bc-d2ed-4e35-8374-526db52e8e9d,26/03/2024,29/03/2024,['loan_calc'],Web,4331
+20925f43-6750-4bd7-88a4-da9aea662245,3e1762ad-7f04-4ca5-af8d-5e258b0c24d5,28/02/2024,09/03/2024,['loan_calc'],Web,13718
+38ea940e-84b4-4c94-83d7-afbcf6ff196b,c6cfccd2-eeb3-4316-a55e-9ccc34ee2a72,04/02/2024,22/02/2024,"['budgeting', 'loan_calc']",Mobile,26174
+2c5a92db-8fa4-4045-914f-5f2520eb5516,49cf1c24-20a2-440c-97f6-44d9c353e95f,07/02/2024,15/03/2024,['savings_pot'],Mobile,52916
+93965218-f432-41a6-bade-3382df5a1ba7,02cee621-5b1b-4e36-8c61-0c39d5d144da,28/01/2024,23/02/2024,"['budgeting', 'loan_calc', 'savings_pot']",Web,38284
+a379f257-e730-4572-a47a-659cda273445,f509b7f5-df07-4b29-b36f-6443f313dd26,04/02/2024,21/02/2024,"['savings_pot', 'notifications']",Web,25092
+a66b28d5-c40f-4760-a4bd-29744567de70,f109e130-9e3d-482b-80ab-112bc0bac3be,18/02/2024,01/03/2024,['budgeting'],Web,16330
+3f733be5-299a-4573-90a0-4f90f4fd90b7,4efbc7ca-f4ed-4c15-bd97-2c85744d1dbc,13/02/2024,28/03/2024,"['loan_calc', 'savings_pot']",Web,64327
+008f019e-de92-4708-8090-a904f8a39807,3e3ef7e6-9010-4bc7-8093-bee13c174495,21/01/2024,27/01/2024,['loan_calc'],Mobile,8704
+0484a39d-4fa9-4d52-8301-a76bd2754ca4,d7ff7103-3e93-40d6-9fdd-bec39c09ab56,14/01/2024,25/03/2024,"['budgeting', 'notifications']",Web,102468
+bd6b8ab7-ace8-42b1-88df-a3cf8ae9cb35,aaf8a030-b3b7-479a-a62e-00ec08c041b3,06/01/2024,16/03/2024,"['budgeting', 'loan_calc', 'savings_pot']",Web,101496
+60aa1e36-bf19-4dff-97fe-4c126a968b5e,cbfefdbc-11d0-4c9e-bc08-9481c96e4440,21/02/2024,07/03/2024,"['budgeting', 'savings_pot']",Mobile,22681
+c80516cb-1500-476a-aefb-aba178198f1b,0db1effe-7591-4c79-916f-3296986dba5c,07/02/2024,11/02/2024,"['savings_pot', 'notifications', 'loan_calc']",Mobile,4761
+f2755d81-615e-4413-a875-46e0e1580235,be13e91b-ee58-4fd6-ae80-fe9ae53d6711,05/02/2024,26/03/2024,"['budgeting', 'notifications', 'savings_pot']",Web,72773
+ace2323c-f9f2-461c-86c5-7b868ba698b7,7783d7a3-9053-4b5c-817e-eb774503a840,19/01/2024,11/03/2024,"['budgeting', 'savings_pot']",Mobile,75586
+7d03eb93-7394-4c11-a22a-89300e741406,d2129ff8-8e34-4968-a990-c1f74a2af0a5,31/01/2024,11/03/2024,['loan_calc'],Web,57666
+8564284f-b860-4c06-b746-d36cc511b942,ed28b7fc-35e3-4fe8-bf6a-0ad871495096,08/01/2024,10/01/2024,"['budgeting', 'notifications']",Web,3930
+b42ae2c9-8d74-46b7-9b94-f9f7780f0a50,085084bc-d2ed-4e35-8374-526db52e8e9d,03/02/2024,10/02/2024,['savings_pot'],Web,10298
+6ff67978-edf3-45cc-8c32-fd05b4e43f5d,d676e249-7138-42d0-9b9c-a0ba9344cb61,09/01/2024,12/02/2024,"['budgeting', 'savings_pot']",Mobile,48977
+aa899f38-25a8-4341-b21f-1c3c9c5fb497,52927210-fc5b-46b4-bb89-7e01c8f5fd76,18/01/2024,18/02/2024,['loan_calc'],Mobile,45288
+a85164a5-3261-4faf-9082-fa6fcfd7cb37,50dc8e6a-66be-40c3-b080-3172418fdebb,05/01/2024,02/02/2024,"['notifications', 'loan_calc', 'budgeting']",Mobile,40216
+96b3f39b-3032-4235-aee5-2391a6f9fcb8,4a196101-1fe2-41e7-86c7-5a53454c0dad,25/01/2024,28/03/2024,"['budgeting', 'savings_pot', 'notifications']",Mobile,91259
+3e595b32-66aa-42d7-babf-9226693d2950,50e7cd0e-61a8-4c6c-8309-d44d67c16bfe,04/02/2024,11/03/2024,"['savings_pot', 'budgeting']",Web,51543
+fc4c3f50-65ce-419d-bc6f-596a8f84a0a4,8f783b60-bcd7-4424-a5ef-4f3a9fb8cf5b,04/01/2024,12/02/2024,"['loan_calc', 'notifications', 'savings_pot']",Mobile,55558
+310c49bc-0c46-48e6-b487-099ad77d73af,3165443c-b2b9-4219-84d8-95ca5e72e91e,07/01/2024,18/03/2024,"['notifications', 'budgeting']",Mobile,102207
+c6378dd8-eca8-49b9-919f-605cf51cd159,476ce902-95e8-4817-89d9-7034a28fdffa,23/02/2024,14/03/2024,"['budgeting', 'notifications', 'loan_calc']",Web,28848
+4b8c4def-8de4-42c1-a1e3-30e3ac3802ac,85d8a3f8-3db4-4b35-adf8-62561cbfb3c0,20/02/2024,16/03/2024,"['loan_calc', 'savings_pot']",Mobile,35077
+501ce7b0-fc0d-478f-af20-838dd477783d,6676aca8-6740-42b0-81e4-358c6f7cf008,20/01/2024,05/03/2024,"['loan_calc', 'budgeting', 'savings_pot']",Web,63933
+cd2a31c6-1886-421e-9dc9-699bc726a3cb,084c5475-09b3-45f6-9759-ede294dab051,13/02/2024,04/03/2024,['loan_calc'],Web,28516
+1a1c1ef8-49b8-4685-8565-037bc8acc967,2a10bb85-2fa7-4b29-bf3f-74df3b5db165,20/01/2024,24/02/2024,"['budgeting', 'loan_calc']",Web,51707
+e91cbd21-8d2e-4f35-860b-4c8071621a97,d10b40f5-5777-445e-b4f8-2452a3fa11af,31/01/2024,17/03/2024,['budgeting'],Web,65934
+81f42af1-8d8a-4b6f-b61a-27cca0cd4f6c,29a7652c-985b-4627-a9ef-647e81d4d7c7,28/01/2024,18/03/2024,"['notifications', 'loan_calc', 'budgeting']",Web,72543
+f152caaa-d27e-43ba-beaf-d7eccfdd5ccb,1e7a2475-0886-4039-855d-5d1632aad0f4,02/01/2024,09/01/2024,"['loan_calc', 'savings_pot']",Web,9956
+32d5e41a-f40f-48c6-953c-d09ccf7fa72c,0db1effe-7591-4c79-916f-3296986dba5c,20/01/2024,05/03/2024,"['savings_pot', 'budgeting', 'loan_calc']",Web,65460
+0b23c1d0-2c31-416b-994c-150a3973f7ad,33d3821a-aa07-41be-a061-5bedaf99ab67,18/01/2024,29/03/2024,"['savings_pot', 'notifications', 'budgeting']",Mobile,102034
+4b5683ab-5584-451a-9b77-b0b17cefad2e,d6cb7cfd-0cc0-439a-a36f-7ce2960febde,11/01/2024,16/02/2024,['budgeting'],Web,51934
+8944f489-06a6-4d93-ade6-3600c08671de,7e49f965-ec87-4138-b26b-86b4c5802fbe,23/01/2024,15/03/2024,['budgeting'],Mobile,75703
+e05f9aa1-aff9-4669-8d0a-b99637da260c,5f699a7e-d975-4983-aba5-d74f092f3eff,05/03/2024,27/03/2024,"['budgeting', 'loan_calc']",Mobile,32559
+187b5641-9eb8-4009-92f9-4772804f24ea,c9d33854-0d00-4e5b-9616-c1c75ee06509,19/01/2024,06/02/2024,"['savings_pot', 'loan_calc']",Web,26209
+1c88cb86-51cf-4e83-9ca7-ca1594b8fdfd,7aa0c4af-901e-4ce9-82f3-b5b3199725ad,06/02/2024,18/03/2024,"['notifications', 'loan_calc', 'savings_pot']",Web,60037
+df12356b-78ba-4214-8224-5dfe4e018858,5a31878a-ed1e-428e-99f4-8cbfc4fba08c,22/01/2024,20/02/2024,"['notifications', 'budgeting']",Mobile,41510
+4a56681d-b366-4a3a-a6e5-c49435427c02,e3d384a2-375f-4518-ae17-f9195934c27a,20/02/2024,09/03/2024,['savings_pot'],Mobile,25700
+6796ac3b-dd7c-41aa-ad79-e2d0c29b91ad,8098f757-698e-45d8-97c5-b333b6882bcd,30/01/2024,20/02/2024,['budgeting'],Mobile,29961
+a5c581c6-8b21-4eae-8924-2011652fd61e,eb8633aa-026a-4cbc-b91b-a77d0bdc2fee,04/02/2024,12/02/2024,"['savings_pot', 'budgeting', 'loan_calc']",Mobile,10676
+dd9c5351-78e6-4f6f-ab5d-f83cf4804826,7419fcad-01df-4304-a8ad-487f1aa1ae64,18/02/2024,14/03/2024,"['notifications', 'loan_calc', 'savings_pot']",Web,35432
+d319a686-895a-4a62-9c7e-24ccee3eda15,101e02c2-e8e9-4fcf-9e6a-94249052d734,29/02/2024,13/03/2024,"['savings_pot', 'notifications']",Mobile,19027
+d77f4bcf-74e7-4bec-a2d1-5832071ce9cf,faf24cd8-178b-46c7-bbee-829fa20ee82a,16/02/2024,16/03/2024,"['budgeting', 'notifications']",Mobile,41633
+9d5c4cd0-7cd4-4573-8cd4-dffb7a1e7faf,caed1e80-df40-4f65-91af-58b348825aaf,15/02/2024,30/03/2024,"['notifications', 'loan_calc', 'budgeting']",Mobile,63618
+c031d136-df18-4111-911c-cd85e835e69f,ab086e45-6d23-4f3a-ac8f-3d1373e3956f,09/01/2024,12/01/2024,"['notifications', 'savings_pot']",Mobile,4219
+d6aff5a5-26d7-406d-a53a-2d3f9fa5c918,4844dbc4-832c-4d11-a60a-62b1f2ddeac3,30/01/2024,26/03/2024,"['budgeting', 'notifications']",Web,80926
+fd2fe9ec-f749-4c99-ac06-f99ec6534c4c,8820655f-afd6-4b9b-977b-c39bd0ea0413,03/02/2024,23/02/2024,"['savings_pot', 'loan_calc']",Mobile,27747
+ac575fc5-12fb-444e-85f1-f392dc2efe88,454b4af8-517f-4692-8d8e-10eb9a3d8297,29/01/2024,23/02/2024,"['budgeting', 'notifications', 'loan_calc']",Mobile,35818
+7a3ff205-d86a-465f-b578-cdf57b751a0d,127e9581-dabb-414e-a8c4-2d27797edf3c,05/01/2024,24/03/2024,['notifications'],Web,114267
+c73c7ba4-7983-4f7f-86ff-d4c3fb1b2b86,3df0af43-0115-45ba-b3d8-8732a88a68d6,21/02/2024,14/03/2024,"['savings_pot', 'notifications', 'loan_calc']",Web,32807
+b7a27a03-1773-4b62-b81e-857e0b899975,e46df74c-7f2b-43e3-8d22-10fee719080c,14/01/2024,19/01/2024,"['budgeting', 'savings_pot', 'loan_calc']",Mobile,6803
+906bffdb-7fb5-4b35-a0d9-ede7c45a0af0,38bc5f4a-9da9-4c42-9dc9-d7828dfccebe,02/01/2024,23/03/2024,"['notifications', 'savings_pot']",Web,116176
+dd2d379f-aa98-4550-a85a-3c45dd6c59f3,fec04489-3a7e-4701-80c5-766776c41dda,24/01/2024,28/02/2024,"['savings_pot', 'budgeting', 'loan_calc']",Mobile,50500
+8e225aa3-04fe-43bb-8d29-0a3bccf12c31,3dcbe47a-dd06-49ad-8ee3-ce8fa38b2d23,06/03/2024,23/03/2024,['savings_pot'],Web,24267
+ad05ed3c-8714-47af-89e0-bfe71e1aa51a,4cc07676-27f6-44e2-a022-2a794bd5b345,08/02/2024,18/03/2024,"['notifications', 'savings_pot', 'loan_calc']",Web,56332
+06cd06ca-925e-4a8f-9686-ecf4b5e5e023,639f41dc-8a34-4cf6-a23e-113726c3d150,27/01/2024,16/03/2024,"['budgeting', 'loan_calc']",Web,70024
+21131232-99a3-4bd3-a431-eff0bd6f8e18,dccf8899-e005-4e5f-abce-83582aee3460,14/01/2024,14/03/2024,"['budgeting', 'notifications', 'savings_pot']",Web,86056
+6df38f84-8c84-4687-b5e1-fae84168ec38,1d21c88f-dec7-4856-8cdd-ad41a7378e39,18/01/2024,31/01/2024,"['savings_pot', 'budgeting', 'loan_calc']",Mobile,17751
+78d2c21a-7b9c-4a83-9ae2-8a3477dc96ed,3f7e4a32-4e15-4925-91a8-c0a641791c2a,04/02/2024,26/03/2024,['loan_calc'],Mobile,73730
+ab567875-0261-4582-8bcc-929f36c0d615,476f9367-587e-4182-8102-a3ca5443d83c,15/02/2024,25/03/2024,"['loan_calc', 'notifications', 'budgeting']",Web,55693
+f5bf5384-4f16-4f37-be6c-b7011be767cb,769f33d8-c00d-48cb-901c-c8fb49ff2c54,20/02/2024,22/02/2024,"['loan_calc', 'budgeting']",Web,3057
+33a204e9-724d-4b6c-8d34-0566d1d89066,9f9beb79-821e-4118-8c32-9dc65d663770,03/03/2024,06/03/2024,['notifications'],Web,5198
+2530dc9e-c76e-4ceb-891b-9389844678fe,43d8f8b0-4bd2-4db3-bfa8-e091c58f2b53,31/01/2024,05/02/2024,"['budgeting', 'savings_pot', 'loan_calc']",Mobile,7538
+c176f07f-f8b1-47b8-9730-45d2c3ef4832,f9d91239-b61c-491b-a810-439192fb8cb2,24/01/2024,15/02/2024,['budgeting'],Mobile,31310
+56d2542a-d0a4-4050-ba33-46ca3865368a,02cad84b-4cbf-482b-8eba-7910ae2e115a,14/02/2024,03/03/2024,"['budgeting', 'notifications', 'loan_calc']",Mobile,25516
+d2925a0a-2457-4b7c-9d96-62cf10a63064,8b0f9bd4-30fd-42ed-866f-4ec2d842dac3,14/02/2024,23/03/2024,"['savings_pot', 'loan_calc', 'notifications']",Web,54760
+a28b0192-701a-45f3-a335-2b3a9577ece5,a8001f07-a5bb-4fd3-8746-302d870c2757,16/01/2024,26/01/2024,['budgeting'],Web,14002
+f008851e-ae6c-4c40-ac1c-e5698351cb28,7783d7a3-9053-4b5c-817e-eb774503a840,02/02/2024,21/03/2024,"['budgeting', 'savings_pot']",Web,69642
+737ecf0d-8493-4841-81f5-4febaa59a12f,df562e1c-f0dd-4d51-ad97-b0a3b6f9a550,19/02/2024,26/02/2024,"['loan_calc', 'budgeting']",Mobile,9530
+150a6595-4db3-4558-8603-e562839b6233,f9fead34-03aa-4fcc-ab20-3246df86337d,14/02/2024,26/02/2024,['loan_calc'],Web,16874
+959b8a6d-d86d-40a2-99ec-b681fd07a041,f18b2bfe-6b65-4118-827a-ad2b521a81a1,17/01/2024,23/01/2024,"['notifications', 'loan_calc']",Mobile,8102
+654c8878-6ae6-4427-a023-40e9f46e056e,3710087b-ccd3-42b0-a065-257c8520f222,06/01/2024,20/02/2024,"['notifications', 'loan_calc']",Web,64491
+64fea07d-3b51-495d-8e0b-7523e291b9cc,ff888699-b956-4f9e-816b-ca590ffd6371,04/01/2024,06/01/2024,"['loan_calc', 'notifications', 'budgeting']",Web,3569
+0ad827a0-0f73-494f-aba6-87a4838f44dc,5a31878a-ed1e-428e-99f4-8cbfc4fba08c,07/01/2024,04/02/2024,"['budgeting', 'savings_pot']",Web,40470
+753e87b4-9cb4-4ffe-bcba-ef55d196f0f9,39586d83-4bbe-4e85-a9a7-2aa45c348c65,05/01/2024,28/02/2024,['loan_calc'],Mobile,77885
+4e3c7886-7917-4f03-8070-49bbd1daa6d2,23e8fea9-bd20-4a92-bc50-d24c81cdb4dc,10/03/2024,21/03/2024,"['budgeting', 'savings_pot']",Web,15780
+afe73486-850a-49e8-a986-8c48925bc210,b6716e60-4c99-4e92-a849-70bfbce18c37,01/01/2024,13/03/2024,['loan_calc'],Mobile,103664
+a1c60703-443b-4f5d-8e4e-dc58d38e87f1,184183ae-b873-42c9-9736-cd4ec70455a1,07/02/2024,17/02/2024,"['loan_calc', 'budgeting']",Web,14876
+1f0985d5-a876-4320-ae27-3829108e1ee9,c42d492b-cf84-4449-84a4-6f9bc67daef6,13/01/2024,23/01/2024,"['loan_calc', 'budgeting', 'notifications']",Mobile,14645
+c48ce74b-26f6-4611-992b-a4821588c825,eb8633aa-026a-4cbc-b91b-a77d0bdc2fee,27/02/2024,14/03/2024,['notifications'],Mobile,22484
+610ed6b1-25ac-4449-a6c3-2f83b29aaf4f,b1830c2b-7be8-4448-8561-422c57cbbb6f,22/01/2024,19/02/2024,"['budgeting', 'savings_pot', 'notifications']",Web,40934
+0138b6ff-dde2-41d9-8bdd-da6f787a3050,762ebcaa-de76-415f-9289-a0d280d4270d,07/01/2024,13/03/2024,['loan_calc'],Mobile,95284
+e4aba29c-96ad-4220-962d-b7db1b248874,bb70b845-e2fb-417f-a1ed-4d2ffc95df8a,14/01/2024,04/02/2024,['budgeting'],Web,30349
+a4bd143a-91ec-4830-8110-75eb14c6457c,c222022e-f0c1-430e-9459-c2a9c87799de,01/01/2024,12/03/2024,"['savings_pot', 'budgeting', 'loan_calc']",Mobile,101299
+6362a837-d268-4c8e-b093-81503a7cac19,238cf77e-2fbc-40cb-bfad-35f32a90e7ef,20/01/2024,05/03/2024,"['notifications', 'loan_calc']",Mobile,64844
+9472eab4-b5f5-4da1-80f7-5efaf71bb6b0,b301cec9-81d5-4322-bc63-f987bb4810eb,11/02/2024,13/02/2024,['budgeting'],Mobile,3113
+dd7288d6-a515-4fbb-ac4a-45ca56d170ff,8efc52d7-5fb9-45f9-a18b-c8419b9586ff,03/02/2024,19/02/2024,"['notifications', 'budgeting']",Mobile,22465
+65063244-c0c1-492f-8597-56b45ffc0a5d,6ae1c525-f668-45b4-95e6-a3fc6ec9e341,06/01/2024,12/03/2024,['loan_calc'],Web,94511
+4d7498c8-ab37-4188-89db-64b7ab824d45,f17065a9-a5e9-4054-aaf0-74006ae50b46,01/03/2024,24/03/2024,['loan_calc'],Web,32244
+1803ccd1-1242-4320-8c58-c1e4e6a9fa07,515959b9-db6f-447a-bb8d-9a141e5da95b,02/01/2024,03/01/2024,"['loan_calc', 'notifications', 'budgeting']",Web,1365
+2f9f4dfd-ce34-49ed-991e-2f45fbf48c91,54d0087d-b357-4a84-8988-0c32cf7bc553,01/01/2024,30/01/2024,['budgeting'],Web,40939
+3030454f-369a-4150-bef8-965104584dc6,4f6e18e8-ad36-40fb-9421-2a18f013aa9a,18/02/2024,24/02/2024,"['loan_calc', 'notifications']",Web,8517
+4fae3788-9d67-44e0-8868-a36203c62564,b539ddb8-a374-48b1-9105-65ce4444accb,02/01/2024,22/03/2024,"['budgeting', 'notifications', 'savings_pot']",Web,115866
+7a176352-6ff9-4e6d-bb2a-fca21045b45c,20298690-cef9-42d8-8284-e5413a7c1c5a,02/01/2024,14/03/2024,['budgeting'],Mobile,104076
+665e0543-d6c0-40ee-a61f-12b8cf14d69c,18ef7905-de53-4113-846f-33ec0feaf1fa,18/02/2024,11/03/2024,"['notifications', 'budgeting']",Mobile,32663
+0422935a-b988-4ce6-9d38-3970e100fe3e,a073185d-33c4-4c4b-8495-f1ade133c90a,18/02/2024,14/03/2024,"['budgeting', 'savings_pot', 'notifications']",Web,35781
+b7bc3d8b-1d7c-4079-abd6-0b00cdf8c178,126f2367-75d7-4d55-b970-4eaa3916c31e,27/01/2024,18/02/2024,['notifications'],Web,31827
+a018fb2f-a56d-4259-8b0d-1d85ccdc590f,996c8852-baab-4b91-b03b-543f89b95a8f,02/01/2024,02/02/2024,"['notifications', 'savings_pot']",Mobile,44613
+bdad4ef6-4c46-42d3-9cfa-3e1e3e4599f5,50e7cd0e-61a8-4c6c-8309-d44d67c16bfe,15/02/2024,10/03/2024,['savings_pot'],Web,34695
+8e77bcec-a586-4f3e-9249-d0b8d56953ff,0cf22333-b7d9-45ac-b33c-07e8d614ca37,02/03/2024,29/03/2024,"['loan_calc', 'savings_pot', 'notifications']",Web,39325
+59b647a2-92d6-4e9c-b58f-79ba4af995da,4339b71f-4e0d-4ec7-a320-dadb99fbf637,17/01/2024,22/01/2024,"['savings_pot', 'loan_calc', 'budgeting']",Web,8122
+eb1b459a-011d-4bdd-9382-a99da17e6974,6e4ae58b-0d1f-4e63-9b6d-7be3cb03d7f9,10/01/2024,25/01/2024,"['budgeting', 'savings_pot']",Mobile,20918
+cfc2c376-0c8c-47e9-a412-e5bea3c856ec,754d6947-0d5f-44e0-b4db-451b14e530aa,09/01/2024,15/03/2024,"['notifications', 'budgeting']",Mobile,94378
+072956f1-65e2-4449-af18-d932e962df0d,82e1c0a8-d53c-4aa6-8528-f7b00b635030,17/02/2024,13/03/2024,"['savings_pot', 'loan_calc', 'budgeting']",Mobile,34987
+a99b0674-d524-466a-96b7-bc706c62c997,c2d10d8d-d41a-463b-aa64-22ce6262af58,14/01/2024,24/03/2024,"['notifications', 'budgeting']",Web,100721
+ad887b5c-5389-40a1-94db-d25cf133aafc,503bc695-e040-462b-9875-afd6f40e8582,22/01/2024,08/03/2024,"['savings_pot', 'loan_calc']",Web,65033
+5b09d1a0-bd3a-4005-bd18-3e2808004a88,4c5a2f32-f031-426c-8dc1-996329bc5abe,26/02/2024,10/03/2024,"['savings_pot', 'budgeting', 'loan_calc']",Mobile,18920
+821222e5-f88b-4545-b1a2-96bc86b1469f,673700c1-f66d-483a-a0da-ab25790052f3,17/02/2024,27/03/2024,"['notifications', 'budgeting', 'savings_pot']",Web,55237
+7ac6127e-6125-44db-8270-c0df15797257,ee117e6d-e1ff-41a5-9346-58e514ac002e,02/02/2024,18/03/2024,"['budgeting', 'loan_calc']",Web,64506
+619cd719-0576-4627-b501-be79ccbd2f9c,ee441ad9-509c-46ae-8847-57ff9fd59c8c,25/01/2024,30/03/2024,['notifications'],Mobile,93771
+f48e0d9f-7f6a-42f4-ac4a-489113ca3073,3f7e4a32-4e15-4925-91a8-c0a641791c2a,13/03/2024,13/03/2024,"['notifications', 'loan_calc']",Mobile,332
+7efe8532-d76e-4e3d-bb68-7147dc65cbc3,36f835d0-40a4-4b58-87a1-75a39277f46a,08/01/2024,02/02/2024,['budgeting'],Web,36157
+fe9a72b5-a06b-4055-af1f-072f956b4495,232ef6a1-25b8-4217-ab21-20c1bd0baed1,03/02/2024,26/03/2024,['savings_pot'],Mobile,73693
+018fa9f2-7655-4adc-b31a-1d8609d14800,d2129ff8-8e34-4968-a990-c1f74a2af0a5,06/02/2024,17/03/2024,"['notifications', 'budgeting', 'loan_calc']",Web,57576
+5fb9fdf8-f381-4887-a1a8-0da198915b0d,517a6395-6bf9-40cd-af05-c9bc5b3ba2c0,21/01/2024,29/01/2024,['loan_calc'],Web,12088
+3dcb78e2-96d9-431d-9373-2c7fca7c4237,85d8a3f8-3db4-4b35-adf8-62561cbfb3c0,28/01/2024,14/03/2024,"['budgeting', 'notifications', 'savings_pot']",Mobile,66363
+64f7809c-7a36-4714-8b9e-2e9996784cd3,3710087b-ccd3-42b0-a065-257c8520f222,03/03/2024,08/03/2024,['loan_calc'],Mobile,7096
+46445fc8-a4fb-4e52-bace-80b3d748078c,f255a341-30a4-4d3b-9bc2-7c0aced48802,08/01/2024,24/03/2024,"['notifications', 'savings_pot']",Web,109241
+7b4a5fa6-55aa-4eb5-8590-56bdfbca4abf,a26781e8-3fdc-4f2f-b43f-15b898550857,29/02/2024,05/03/2024,"['savings_pot', 'budgeting']",Mobile,7030
+f0995733-c29a-4efb-844e-9bf078bdd29e,7e49f965-ec87-4138-b26b-86b4c5802fbe,03/01/2024,02/02/2024,['loan_calc'],Web,41953
+54b3735f-9b86-4c62-ac9a-d2f2c437b949,aa99b759-0f40-492a-be07-293bcb0fd92f,09/01/2024,27/03/2024,"['savings_pot', 'budgeting', 'loan_calc']",Web,111953
+20e94823-171b-4c61-8142-e9b0b3f383a6,7a9a31b8-9b0a-4e3b-8f20-f6a09662391a,06/02/2024,21/02/2024,['budgeting'],Web,21293
+33d823be-efef-4c13-b022-21e5045a7c95,3dba1607-996c-46b6-9568-da26b4338b25,04/02/2024,21/02/2024,['notifications'],Mobile,24173
+94a6790e-3dbb-412c-b895-739ff911b0fd,3d9b321d-b2c1-4814-9a7c-1b2581578997,20/02/2024,21/02/2024,['notifications'],Web,1374
+dbefaab0-fdcf-45cf-944a-98d08a0ccf6b,352f7418-5c81-441b-ae4b-008caf13eae0,13/02/2024,27/03/2024,"['notifications', 'loan_calc']",Web,61924
+17e6b117-1ce4-41c8-aea8-c152c87f3d3c,a62e154e-e908-419d-aae1-a75bcdceccb2,06/01/2024,18/01/2024,['notifications'],Mobile,17327
+99477555-fd3a-4b4f-bc95-d9b542f01944,4050c2c3-54de-4a8c-92f6-1d3daf2e73f6,27/02/2024,17/03/2024,"['notifications', 'loan_calc', 'savings_pot']",Web,26218
+23b3ce99-2dde-49cc-8528-de4f9277def5,ea6fb0f7-21ac-419b-886e-d83a5c296076,01/01/2024,30/03/2024,"['loan_calc', 'budgeting']",Web,128271
+c2189510-10fb-40d7-b98e-eba70f1b6eac,5ce80007-04af-4b38-bb8f-a6efa151f05b,04/03/2024,14/03/2024,['notifications'],Mobile,14107
+904de6c2-347e-4168-8212-3ead810bae66,24df6ce6-9d72-48ef-ba6b-73120672efd6,16/01/2024,21/03/2024,"['budgeting', 'loan_calc', 'savings_pot']",Web,93103
+10bc843d-995a-4a14-ab87-6a7ba1a3372a,b249ad9c-d249-4825-a026-d4e112f5d2ad,08/01/2024,29/03/2024,"['savings_pot', 'loan_calc', 'notifications']",Mobile,116363
+e4d9befc-a564-4735-b280-f697555c4a32,20d834a4-f7cd-47f0-b951-84af20b8f1f0,09/01/2024,20/01/2024,"['loan_calc', 'savings_pot']",Web,16190
+826c8854-1517-49fb-af8a-4be596539206,33afe775-cb8f-406f-a7d1-7c8a311bfdfd,21/01/2024,31/01/2024,"['loan_calc', 'notifications', 'budgeting']",Web,13376
+a7207123-5fdf-47e9-b0c1-70afc40d0092,fb7d8eb6-3f56-4240-8e58-21c29c8820f1,20/01/2024,24/03/2024,"['notifications', 'budgeting']",Web,92610
+30c9cfe2-abf8-49a6-b22e-b1b3c98bfc80,d44274f1-203b-435d-a4d1-ddbd1494cac5,04/03/2024,14/03/2024,"['loan_calc', 'savings_pot', 'notifications']",Web,14973
+ef811591-2f34-4431-a513-a6f414222039,f255a341-30a4-4d3b-9bc2-7c0aced48802,13/02/2024,06/03/2024,"['notifications', 'savings_pot', 'budgeting']",Web,31656
+998cca87-cde8-431a-97f0-a4c4c82a89ef,d7fea523-7e75-4330-9de9-800f9cfe46d0,05/01/2024,24/03/2024,['budgeting'],Mobile,114334
+b435b8cc-a197-463d-97d0-43f220ac03e5,1fa4fed9-94bd-4f64-bb2e-6b6bba526d2c,07/01/2024,17/03/2024,"['savings_pot', 'notifications', 'loan_calc']",Web,100928
+572abbfb-93ab-49ac-acaa-e95093514a05,19c35df9-da66-4e33-b094-a34a3b20be1b,03/03/2024,20/03/2024,"['savings_pot', 'loan_calc']",Mobile,24099
+8e19613b-79b9-4395-a70b-c3e0fba0bb93,de88308b-1d55-41a1-8d51-cc938d50bfde,21/02/2024,23/02/2024,"['notifications', 'savings_pot']",Mobile,3038
+7d0ef7fc-142f-4530-b6e7-4fc11d166585,45534b52-ef77-457e-b084-0b7c2560d9e9,29/02/2024,05/03/2024,"['savings_pot', 'notifications']",Mobile,6116
+cb5b503e-7212-407f-9b21-17cb1fae905c,fae1522f-8922-4fa4-b93f-10b30e440101,03/01/2024,24/03/2024,"['notifications', 'savings_pot', 'loan_calc']",Mobile,115920
+ab0d8bad-afd3-426f-9e8c-0d03db436987,c11a6604-a6c4-4158-873c-60c59b901be8,29/01/2024,18/03/2024,"['budgeting', 'notifications']",Web,69739
+4e8f0afe-f548-470a-aa3f-8c85f7fcd8bd,00207988-da3d-43f5-a298-4c2a35862b7c,02/01/2024,17/02/2024,"['loan_calc', 'savings_pot', 'notifications']",Mobile,66940
+5c72f401-ef8f-4006-8990-754ce363316c,54d0087d-b357-4a84-8988-0c32cf7bc553,19/01/2024,03/02/2024,['loan_calc'],Web,20684
+2813989c-ac5f-48ee-9de3-3c3882510d11,8efc52d7-5fb9-45f9-a18b-c8419b9586ff,23/02/2024,28/03/2024,"['notifications', 'savings_pot', 'budgeting']",Mobile,48969
+ef714405-ffb1-4ccc-9573-a13bed908962,24df6ce6-9d72-48ef-ba6b-73120672efd6,05/03/2024,26/03/2024,"['budgeting', 'loan_calc']",Web,30053
+a08ea58e-91ff-4ef3-b3dd-167bad81b862,049e0d3d-529e-4af6-b457-fe534932938f,08/01/2024,10/01/2024,['budgeting'],Web,3168
+35eefd8b-356c-479a-88fc-6a553795c988,91c49acd-d210-483b-8035-da45356b8d37,28/01/2024,31/01/2024,"['budgeting', 'notifications', 'loan_calc']",Mobile,4897
+e829ac6e-d03c-4c02-b013-46537f50f550,23e8fea9-bd20-4a92-bc50-d24c81cdb4dc,15/01/2024,28/01/2024,"['budgeting', 'loan_calc', 'notifications']",Mobile,18270
+7b79280a-c207-4707-acf7-f30c4b67ab00,3d9b321d-b2c1-4814-9a7c-1b2581578997,21/02/2024,29/03/2024,"['savings_pot', 'notifications', 'loan_calc']",Mobile,53641
+c7aef003-0a8c-4c27-88a2-8fcd161721ff,11a85f9a-cadb-46c4-a69a-c71177db00d2,05/02/2024,27/03/2024,"['loan_calc', 'savings_pot', 'budgeting']",Mobile,73350
+80b8198f-b860-45e1-b019-566af1c68cb0,87849327-0bd4-4993-9e4f-85b9d741105f,19/02/2024,28/02/2024,"['loan_calc', 'budgeting']",Mobile,12947
+445d5e1c-996b-434c-a34f-3ef1ce62e32e,9f9beb79-821e-4118-8c32-9dc65d663770,31/01/2024,28/03/2024,"['loan_calc', 'budgeting']",Web,82445
+d3d85042-5163-482d-9122-f01deb1c35c5,b833ba14-c993-4e95-b7cb-9428978426b1,04/02/2024,14/02/2024,"['budgeting', 'savings_pot']",Web,13557
+b300ffe9-816e-432a-8cf1-3911c332eeb3,7783d7a3-9053-4b5c-817e-eb774503a840,13/01/2024,16/01/2024,['savings_pot'],Mobile,4500
+9bee16c9-d26b-4c9b-99ce-2f2a5e65b0f4,04bd80c5-4dff-4af9-a06e-4e649fab3aa4,08/01/2024,21/03/2024,"['budgeting', 'savings_pot']",Web,106332
+cf42f994-fefd-4297-9459-e4a8d9b99b90,7d6f5426-d97b-42ef-9eaa-c043c6bb77da,15/02/2024,25/03/2024,['budgeting'],Mobile,56116
+ea495750-0803-43cf-8e06-b4cc468e4535,8efc52d7-5fb9-45f9-a18b-c8419b9586ff,01/02/2024,02/02/2024,"['notifications', 'loan_calc']",Mobile,1447
+7a9a8d3d-9fd2-49b5-b87d-2cd28fe65973,471e2777-a784-48cd-9534-d9e394cee980,05/01/2024,21/01/2024,['notifications'],Mobile,22232
+12af3538-59f1-4120-b929-4141c6fb4eca,ff888699-b956-4f9e-816b-ca590ffd6371,09/01/2024,01/03/2024,"['notifications', 'savings_pot']",Mobile,74439
+c1e520ba-5be8-4541-8e30-c786cd7549ab,085084bc-d2ed-4e35-8374-526db52e8e9d,09/02/2024,23/02/2024,"['budgeting', 'loan_calc', 'notifications']",Web,19914
+b58cbd1e-e924-41b9-9f70-89968940ee19,3fda53f6-b99e-443d-9bba-394a51b65ffa,22/01/2024,15/03/2024,['notifications'],Web,76335
+bfefdaab-999b-46d6-9e3b-eab02e164dd7,184183ae-b873-42c9-9736-cd4ec70455a1,07/01/2024,04/02/2024,"['loan_calc', 'savings_pot']",Web,39642
+77c3fbc2-0b98-4927-84c0-8e436d12a17f,184183ae-b873-42c9-9736-cd4ec70455a1,25/02/2024,07/03/2024,"['loan_calc', 'budgeting']",Mobile,16896
+c8d423f1-21de-4f69-aa80-3b52b19a5ab9,4233607c-0979-4a3d-8f0b-2a403db733b7,06/02/2024,07/03/2024,"['loan_calc', 'savings_pot', 'budgeting']",Mobile,43543
+c3e545cf-4a10-4d56-9a02-c9aefe7e5c03,23f28c59-9a71-4cf6-b8c2-2744b7138e30,11/03/2024,27/03/2024,['budgeting'],Mobile,22978
+8dd014b8-284e-43b3-9a81-e573e74bef63,b9c85c8c-af88-4a43-a6fe-13817b802fb3,30/01/2024,04/03/2024,['budgeting'],Mobile,49245
+6a5ef386-cbfd-4114-8982-c7dad6db3b59,488ce3c6-3e54-4518-b580-254949fd7fd6,03/01/2024,27/03/2024,"['savings_pot', 'notifications', 'loan_calc']",Web,120474
+fa43bf4f-e93b-4766-a619-d00a492f405c,a42fcfba-edf9-4493-bf56-44bf71f1b0b7,25/01/2024,05/02/2024,"['notifications', 'budgeting']",Mobile,15512
+b921b961-d1a4-446f-8da1-d248b6cc6a6b,084c5475-09b3-45f6-9759-ede294dab051,12/03/2024,18/03/2024,['loan_calc'],Mobile,8819
+012f5d3c-fb89-4d37-a363-8b5251e98f64,a073185d-33c4-4c4b-8495-f1ade133c90a,11/02/2024,11/03/2024,['loan_calc'],Web,41990
+b3f7b45e-fbcf-4653-a0d2-59e469558083,7321954e-13a8-4736-8720-1613e9d5ab96,14/02/2024,28/03/2024,"['budgeting', 'savings_pot', 'notifications']",Web,62214
+475b9a73-4216-4dbd-b367-3eff64a32b13,4cac66d2-dbce-47af-8bcd-be0033309827,21/01/2024,21/02/2024,['notifications'],Mobile,44489
+e3cfd595-bb91-4d2f-aebb-140cd25d006d,86f31468-89f1-4065-86f2-661ec3bad8a8,09/02/2024,24/03/2024,"['savings_pot', 'budgeting', 'loan_calc']",Web,64129
+fdbe5c6e-8a9c-4d9d-8728-b8693e4e22e7,ad40abeb-ab3a-4ded-925c-5e8423ba31bd,17/01/2024,14/03/2024,"['budgeting', 'savings_pot', 'notifications']",Web,81676
+ff1e3b65-622d-47eb-bff3-0139bb09427d,488ce3c6-3e54-4518-b580-254949fd7fd6,02/03/2024,29/03/2024,"['savings_pot', 'loan_calc']",Mobile,37738
+a80b3d0b-4cfd-4334-be81-60961deadddd,503bc695-e040-462b-9875-afd6f40e8582,23/02/2024,25/02/2024,['budgeting'],Web,3353
+18b25a63-4022-477d-ac29-d0b63510628f,996c8852-baab-4b91-b03b-543f89b95a8f,04/02/2024,28/02/2024,"['savings_pot', 'budgeting', 'loan_calc']",Mobile,34033
+39e0dc35-c083-4490-9270-002fce26805f,6e28af27-b8ff-49e2-b13e-c5401115f563,08/01/2024,21/02/2024,"['loan_calc', 'notifications']",Mobile,62905
+df639ce1-7fd5-4789-8a12-1be3656a5149,b25975a4-5ebd-4668-9e9a-ab1dc31207fb,26/02/2024,26/03/2024,"['savings_pot', 'notifications', 'budgeting']",Mobile,41700
+6666e720-e5cf-45d2-909e-303b3e737969,ca4dd150-5bc2-4ca6-bd34-f1c04e5a87af,27/01/2024,15/02/2024,['savings_pot'],Mobile,26330
+d30c9b5a-5012-44a7-b023-0321ea981cf0,4cc07676-27f6-44e2-a022-2a794bd5b345,23/01/2024,31/01/2024,"['savings_pot', 'notifications']",Web,11114
+190739e0-b880-44a6-bf36-652b245409b3,223199b7-fe9b-4867-8cfb-99797a14c4e0,05/03/2024,08/03/2024,['loan_calc'],Web,4235
+3c9dcbbb-95eb-45e4-b760-3764b8c86fd0,2fddd608-4438-4998-b590-ec1418e4c90e,07/01/2024,08/01/2024,"['savings_pot', 'notifications', 'budgeting']",Web,574
+b931c6f9-613f-4ab6-a098-afb6d2140298,659a0763-5da4-4a9e-bc54-e3e730c1f30a,08/01/2024,22/01/2024,"['budgeting', 'notifications', 'loan_calc']",Web,20452
+57da4465-9fac-48c3-a009-ccdbd9d68362,f74802bf-6917-4276-b29f-514e2c43e69b,25/01/2024,01/02/2024,"['notifications', 'budgeting', 'loan_calc']",Web,10344
+fd9b5a7a-6ca6-4210-a5a1-fef2a98513a3,4efbc7ca-f4ed-4c15-bd97-2c85744d1dbc,15/01/2024,30/03/2024,"['budgeting', 'notifications']",Web,108558
+fddda6b2-b88b-471b-8749-68cc1972646b,b91eb521-6ac5-47ff-bbd7-dc1cd5149c0c,27/02/2024,21/03/2024,['savings_pot'],Web,32964
+8a1557bd-f0eb-4436-b1a2-fe04460a9ee3,83dd5108-98bb-41a9-ad1b-834225f05178,15/01/2024,28/03/2024,['loan_calc'],Web,106021
+b2bf1718-523a-4d1d-94c5-8291c430badc,084c5475-09b3-45f6-9759-ede294dab051,05/02/2024,15/03/2024,['budgeting'],Mobile,56638
+e3ae8253-51f9-4bac-97cb-3be7b34c48bd,0ff19026-554f-47e8-bdff-9e41120deb5a,29/01/2024,05/03/2024,"['savings_pot', 'loan_calc', 'notifications']",Mobile,51428
+d7635b66-706b-4027-b8f5-1eb7985e8b1b,e43944c2-da56-4056-83fa-e082eb2603e8,02/02/2024,01/03/2024,"['budgeting', 'loan_calc', 'savings_pot']",Mobile,40554
+0196bbf2-7d11-4f43-8ec5-447f937ce658,81998f73-dc20-4c69-ba57-d24d40820d84,10/01/2024,28/02/2024,"['notifications', 'budgeting']",Mobile,69813
+e9854379-8e23-49f1-9490-c4cc2a023195,29d15aba-b8ca-4ab6-a53f-fd0d9fb47de0,09/01/2024,07/03/2024,"['savings_pot', 'budgeting', 'loan_calc']",Web,83603
+b6dfc612-1603-4e18-ad8e-80cd0155853a,3ad98fc5-608a-498b-9e8f-032824bfe75a,01/01/2024,21/03/2024,"['budgeting', 'loan_calc', 'savings_pot']",Web,115545
+59f700a0-c96f-4226-ada5-5f724dee5502,04bd80c5-4dff-4af9-a06e-4e649fab3aa4,29/01/2024,10/02/2024,"['budgeting', 'notifications']",Mobile,18145
+786c112d-08d7-414c-9a9c-3d93d26554cc,a3a97ba5-5e33-4421-8025-268dc6bfcd14,10/01/2024,04/03/2024,"['savings_pot', 'notifications']",Mobile,77466
+daa1f33a-4e57-408c-82c6-e5efbb054973,0050555c-4baf-45a9-9c76-91a0593d9da9,08/01/2024,01/02/2024,"['budgeting', 'notifications']",Web,34506
+877e4085-076d-44e0-abde-00fa8945a48e,14ed53b9-6ae5-4de3-a91d-f36c6c23eeef,18/01/2024,24/01/2024,"['budgeting', 'loan_calc', 'notifications']",Web,9089
+84600e83-bf7e-444e-87be-2a37664248c4,3dba1607-996c-46b6-9568-da26b4338b25,09/02/2024,12/03/2024,['budgeting'],Web,46677
+95482598-5b42-4d49-997d-bc207fab47d6,bb70b845-e2fb-417f-a1ed-4d2ffc95df8a,20/02/2024,06/03/2024,['notifications'],Mobile,21431
+302485ab-181f-44a4-8270-01d6890cff1f,d676e249-7138-42d0-9b9c-a0ba9344cb61,10/01/2024,09/02/2024,['notifications'],Web,43910
+fe1e9ce5-65b1-4d66-9884-1f2fe0a8869d,33afe775-cb8f-406f-a7d1-7c8a311bfdfd,03/01/2024,07/03/2024,['notifications'],Mobile,92589
+8c857859-fac4-4726-93ad-776e5792a6f4,1de113c8-3e18-4d7f-b9e6-4025bc05571e,09/01/2024,08/02/2024,['budgeting'],Web,43268
+a0874fd4-7118-432e-8f6c-eb87af8f3792,4844dbc4-832c-4d11-a60a-62b1f2ddeac3,02/02/2024,29/03/2024,"['notifications', 'budgeting']",Web,80644
+e76fc8c8-3107-4fda-8f29-d40616fbca13,559537c3-2ba2-4112-9790-9ea894870380,09/01/2024,21/03/2024,"['notifications', 'budgeting', 'savings_pot']",Web,103751
+c7baa458-c65f-48b2-8404-0d7cca90c955,579dd5dd-4bc7-48cc-8e56-afd590fce178,12/03/2024,21/03/2024,"['savings_pot', 'notifications']",Web,12768
+73ea663e-7ded-4592-8819-35f94918fdf8,0994803a-2cca-4a7f-9ff1-49fe855c94c4,30/01/2024,04/02/2024,['budgeting'],Mobile,7125
+731a55b0-6308-4a05-b824-74700fd3112d,0994803a-2cca-4a7f-9ff1-49fe855c94c4,05/02/2024,19/02/2024,['notifications'],Web,21085
+a1c4006a-5665-4221-923a-b08ca7b7cf3d,3710087b-ccd3-42b0-a065-257c8520f222,02/01/2024,04/02/2024,"['notifications', 'budgeting']",Web,47590
+b6872cd3-5306-4040-9335-f78cd69be30f,cd55ed4d-a2c3-436f-98bc-6da6bdcccd7c,07/02/2024,16/03/2024,"['savings_pot', 'loan_calc', 'budgeting']",Mobile,54405
+16e932a4-4b11-4154-974a-ce7ae899950f,45534b52-ef77-457e-b084-0b7c2560d9e9,05/02/2024,13/02/2024,"['savings_pot', 'budgeting', 'notifications']",Web,12028
+45bd565e-e2ab-4cfb-a3fc-55486c2646e5,4086f94d-cf8e-4106-90b8-33c20dc172cd,11/03/2024,12/03/2024,"['notifications', 'budgeting', 'savings_pot']",Mobile,1263
+aa794bc5-7ce6-4437-b32f-44ed7f4f97c3,f74802bf-6917-4276-b29f-514e2c43e69b,08/01/2024,19/03/2024,"['loan_calc', 'budgeting']",Mobile,102161
+8cdd4322-1c61-4985-89b5-9c3c56f78e75,750153d9-7056-4219-a037-4e4d0a75056f,20/02/2024,10/03/2024,"['savings_pot', 'loan_calc']",Web,26055
+e73ce9dd-5f6a-4c00-a4e0-3b40b15f09a6,c2426a9a-833b-4c90-a442-75ff3e587d03,16/01/2024,13/03/2024,['budgeting'],Web,82535
+db607065-031f-4c55-b75c-09d2937c72da,e64ce0ea-a494-43c4-9f4c-f368f55ec413,03/03/2024,17/03/2024,"['notifications', 'budgeting', 'loan_calc']",Mobile,21040
+5a145876-fc7c-461a-bf41-f501779b9dfc,ca4dd150-5bc2-4ca6-bd34-f1c04e5a87af,16/01/2024,27/01/2024,"['budgeting', 'notifications', 'savings_pot']",Mobile,16448
+2b462826-f99e-4a4f-8ea6-934b39008388,f155465a-44eb-4db1-a5cf-fcfc2cc44484,25/01/2024,30/01/2024,"['budgeting', 'savings_pot', 'loan_calc']",Web,6537
+7c12af8c-6fa4-4adb-88e2-bb8fb4b5b863,d7ff7103-3e93-40d6-9fdd-bec39c09ab56,25/01/2024,27/03/2024,['loan_calc'],Web,89566
+cdd49df0-6244-47a3-8614-ec3175261870,7190e124-10c6-4444-bd14-74434bbfc61c,06/01/2024,01/02/2024,"['budgeting', 'savings_pot', 'loan_calc']",Mobile,36519
+c8cb130b-08b9-4da5-8178-27a3ef5d7926,311ef060-6e50-4c86-96b0-96514a80b3a6,16/01/2024,16/01/2024,"['savings_pot', 'loan_calc']",Mobile,390
+6b878bc8-a805-4e68-973d-d68887f89431,aaf8a030-b3b7-479a-a62e-00ec08c041b3,09/02/2024,21/03/2024,['loan_calc'],Mobile,59419
+032e93b5-35e3-4519-8959-835c927d89a7,476f9367-587e-4182-8102-a3ca5443d83c,26/01/2024,04/02/2024,"['budgeting', 'loan_calc', 'savings_pot']",Mobile,13052
+867a5f00-fdec-43ba-b4f2-dd9ff949fa51,8f4db454-b1ec-458b-8d06-aa522b1616cd,28/01/2024,07/03/2024,"['loan_calc', 'savings_pot']",Mobile,56663
+4ca7b252-c0f2-4ffb-938b-ecd4c21ce218,1a6576a6-7b28-40ff-b2d9-74ed24a7fe5c,08/01/2024,26/03/2024,"['savings_pot', 'budgeting', 'notifications']",Mobile,113376
+d21c5372-f651-4cd7-aaaf-7449bb4e615b,517a6395-6bf9-40cd-af05-c9bc5b3ba2c0,02/02/2024,22/03/2024,['budgeting'],Mobile,70395
+50400ef9-5bd5-4f44-b52e-cba0dca78a11,ff1294b2-ba61-462b-ae55-d108c5d28c8d,23/01/2024,30/03/2024,"['notifications', 'loan_calc', 'budgeting']",Web,95213
+2703cd64-5827-4247-b84e-0d68c04923d8,a21d2207-9bef-420c-8112-4eb399874b93,23/01/2024,31/01/2024,"['notifications', 'savings_pot']",Mobile,11984
+55270093-bc7f-4a0a-a18b-26579f4c52ae,4a196101-1fe2-41e7-86c7-5a53454c0dad,26/02/2024,30/03/2024,"['loan_calc', 'savings_pot']",Mobile,47228
+cec35d8e-5bfb-4af4-9217-916dfb75b5fd,de4e3795-7f04-4dcf-b01b-631953764240,15/02/2024,25/02/2024,"['budgeting', 'savings_pot']",Web,15456
+99b13406-325f-40f4-a6a3-e05dc018c812,6e28af27-b8ff-49e2-b13e-c5401115f563,24/02/2024,22/03/2024,"['loan_calc', 'savings_pot', 'notifications']",Web,39255
+92156861-af35-4b06-a465-dcb163fb1fd7,838a400b-1dde-480b-b1d8-a0b81b53b18c,18/01/2024,05/03/2024,['budgeting'],Mobile,66720
+48587c70-0ed6-40fe-a1b5-e573b28ea974,24d7cfe3-19e1-4c6d-9a08-b8a403dff569,10/01/2024,09/02/2024,['budgeting'],Web,42523
+f6186110-01a6-45b4-9cbd-7fdb019af004,ad40abeb-ab3a-4ded-925c-5e8423ba31bd,13/01/2024,26/03/2024,['loan_calc'],Web,105779
+ccd2d925-ec34-42ec-b89c-860aee1fb77e,ff29aaab-cf57-4265-9a76-80446497be18,28/01/2024,29/02/2024,['savings_pot'],Mobile,45751
+36e0c5d7-0d92-4129-93dd-6177ce02268d,64eaecfb-0466-4638-9886-103ffcb740ed,01/01/2024,16/01/2024,"['savings_pot', 'budgeting']",Web,20749
+1e942cb8-eea0-490a-be41-0a3706e68665,12a228c5-f019-4dc0-a1fb-4c06ba98c788,06/02/2024,21/03/2024,"['savings_pot', 'notifications', 'loan_calc']",Web,64767
+3b280db2-4265-45e2-bb64-965c1ab12d70,52927210-fc5b-46b4-bb89-7e01c8f5fd76,31/01/2024,09/02/2024,"['notifications', 'loan_calc']",Web,13377
+783fd8b3-392d-429b-a003-bd07c024dd4a,81d135d4-a2e2-4490-8025-42db1075bd0e,30/01/2024,29/03/2024,"['loan_calc', 'notifications']",Web,84533
+a4749299-abbc-49f5-8fdc-6a24896e219c,b58dfdac-776d-45a8-a0fd-a592b38b1da8,31/01/2024,07/02/2024,['loan_calc'],Mobile,9781
+afe00c06-4a7c-462b-ae6d-2b7da65e2eba,488ce3c6-3e54-4518-b580-254949fd7fd6,09/02/2024,04/03/2024,['notifications'],Mobile,34951
+335f1254-ce6e-427c-8c60-7ade20247dc0,6ae942fb-9fd5-4496-a9d2-1633df3951cf,19/03/2024,25/03/2024,"['notifications', 'budgeting']",Web,8669
+a51b78f3-c730-4fe3-8fc7-c3e8c19c9114,6ae1c525-f668-45b4-95e6-a3fc6ec9e341,29/02/2024,07/03/2024,"['savings_pot', 'loan_calc', 'notifications']",Web,10357
+66390f5b-4507-498a-9abb-2b9df0151efe,7190e124-10c6-4444-bd14-74434bbfc61c,13/01/2024,01/03/2024,['budgeting'],Web,68753
+7aaa9495-e050-40c4-9ab2-e5c5e6d136bb,a073185d-33c4-4c4b-8495-f1ade133c90a,19/01/2024,05/02/2024,['loan_calc'],Web,25182
+ecb745b4-f7d7-478c-9dbe-be94041d045c,5f888994-a2dd-4b6a-a855-11f6042c45b1,13/02/2024,22/02/2024,['budgeting'],Web,12169
+d64e71fa-4b61-40aa-8db3-1f45e1ced8dd,b1830c2b-7be8-4448-8561-422c57cbbb6f,29/01/2024,20/02/2024,"['notifications', 'budgeting']",Web,30875
+79c71bea-54d2-4e23-a7b3-05f8bf823597,3710087b-ccd3-42b0-a065-257c8520f222,17/01/2024,17/03/2024,"['loan_calc', 'budgeting']",Mobile,86808
+db24c630-b482-4d23-9378-813ef313e90a,0670c849-260d-4bd0-be9f-21f192959e68,30/01/2024,02/02/2024,"['budgeting', 'loan_calc']",Web,5474
+36763670-e4c3-48ee-870d-f07687f1cfc1,dccf8899-e005-4e5f-abce-83582aee3460,14/02/2024,15/03/2024,['savings_pot'],Web,43642
+e9fc6db0-bebf-4c09-a03c-e2122f9e1448,4cf39ed1-2316-4a4d-bab2-54fe18cb3ced,22/02/2024,26/02/2024,['budgeting'],Web,6460
+9523a8c3-4b1d-4b2c-a12a-76f824527a7f,f1177af0-03c4-4a6e-bfc8-2b39e6c201fe,23/01/2024,13/02/2024,"['notifications', 'budgeting', 'savings_pot']",Mobile,31192
+5d023aa3-5c77-446c-8f29-99b7957ce48d,ff888699-b956-4f9e-816b-ca590ffd6371,05/02/2024,28/02/2024,"['budgeting', 'notifications']",Web,32156
+c76f3099-4d47-45f5-a9ee-72e6b5efed64,f17d87c0-c59e-4615-8366-4d25ff6b057c,11/01/2024,29/03/2024,"['loan_calc', 'budgeting']",Mobile,113147
+8c7f4393-921e-487e-89f3-89d6c7d1bd05,bbcd0c2d-4552-41db-9e76-20a1655d028f,19/01/2024,17/03/2024,['savings_pot'],Mobile,84416
+d0b15237-1b76-477e-9b3b-9dff534374f3,23f28c59-9a71-4cf6-b8c2-2744b7138e30,17/01/2024,12/03/2024,"['budgeting', 'notifications']",Web,79302
+caf99a3a-afcd-446c-95b2-72d13bd72af1,b91eb521-6ac5-47ff-bbd7-dc1cd5149c0c,03/01/2024,22/03/2024,"['loan_calc', 'notifications']",Web,113776
+01bf1247-4067-4415-bc64-09f7b28e79b9,d41a6819-030d-48c9-95e2-f2b0dc1c5c10,20/01/2024,05/02/2024,"['notifications', 'budgeting', 'savings_pot']",Mobile,23324
+c2db9247-efd3-4999-afa8-572168cb4449,41d0b626-7c97-4b26-85fe-20cefb08c6e2,27/01/2024,21/03/2024,"['notifications', 'budgeting']",Web,77888
+1edaca31-018a-47d3-a802-0e9a6787e700,e349bb99-413b-4992-8ea2-4a6b7c9ca2f8,07/01/2024,17/01/2024,"['budgeting', 'savings_pot', 'notifications']",Web,15401
+482659d3-c088-48a0-abfd-80c397b44b2d,403540b8-37a4-4546-b62a-d75b0110e574,07/02/2024,12/02/2024,['budgeting'],Web,7339
+0b981d5a-6b7c-4ae3-8280-ad80fa08134e,67771868-a0d8-436a-b200-5e99a3c4933c,13/01/2024,17/03/2024,"['budgeting', 'loan_calc']",Mobile,91485
+00f00901-b01c-4486-b675-271a877c5195,f17d87c0-c59e-4615-8366-4d25ff6b057c,28/01/2024,21/02/2024,['savings_pot'],Mobile,34274
+1d1b85c1-212a-4a7e-bf34-b49da0e7a075,354a8a72-0397-49b3-beeb-0277983cfa38,29/02/2024,09/03/2024,"['loan_calc', 'budgeting', 'notifications']",Web,12274
+67caa06c-453f-4597-a7fa-5f18fe2fd761,94acfcee-13de-418e-a9ff-c0e4eab72ade,15/01/2024,04/03/2024,['loan_calc'],Mobile,71094
+511d6d8d-065a-4c63-b7c0-5461d110d3fd,304bbd53-4431-4f1c-9d1c-941202e89c2e,04/02/2024,01/03/2024,"['savings_pot', 'budgeting', 'loan_calc']",Mobile,38172
+a7379f5b-065e-460f-9410-f496be4b2a55,4fdd6850-cef6-41bf-b706-82aadbe7f010,07/01/2024,01/02/2024,"['notifications', 'budgeting']",Web,35377
+50b32660-fdf3-4fd7-aea2-6a6b6d9b68c8,471e2777-a784-48cd-9534-d9e394cee980,10/02/2024,14/03/2024,['savings_pot'],Web,47079
+944644ba-4c66-451e-8319-3dbb5e62c6c1,dcf69da4-8010-493f-8949-ecc3ea73144e,22/02/2024,29/03/2024,"['savings_pot', 'notifications']",Mobile,50927
+2728a38a-de1c-45b0-98e0-4b4486fd6c96,ac997db4-da03-4f9d-8f92-32c2a20d0039,06/02/2024,09/03/2024,"['loan_calc', 'budgeting', 'savings_pot']",Mobile,46626
+dc429bd1-4e9c-471c-a0f6-7fefd71482c7,5f94602b-e3f1-4321-bea4-88a6f8d17225,18/02/2024,23/02/2024,['budgeting'],Web,7266
+aec680b1-1629-4697-ac6f-84d6efa94e3a,91c49acd-d210-483b-8035-da45356b8d37,08/02/2024,15/03/2024,['notifications'],Web,52453
+ab026245-32ea-4583-8682-6f7b3eaa4586,2b5489c5-93ae-48cc-8cea-c2d9b72cd903,04/01/2024,08/02/2024,['budgeting'],Web,50062
+73c3bde7-a1a0-4818-8ba5-afd29b00cfea,e46df74c-7f2b-43e3-8d22-10fee719080c,12/03/2024,28/03/2024,"['budgeting', 'savings_pot', 'notifications']",Web,22935
+efe71f30-5783-4c7c-b9d2-4d9d620a26eb,435ee49d-59d2-491d-9289-b214862ba3fc,02/02/2024,03/03/2024,"['budgeting', 'notifications']",Mobile,42941
+988bfedd-fb14-4479-87ee-721d5997da13,128a63d2-8ce2-47dc-8280-e40fc31ddda7,04/03/2024,19/03/2024,['savings_pot'],Mobile,21671
+9a102b8f-5d06-474d-9e89-8d1826e728ce,1f0e4c7b-7398-4384-be63-c5565475f0ea,22/03/2024,26/03/2024,"['savings_pot', 'budgeting', 'notifications']",Mobile,5365
+bc48a721-5b9b-4e82-a168-1abb8245a265,c36a63ef-5f73-451f-b477-ac2283c552b6,18/02/2024,22/02/2024,['loan_calc'],Web,4703
+99bc8dfd-6eb1-4488-9485-90c2ef031fb8,34318e67-2eb4-4552-a551-41309330d8d9,24/02/2024,21/03/2024,"['loan_calc', 'savings_pot', 'budgeting']",Mobile,37737
+a72acf56-6e93-4d27-8024-d349a9c95217,f9fead34-03aa-4fcc-ab20-3246df86337d,08/01/2024,28/01/2024,"['savings_pot', 'loan_calc', 'budgeting']",Mobile,28043
+02d9cfab-e87c-41ce-9498-a516161e6810,3a4aa2c4-649e-49c2-85b5-6fe3bb256a38,23/01/2024,23/03/2024,['notifications'],Web,85802
+24ea7964-1b11-457f-a6e1-751058786eab,46e7fd64-0624-4580-842c-ea455da1842d,29/02/2024,18/03/2024,"['savings_pot', 'notifications']",Mobile,25744
+8467bf78-e518-4bf3-80ae-b236166e2c0f,2b5489c5-93ae-48cc-8cea-c2d9b72cd903,01/03/2024,06/03/2024,"['budgeting', 'notifications', 'savings_pot']",Web,6513
+b960b16c-8429-4120-8f00-1639a33037bb,24d7cfe3-19e1-4c6d-9a08-b8a403dff569,16/01/2024,15/02/2024,"['savings_pot', 'notifications', 'budgeting']",Web,44019
+f244d95a-b74b-47e9-893d-07dcf60c9e5c,37dd21d9-af60-4ee1-89c9-76396cae0978,25/02/2024,22/03/2024,['savings_pot'],Mobile,37730
+2a968c54-fbf2-468a-acf0-70d354a56be6,f6c40bcb-c791-4f4f-b113-0c226c64f08b,05/01/2024,17/02/2024,"['loan_calc', 'notifications']",Web,61944
+07888131-0b2d-4193-a1b0-a0d87790ff5a,bbcd0c2d-4552-41db-9e76-20a1655d028f,21/02/2024,13/03/2024,"['budgeting', 'notifications']",Mobile,31104
+f6ef2e94-42ff-4e0e-b342-1ca396a0a1e6,791b41e6-640c-4c0d-a8d5-a0f5ee7c2bc2,28/02/2024,02/03/2024,"['loan_calc', 'savings_pot']",Web,4270
+84ad372a-e8fe-46b0-b754-274754d203fe,d5f80f81-cdfc-471c-8cd1-7189ec782753,02/03/2024,30/03/2024,"['loan_calc', 'notifications', 'savings_pot']",Mobile,40024
+d99bdb1a-4179-4cb9-b143-608baae4f76d,71a065d4-9e66-4e35-b70d-4f2790a07327,09/03/2024,27/03/2024,"['loan_calc', 'budgeting', 'notifications']",Mobile,25775
+8777beec-86f2-40be-97a0-34227bd4ed3c,517a6395-6bf9-40cd-af05-c9bc5b3ba2c0,31/01/2024,09/03/2024,"['notifications', 'loan_calc', 'budgeting']",Web,55793
+13dd4fc3-9912-4625-9dea-cc7ad11b0b69,cfed6ce6-0153-476b-aed7-b80cc1019f4c,09/02/2024,27/03/2024,"['notifications', 'loan_calc']",Mobile,67985
+8a9baeec-6ecd-4e8c-bc84-9a69b548a1db,1de113c8-3e18-4d7f-b9e6-4025bc05571e,10/01/2024,30/03/2024,"['budgeting', 'loan_calc', 'notifications']",Web,115147
+0e97bae7-af84-43d2-ac4b-2907785a5df2,54cac78b-1cd2-4b7a-b012-b6b2e2adb653,01/01/2024,16/01/2024,['loan_calc'],Web,20538
+096aad32-56e7-4b04-aeec-107888c17c4d,8e4d5aee-da56-43a4-9d39-da8dab153bb1,09/01/2024,29/03/2024,['loan_calc'],Mobile,114509
+3f23ea18-faf8-4587-9d85-a97ee6724b17,d7ff7103-3e93-40d6-9fdd-bec39c09ab56,21/01/2024,14/03/2024,['savings_pot'],Mobile,76878
+52dad304-dc8f-487d-8fa1-b376f5491851,12a228c5-f019-4dc0-a1fb-4c06ba98c788,03/03/2024,30/03/2024,['budgeting'],Web,39412
+76e4e572-e6d4-4533-a5e5-463e0b1e1175,bc553463-d6ff-43ee-ab2c-fbf7a8f72373,22/02/2024,03/03/2024,"['notifications', 'savings_pot']",Web,14151
+370c9daf-f644-4b36-b874-633fe8b4455c,721919d4-c57e-40a3-bc0f-f4d9b8579d29,21/01/2024,09/02/2024,['savings_pot'],Web,28106
+58c7e4cd-c52a-4571-8369-2d9457c028f7,bb70b845-e2fb-417f-a1ed-4d2ffc95df8a,04/02/2024,15/03/2024,"['budgeting', 'notifications', 'savings_pot']",Web,58789
+ea9d071d-7e8d-4b05-801f-34295aa5ab9e,bb95e232-1e36-4959-81e3-1c4b81384eab,05/02/2024,27/02/2024,"['budgeting', 'notifications', 'savings_pot']",Mobile,30955
+13c07645-ecae-4819-a5e4-b9942977201a,e001a706-b158-424c-8743-f469e0314cb4,11/03/2024,16/03/2024,"['budgeting', 'notifications', 'savings_pot']",Web,8106
+9350bc89-c326-4266-acd0-7a4bdff72505,aa99b759-0f40-492a-be07-293bcb0fd92f,15/02/2024,23/03/2024,['notifications'],Mobile,53793
+3edd7fb8-1107-42c8-a01c-5ba72e074175,3c762ab2-31c3-45b5-a827-e1a617899958,14/01/2024,07/03/2024,['notifications'],Mobile,75554
+061c578d-4e42-483f-9bb1-b3a6311230af,88a2e7c7-abf8-4af7-ba48-bbe9f7f5b473,01/02/2024,24/03/2024,"['loan_calc', 'savings_pot']",Mobile,74617
+678f2ca7-91d6-4c54-97f4-ea068ea71ca8,3f7e4a32-4e15-4925-91a8-c0a641791c2a,03/01/2024,14/03/2024,"['notifications', 'budgeting']",Mobile,102611
+06c032ca-010b-469e-9dc4-b9eb50da0c20,fae1522f-8922-4fa4-b93f-10b30e440101,27/01/2024,05/02/2024,"['notifications', 'budgeting']",Mobile,12156
+ed42ecf0-1c92-4ecd-aca3-586845d5db71,54b7a578-2bed-4fe9-9ee9-cd342e7997bb,07/02/2024,20/02/2024,"['notifications', 'savings_pot']",Mobile,18411
+ef246465-823d-44e1-b5e2-d0da0c229d7a,ca4dd150-5bc2-4ca6-bd34-f1c04e5a87af,08/01/2024,30/01/2024,"['budgeting', 'savings_pot', 'loan_calc']",Mobile,31503
+e1d650ef-b7b9-4108-bf4f-8c6e9b3a63e1,f255a341-30a4-4d3b-9bc2-7c0aced48802,11/01/2024,18/03/2024,"['notifications', 'loan_calc']",Web,97076
+afaead93-a0f3-4bf1-8641-06254ac75f5d,75dfc50d-715a-457e-8172-854d9d937909,13/01/2024,24/03/2024,"['budgeting', 'loan_calc']",Mobile,101655
+6f5692f1-c46c-4886-af0d-5e4e5649b2b7,6ae1c525-f668-45b4-95e6-a3fc6ec9e341,01/02/2024,20/03/2024,"['notifications', 'budgeting']",Web,68840
+a81d1273-3f73-489e-a20f-b67896181be1,a21d2207-9bef-420c-8112-4eb399874b93,01/02/2024,12/03/2024,"['loan_calc', 'budgeting']",Web,58138
+fe394f0a-892b-42ee-999f-c5a69a2db997,435ee49d-59d2-491d-9289-b214862ba3fc,11/02/2024,04/03/2024,"['savings_pot', 'budgeting', 'loan_calc']",Mobile,32133
+b9cdb9a0-27c4-490b-890a-c1cba821d98c,091af577-b7c0-49ad-8dc3-5b67b58221b5,19/01/2024,23/02/2024,"['budgeting', 'savings_pot', 'notifications']",Web,49910
+9e4ed582-633c-43dd-b951-26c3b3e11361,517a6395-6bf9-40cd-af05-c9bc5b3ba2c0,17/02/2024,17/02/2024,"['savings_pot', 'budgeting']",Mobile,200
+e4aa1589-9f6b-4499-83c4-0d15859273bd,02cee621-5b1b-4e36-8c61-0c39d5d144da,13/02/2024,12/03/2024,"['loan_calc', 'budgeting', 'savings_pot']",Mobile,39169
+4ebd37dc-bc24-4607-bad2-a868cb1e8c72,52927210-fc5b-46b4-bb89-7e01c8f5fd76,01/02/2024,08/02/2024,"['notifications', 'loan_calc', 'savings_pot']",Web,9355
+6675897c-ebcf-4423-8f6d-082caf9920bd,996c8852-baab-4b91-b03b-543f89b95a8f,09/01/2024,07/02/2024,"['budgeting', 'savings_pot']",Mobile,41536
+38e94dc6-feb3-44bb-a5ae-a6c201f88786,67771868-a0d8-436a-b200-5e99a3c4933c,11/02/2024,23/02/2024,"['loan_calc', 'budgeting', 'savings_pot']",Mobile,17768
+35c7c261-a6ba-468c-b231-85a7112009ea,3f0bab7f-609d-452a-a2bd-cf866a487247,30/01/2024,23/02/2024,"['notifications', 'budgeting']",Web,34582
+b300222b-8f85-4477-ae28-bcb0aa8470ad,39a6cfe5-9d36-4106-b025-ca53f688dbc8,07/01/2024,10/03/2024,"['budgeting', 'loan_calc']",Web,90608
+390d96d6-f041-48e1-86f1-b20162aacda1,3d9ee783-523c-4644-9abc-16eeadaf9de2,28/01/2024,28/03/2024,['loan_calc'],Mobile,87116
+14c82426-c3e0-4ea4-93cd-6349bea24227,32552244-6081-4286-ac24-e964ff9f7638,05/01/2024,26/03/2024,"['budgeting', 'savings_pot']",Web,117315
+307cf36e-95bb-4844-9e8f-6f796459d73b,186c600e-22a2-46d4-aed8-ddc0e4cd9c12,05/03/2024,25/03/2024,"['budgeting', 'loan_calc', 'savings_pot']",Mobile,28079
+061bf519-4f3a-46b4-aa2b-f4b18f5480b2,f40d9c41-799a-4345-be64-e517db5f84ca,03/01/2024,21/02/2024,"['notifications', 'savings_pot', 'budgeting']",Mobile,70802
+eea11b51-5f37-4406-9ab3-76e63a991afb,64e34b56-7bad-40ba-bed8-b6a0ed359958,28/02/2024,12/03/2024,"['loan_calc', 'budgeting', 'savings_pot']",Mobile,18069
+b3fa9274-8f3e-4169-b852-f79a795f63fb,cd55ed4d-a2c3-436f-98bc-6da6bdcccd7c,10/01/2024,27/01/2024,"['loan_calc', 'notifications']",Mobile,23174
+d126fe02-f19e-4dc3-8a24-78be276e8ae0,0036471c-c2ad-4c44-834c-d7aa0f8d0552,02/03/2024,19/03/2024,"['notifications', 'loan_calc', 'budgeting']",Web,24957
+a8b22362-f293-476e-85ae-d697c1e59ed2,a62e154e-e908-419d-aae1-a75bcdceccb2,15/01/2024,21/03/2024,"['notifications', 'budgeting', 'savings_pot']",Mobile,93829
+9fbb9004-9581-4da4-bd76-67dc12d3a36d,39586d83-4bbe-4e85-a9a7-2aa45c348c65,23/01/2024,25/01/2024,['savings_pot'],Web,2660
+c657a956-e079-42a4-9319-aeea6285382c,fc0981f6-11de-4a5d-b291-e1ad776b491d,16/01/2024,29/02/2024,"['budgeting', 'loan_calc']",Mobile,62969
+9d2def7f-c67a-4e0a-aa9f-c097299b10dd,b330ff40-13aa-4fe1-b843-739ce4929d10,15/01/2024,22/02/2024,"['loan_calc', 'notifications']",Web,53997
+5925564b-3397-4000-b4f5-299b82e7619a,6af67ab0-fc1c-4863-be57-7b96c4f6e3ff,31/01/2024,25/02/2024,['loan_calc'],Mobile,36444
+0d9dd789-b31e-42f1-8e68-ccc38059b6da,517a6395-6bf9-40cd-af05-c9bc5b3ba2c0,22/01/2024,06/02/2024,"['notifications', 'loan_calc']",Mobile,22439
+2011a062-7c11-4814-93f9-2ff38aef07e5,75391525-375c-4a6e-9935-8ba83c44d1f6,06/02/2024,26/02/2024,['savings_pot'],Mobile,27954
+54c08742-adbe-46ae-84df-f24afdd42a48,a3fcb176-4d9a-40c9-bd91-2233af8ad45c,17/01/2024,02/03/2024,['budgeting'],Web,65069
+05d3d86a-a18c-44aa-b921-ea937665d3fc,c99061eb-9b69-4e5f-b218-c59228057278,17/01/2024,04/03/2024,"['loan_calc', 'notifications']",Web,66499
+6fe38730-fd48-4544-bc3d-a8276e6fe000,c4ae513d-03e0-4c7e-9300-cac44de50dce,06/02/2024,21/03/2024,"['loan_calc', 'budgeting', 'savings_pot']",Web,64759
+073da91c-7f42-4795-ada0-d5d13af7e131,dbce4ced-75c3-4c85-ab38-f36c3c312db4,03/01/2024,21/03/2024,"['budgeting', 'savings_pot']",Mobile,111390
+c3eac828-f32f-4c30-a4bf-799b8eb5c542,9e0f5dd8-d8a7-4bae-9e5d-ac1103024007,25/02/2024,03/03/2024,"['budgeting', 'loan_calc', 'savings_pot']",Mobile,10025
+1a22b6b8-aba6-4730-bef5-0546bb390959,64eaecfb-0466-4638-9886-103ffcb740ed,10/02/2024,08/03/2024,"['notifications', 'loan_calc', 'budgeting']",Web,38830
+860fe1f7-f52c-48e9-902d-e142e5053cc2,20d834a4-f7cd-47f0-b951-84af20b8f1f0,09/02/2024,24/03/2024,['savings_pot'],Web,64403
+2581874e-7021-4027-98ba-fa559b32e3e9,a0805296-335a-45ca-8504-f9bf67811ce0,01/01/2024,22/03/2024,"['notifications', 'savings_pot']",Mobile,117002
+087bdf00-b191-467b-85e0-92c4f0a5086e,721919d4-c57e-40a3-bc0f-f4d9b8579d29,19/01/2024,31/01/2024,"['savings_pot', 'notifications']",Mobile,17322
+bd9853f5-5866-4354-ba20-629572c4ef24,4fdd6850-cef6-41bf-b706-82aadbe7f010,26/01/2024,15/03/2024,['loan_calc'],Mobile,70663
+32737aa4-49b0-4474-9eb7-cfa170d77bbe,6b9a1019-0a9c-4f9b-ba4f-98a8562e5fde,09/03/2024,13/03/2024,"['loan_calc', 'savings_pot']",Mobile,5427
+3dc68209-2388-4d77-8c55-9c16520d1714,2fe12b2d-0075-47ef-bf34-473ccb43882f,06/01/2024,17/03/2024,"['loan_calc', 'notifications', 'budgeting']",Mobile,102283
+5853b893-d499-4410-9d1f-83c94cc8bf89,304bbd53-4431-4f1c-9d1c-941202e89c2e,10/01/2024,19/03/2024,['notifications'],Web,99164
+eac4d861-8d0f-4033-ab55-020d16491c48,6e4ae58b-0d1f-4e63-9b6d-7be3cb03d7f9,18/01/2024,29/03/2024,"['loan_calc', 'notifications']",Web,102972
+f63e7cf5-d508-42e3-84b6-14d45529b955,528b49cd-7d83-49be-beea-2382b54d92da,03/02/2024,20/03/2024,"['budgeting', 'savings_pot']",Mobile,65953
+1b07cc88-b087-49db-a3ca-882a9d4d7d28,d0821df1-d7b9-4dbe-8076-07970ee35c66,11/01/2024,29/03/2024,"['loan_calc', 'notifications', 'budgeting']",Web,112766
+c8cf40f5-f32b-4ae7-9eac-e117b44bec90,4d552037-746e-4142-a2c3-4b408369e9f9,24/01/2024,08/03/2024,"['notifications', 'loan_calc']",Mobile,63104
+3195055b-de6e-4069-a5c4-afded0d905cb,3cc9d344-42ca-4fed-b3f8-affeefe79732,14/02/2024,16/03/2024,"['notifications', 'loan_calc', 'budgeting']",Mobile,44095
+7b708048-df84-4305-b5d7-6d66c1ac75ed,75391525-375c-4a6e-9935-8ba83c44d1f6,28/02/2024,07/03/2024,"['budgeting', 'notifications']",Web,11766
+771a6403-29f6-4b18-ac26-68882933e920,3cc9d344-42ca-4fed-b3f8-affeefe79732,29/01/2024,07/02/2024,['savings_pot'],Mobile,13559
+83016a17-9a69-4739-a9d5-85904bc1293f,3ad98fc5-608a-498b-9e8f-032824bfe75a,24/02/2024,25/02/2024,"['savings_pot', 'loan_calc', 'notifications']",Mobile,1059
+3248ba8d-996a-4b68-94f5-26774c27201f,186c600e-22a2-46d4-aed8-ddc0e4cd9c12,05/02/2024,28/02/2024,"['notifications', 'savings_pot']",Web,33685
+55247396-79de-457b-b2d6-52ffd281f948,e43944c2-da56-4056-83fa-e082eb2603e8,11/01/2024,20/01/2024,"['savings_pot', 'notifications']",Web,12745
+771be4d1-0c64-4d9f-b576-e877e8c4c3c2,8e4d5aee-da56-43a4-9d39-da8dab153bb1,01/02/2024,24/03/2024,"['savings_pot', 'budgeting']",Web,74132
+71f081f7-d255-44fe-ae66-23e7eaeac969,ee117e6d-e1ff-41a5-9346-58e514ac002e,02/02/2024,16/03/2024,['savings_pot'],Mobile,61874
+22d3e5c5-bd79-46ed-9003-f9ec2a18adf5,d4ce29ff-b4f6-40bf-b9c9-dcaa916ed5c1,11/02/2024,08/03/2024,['loan_calc'],Mobile,37115
+385ac7aa-7a88-4f36-b2a4-feb89eef4dcf,93a15283-3468-4f78-9b5f-6c343803a54f,16/01/2024,10/03/2024,"['notifications', 'loan_calc', 'savings_pot']",Web,76945
+8a44b40c-68e1-4cad-99dd-7133b8598254,ad40abeb-ab3a-4ded-925c-5e8423ba31bd,02/03/2024,19/03/2024,"['savings_pot', 'loan_calc']",Web,25386
+dec1d74a-82f6-4df7-ad9f-d2d68bc74164,5a26ea18-3a2b-4035-bc1b-2f901ffefa45,13/03/2024,15/03/2024,"['notifications', 'savings_pot', 'loan_calc']",Mobile,2685
+c0ee5ca7-6d27-4db6-9341-f7869e9756c0,42b7eb9d-89e0-4c73-969f-c2d266e13ae2,25/02/2024,13/03/2024,"['notifications', 'savings_pot']",Web,23211
+1b15e72e-c57e-4835-aafa-32534bb8b494,c6cfccd2-eeb3-4316-a55e-9ccc34ee2a72,13/01/2024,05/03/2024,['notifications'],Mobile,75458
+148b3eec-8190-423d-9110-87f7c1ba0af0,bdbe44aa-6b3a-44b5-b751-d09e75fc6987,29/01/2024,16/02/2024,['budgeting'],Mobile,25387
+45643e5e-ac28-4bf1-853f-11e839ed754b,ed28b7fc-35e3-4fe8-bf6a-0ad871495096,11/01/2024,06/02/2024,"['loan_calc', 'budgeting']",Mobile,37434
+b1ac52db-1b9c-40f4-a3b3-a5fdde68aaca,91c49acd-d210-483b-8035-da45356b8d37,28/01/2024,12/03/2024,"['notifications', 'budgeting', 'loan_calc']",Web,62287
+7ad73d5b-7521-40b7-ac80-0d37926875d2,87849327-0bd4-4993-9e4f-85b9d741105f,11/01/2024,18/03/2024,"['savings_pot', 'notifications']",Web,96262
+c54595aa-7637-4cfa-81dc-207f274f721a,e43944c2-da56-4056-83fa-e082eb2603e8,17/01/2024,17/02/2024,"['notifications', 'loan_calc', 'budgeting']",Mobile,44737
+b925585d-34c6-49eb-8d86-2f8fa6a85949,311ef060-6e50-4c86-96b0-96514a80b3a6,03/02/2024,21/03/2024,"['notifications', 'loan_calc', 'savings_pot']",Web,66336
+7b627760-8b0f-44b3-b4b1-c40f8f03b5b7,0cf22333-b7d9-45ac-b33c-07e8d614ca37,08/02/2024,20/03/2024,"['notifications', 'savings_pot']",Web,59902
+be6b93e6-d490-4320-81f3-e6c8e0cc1e97,23e8fea9-bd20-4a92-bc50-d24c81cdb4dc,24/02/2024,16/03/2024,"['loan_calc', 'budgeting']",Web,31009
+ec1d40eb-f03f-4e07-8199-f6be985bb1c0,4966fe65-364a-401e-9244-32cb6af4f0e1,13/01/2024,19/01/2024,"['budgeting', 'loan_calc', 'notifications']",Web,8249
+03ddc6e6-823a-491f-be86-bbd205ab93a9,085084bc-d2ed-4e35-8374-526db52e8e9d,22/02/2024,17/03/2024,"['savings_pot', 'loan_calc']",Web,34374
+527ffebb-c4a2-4e0a-b91b-38a95f38a756,2b5489c5-93ae-48cc-8cea-c2d9b72cd903,18/02/2024,24/03/2024,"['loan_calc', 'notifications']",Web,49903
+e64a8321-a0bf-424c-a1c3-91307bdf3379,b91eb521-6ac5-47ff-bbd7-dc1cd5149c0c,16/01/2024,03/02/2024,"['notifications', 'budgeting', 'loan_calc']",Web,25584
+71ed508c-6f60-4d87-a091-98beda0513da,81d135d4-a2e2-4490-8025-42db1075bd0e,20/02/2024,15/03/2024,['budgeting'],Mobile,35215
+39f66662-dab8-4f6a-b3ad-91537fd59d6f,454b4af8-517f-4692-8d8e-10eb9a3d8297,16/01/2024,12/02/2024,['savings_pot'],Web,38985
+339c4a13-01bb-4d9c-9a61-702b5edc90f7,0af77e4a-77d4-4ffe-a1bb-cd72b56cd488,14/02/2024,15/02/2024,['notifications'],Mobile,2039
+449470a6-ba27-43f1-9dfb-3eb7fc71c41a,0d7d68c9-e4df-4a33-bdb4-51ace99d6f4f,27/01/2024,06/02/2024,"['savings_pot', 'loan_calc']",Web,14180
+13f16f52-c549-4d0a-81ba-4eb74e74a952,1819803e-63cc-4fa1-bcdc-7a1b72a1226e,13/01/2024,27/02/2024,"['notifications', 'budgeting']",Mobile,64906
+cc8f4af2-6cb2-4689-933f-1971347b5e7f,11a85f9a-cadb-46c4-a69a-c71177db00d2,18/01/2024,25/03/2024,"['budgeting', 'savings_pot']",Mobile,96476
+7521417b-37f4-4f47-a842-eb0db19114a4,cfed6ce6-0153-476b-aed7-b80cc1019f4c,05/01/2024,03/02/2024,"['savings_pot', 'budgeting']",Web,41803
+0d75df4f-7723-4c1b-8922-8cb61b17770b,90bb03c1-85ad-488a-b793-53776172d237,02/02/2024,24/02/2024,"['budgeting', 'loan_calc', 'notifications']",Mobile,30813
+a25736cb-19e6-4131-8820-0a5f737e93ac,4d552037-746e-4142-a2c3-4b408369e9f9,01/01/2024,17/01/2024,"['budgeting', 'savings_pot']",Web,22030
+ead47b70-ec6d-4a01-8549-6e5d36cec47d,f9d91239-b61c-491b-a810-439192fb8cb2,14/02/2024,28/03/2024,['loan_calc'],Web,62389
+9de4801a-2ec2-42a4-a151-bb7e17a42ce9,63fd77b9-5a8b-422f-a327-57158532ca1b,13/01/2024,20/03/2024,"['budgeting', 'savings_pot', 'loan_calc']",Mobile,96210
+4b9475c4-0b62-40c3-ba8f-d2f249843653,3910ee2e-8293-4328-ad64-bd9adf66a043,18/01/2024,13/02/2024,"['budgeting', 'savings_pot', 'notifications']",Mobile,36639
+b0027603-b141-4d56-b031-bc114bc5462a,c99e2e83-b062-462f-9093-563af70bda42,04/02/2024,20/02/2024,"['notifications', 'savings_pot']",Mobile,21950
+01b0d5a8-e700-46b4-a908-2527e0cb1482,c99e2e83-b062-462f-9093-563af70bda42,29/02/2024,17/03/2024,['budgeting'],Mobile,24203
+bf041ec1-8352-481b-9429-2e1b6a819f5e,1a6576a6-7b28-40ff-b2d9-74ed24a7fe5c,15/02/2024,22/03/2024,"['loan_calc', 'savings_pot', 'budgeting']",Web,52376
+8cab4a9c-5acd-4967-812e-13aa30cd3328,87849327-0bd4-4993-9e4f-85b9d741105f,03/03/2024,09/03/2024,['notifications'],Web,8433
+0203ffd9-46f9-4db5-97b7-5addcb56665e,c4ae513d-03e0-4c7e-9300-cac44de50dce,14/02/2024,16/03/2024,"['savings_pot', 'budgeting']",Web,44462
+341baa19-0e95-46cb-9c32-10e06ba8db63,2a10bb85-2fa7-4b29-bf3f-74df3b5db165,07/02/2024,03/03/2024,"['budgeting', 'notifications']",Mobile,35822
+77d88cd9-90ba-4b6f-8bf6-618f72bd8b29,c2426a9a-833b-4c90-a442-75ff3e587d03,08/01/2024,15/01/2024,"['budgeting', 'savings_pot', 'notifications']",Mobile,10527
+b2b657e7-71e9-4c03-9b91-dd5a2b84c11a,f9fead34-03aa-4fcc-ab20-3246df86337d,21/02/2024,18/03/2024,"['notifications', 'savings_pot']",Web,37815
+42d51d2c-1992-4855-9643-528a786235a3,54478c5e-dcd4-4aa6-9e30-2f21dde0959a,03/01/2024,22/02/2024,"['loan_calc', 'notifications']",Web,70973
+fd62582d-fc15-43df-9cad-53c628d88018,50441573-ef1d-41ab-9b23-4881ceb48745,10/03/2024,28/03/2024,"['savings_pot', 'notifications']",Mobile,26730
+2cb03979-c41f-4cd1-8be3-08be7f48aa5d,71a065d4-9e66-4e35-b70d-4f2790a07327,27/01/2024,19/03/2024,"['loan_calc', 'savings_pot', 'budgeting']",Mobile,74069
+5bd2fed1-70fd-4b55-a00b-5e08621b7dea,35c8edff-b732-49e5-927a-230e7eebaa44,03/01/2024,21/01/2024,"['savings_pot', 'notifications', 'budgeting']",Web,24737
+75865480-624d-4916-b7a8-2be3b3a98f06,81777a4b-099e-48fb-8466-9d9ff0d0f037,26/01/2024,28/02/2024,"['notifications', 'savings_pot']",Mobile,48838
+96f87219-d679-420f-824a-49566ba32660,a3fcb176-4d9a-40c9-bd91-2233af8ad45c,21/01/2024,21/01/2024,['notifications'],Web,45
+b48b957d-28f2-441e-9097-79566438e5c1,99616492-cbe7-402a-95fb-f633fac4ec4b,18/02/2024,02/03/2024,"['savings_pot', 'budgeting']",Web,18371
+b31ad6e1-3794-4f7f-9da1-6134807b7a91,f815364e-e007-4427-b4d7-bfba5b325307,16/01/2024,25/01/2024,"['budgeting', 'loan_calc']",Web,13232
+72c8f5b1-2f8b-4440-acfe-6e67fff50508,0bbeec69-3774-4eec-8b51-4f8d545dd517,11/03/2024,19/03/2024,"['budgeting', 'loan_calc', 'notifications']",Web,12079
+df8e4bf9-d924-4c5c-99c3-c1b9b72f28c2,232ef6a1-25b8-4217-ab21-20c1bd0baed1,10/03/2024,12/03/2024,['notifications'],Mobile,1895
+f24ce8f2-e0f5-4b06-9fd8-afada03f3e23,42b7eb9d-89e0-4c73-969f-c2d266e13ae2,15/02/2024,29/03/2024,['savings_pot'],Mobile,61853
+2e50ee59-933b-452f-b370-f60769a64697,40cf6b0c-816c-43d6-b985-4b1ed5edd2a6,20/02/2024,10/03/2024,"['budgeting', 'notifications']",Web,28564
+bad68984-5e9b-4d53-a41b-310ac88f2a74,e70dd736-e5ad-45ae-b821-769ac81f3e18,16/02/2024,03/03/2024,"['loan_calc', 'savings_pot']",Web,22475
+9cf4ae4e-f67d-48e2-bf2a-f0e56b54f716,fdcce0b2-a420-4098-a725-a3adecad54e3,11/01/2024,23/03/2024,['savings_pot'],Mobile,104515
+ff89e770-94fd-46d8-a21a-0f559c1befd8,1e7a2475-0886-4039-855d-5d1632aad0f4,03/02/2024,13/03/2024,['notifications'],Web,56895
+705951fe-3e0a-4313-80b2-3aaefc48bf91,b58dfdac-776d-45a8-a0fd-a592b38b1da8,04/01/2024,25/02/2024,['savings_pot'],Web,74293
+39f211da-7dc2-4ba8-9737-091edf2407bb,d44274f1-203b-435d-a4d1-ddbd1494cac5,10/03/2024,14/03/2024,['savings_pot'],Web,5919
+7a904903-5fce-4c94-bb05-f84a58f7c566,f8d814b6-46c8-4118-a4c9-29a78e34e93e,06/03/2024,26/03/2024,['budgeting'],Web,29373
+303f1b4b-7015-4d95-9500-a1c1736fb4dd,d5f80f81-cdfc-471c-8cd1-7189ec782753,19/02/2024,05/03/2024,"['savings_pot', 'loan_calc']",Mobile,21819
+63c8661c-7e8d-4988-8147-5c9176cf1c7b,8eeac281-0bf4-4d55-9438-c1b06f73e990,20/01/2024,29/03/2024,['notifications'],Mobile,98115
+2fa2ba68-1a44-46ed-9519-e7440da17950,5ce80007-04af-4b38-bb8f-a6efa151f05b,08/02/2024,05/03/2024,"['savings_pot', 'budgeting', 'notifications']",Mobile,37263
+a9fafcb6-52ab-478b-98b6-e2144563c7b2,659a0763-5da4-4a9e-bc54-e3e730c1f30a,10/01/2024,28/02/2024,"['savings_pot', 'notifications']",Web,70832
+26b8defd-909a-4445-9dce-55e5b46d77dc,20298690-cef9-42d8-8284-e5413a7c1c5a,29/02/2024,22/03/2024,"['notifications', 'savings_pot', 'loan_calc']",Web,31704
+1d5d7b3e-e806-457a-91f8-c6ea8a6819eb,354a8a72-0397-49b3-beeb-0277983cfa38,23/01/2024,18/03/2024,"['savings_pot', 'budgeting', 'notifications']",Mobile,79185
+2f3bd44d-17d0-4698-8792-ec4c221a318f,476ce902-95e8-4817-89d9-7034a28fdffa,28/01/2024,01/02/2024,"['notifications', 'budgeting', 'savings_pot']",Web,6695
+93945ab4-d060-4d76-a5a0-6ebb78bb9233,d10b40f5-5777-445e-b4f8-2452a3fa11af,03/01/2024,23/01/2024,"['notifications', 'savings_pot', 'loan_calc']",Web,28815
+c8b35796-0df2-4c8d-9591-429b3a7c0cc6,3f0bab7f-609d-452a-a2bd-cf866a487247,24/01/2024,12/02/2024,"['notifications', 'loan_calc']",Mobile,26734
+f8397372-3179-4a7e-aed1-bff07a6d856c,6ae1c525-f668-45b4-95e6-a3fc6ec9e341,08/01/2024,16/03/2024,"['budgeting', 'savings_pot']",Mobile,96653
+c93c6981-5a61-4f9c-be33-7debbd7dce47,38bc5f4a-9da9-4c42-9dc9-d7828dfccebe,09/02/2024,26/02/2024,"['loan_calc', 'savings_pot', 'notifications']",Web,24198
+aec62d93-08fc-4964-816c-9e0d23b72d59,c6c8ea66-5b11-430d-a1b8-e5c54ad16af4,11/01/2024,23/02/2024,"['savings_pot', 'notifications']",Mobile,61233
+33226ebf-fc0c-4ca1-813d-ee16f7a3a705,18ef7905-de53-4113-846f-33ec0feaf1fa,22/01/2024,16/02/2024,"['notifications', 'budgeting', 'savings_pot']",Web,35999
+435f877b-7187-4604-99b2-15b4d5210f88,aaf8a030-b3b7-479a-a62e-00ec08c041b3,20/01/2024,01/03/2024,"['notifications', 'savings_pot', 'loan_calc']",Mobile,59317
+8cffc4b5-1d3b-4813-87a9-8e5d2785b634,6676aca8-6740-42b0-81e4-358c6f7cf008,14/03/2024,28/03/2024,"['savings_pot', 'loan_calc']",Web,20429
+9c572c17-dd8a-4151-8ad9-54b969cb8673,42b7eb9d-89e0-4c73-969f-c2d266e13ae2,08/03/2024,17/03/2024,['loan_calc'],Web,13860
+d16a7fa1-2302-4836-a170-6a2ceeea7167,7a9a31b8-9b0a-4e3b-8f20-f6a09662391a,23/02/2024,17/03/2024,"['budgeting', 'loan_calc', 'savings_pot']",Web,32969
+d2b46f73-648b-44a4-ac41-c6368da0fca1,a9baa1e5-bb60-4538-8dd6-5e04a298101e,01/02/2024,21/02/2024,['savings_pot'],Web,27644
+1e141a7d-ff69-451d-a4ef-edc999f86afd,fdcce0b2-a420-4098-a725-a3adecad54e3,16/01/2024,03/03/2024,['savings_pot'],Web,67962
+021927bc-97ac-4fa1-984d-860ee847ee0b,e979067a-0623-4c53-afc1-038c8a688649,13/01/2024,13/02/2024,"['budgeting', 'loan_calc']",Web,44903
+c99bab35-0901-4e84-9b04-6ac256c2d436,099adf95-da0b-42cf-9f52-9ded33216ea4,19/01/2024,31/01/2024,"['savings_pot', 'notifications', 'loan_calc']",Web,17005
+3a002eab-699a-45af-86d6-91c08231266f,e86af8d2-762c-4947-a8aa-3b826ba788b3,15/03/2024,30/03/2024,"['loan_calc', 'budgeting']",Web,22926
+a7c324e2-ba98-48f5-90ca-5e5eb9017ea3,04bd80c5-4dff-4af9-a06e-4e649fab3aa4,19/01/2024,26/01/2024,"['loan_calc', 'budgeting', 'notifications']",Mobile,9125
+919de2ca-fab6-4fd5-a167-a2f04ef63636,a876fee4-c297-4f17-8fde-5deb667447c0,06/01/2024,30/01/2024,['budgeting'],Web,34846
+046b28e3-78ac-4e9b-97d3-c2d07c89c1e5,126f2367-75d7-4d55-b970-4eaa3916c31e,21/02/2024,19/03/2024,"['budgeting', 'loan_calc', 'notifications']",Web,38207
+8af04ad6-e28a-45c8-a706-47aa36621593,a0805296-335a-45ca-8504-f9bf67811ce0,26/01/2024,29/02/2024,['loan_calc'],Web,49166
+d44d0703-7372-4a2f-9b26-806356d8be14,374331c4-0c46-4926-b37e-dbfb4be82131,24/02/2024,05/03/2024,"['notifications', 'loan_calc', 'savings_pot']",Mobile,14983
+831981ec-be90-4dad-9a68-2185b8b1d5af,d5f80f81-cdfc-471c-8cd1-7189ec782753,19/02/2024,27/03/2024,"['budgeting', 'notifications', 'savings_pot']",Mobile,54198
+220898e5-ee26-4a09-8028-2c36c202e7ef,52927210-fc5b-46b4-bb89-7e01c8f5fd76,16/01/2024,22/03/2024,"['savings_pot', 'budgeting']",Web,94906
+efc0880d-bc3b-47a8-b301-6562046423e1,167f1806-b5cf-4132-a2a2-557edc8a9998,30/01/2024,29/02/2024,['notifications'],Web,42978
+ad37f755-c742-4011-988b-eb769d135940,b25975a4-5ebd-4668-9e9a-ab1dc31207fb,27/01/2024,17/02/2024,"['notifications', 'savings_pot']",Mobile,29889
+7c73e7fb-a45a-4cf4-ae2e-51f3d7f9c2c1,8098f757-698e-45d8-97c5-b333b6882bcd,22/02/2024,10/03/2024,"['savings_pot', 'budgeting', 'notifications']",Web,25273
+663804c3-f9ab-435b-88b6-a25b395eb424,6ae1c525-f668-45b4-95e6-a3fc6ec9e341,16/02/2024,14/03/2024,"['savings_pot', 'budgeting']",Web,38154
+38d218f7-0f56-4074-bda7-e87279e691bf,3d1ba46b-abb1-4313-b3c4-69490e84cde9,02/03/2024,14/03/2024,"['budgeting', 'savings_pot']",Mobile,17145
+6d8d9e2f-4cbd-41ea-97b8-55e0760520bf,1f0e4c7b-7398-4384-be63-c5565475f0ea,09/01/2024,06/02/2024,"['budgeting', 'loan_calc', 'savings_pot']",Web,40494
+f1271b8b-630f-45a9-acc1-b119b7f7a682,3b7d8deb-29cf-4aa4-b5f3-cfec2f9ed6f7,13/01/2024,01/03/2024,"['notifications', 'loan_calc']",Web,68816
+0220d25e-01ca-41f8-bafd-503100210e2a,9e0f5dd8-d8a7-4bae-9e5d-ac1103024007,07/02/2024,06/03/2024,"['savings_pot', 'loan_calc']",Web,40602
+70b1e10b-2a91-4728-a250-a838f921ca4a,1d21c88f-dec7-4856-8cdd-ad41a7378e39,06/01/2024,29/02/2024,"['notifications', 'budgeting', 'savings_pot']",Web,78144
+d42be7c4-b1d4-4fab-b818-928e2cafe45a,576fa81d-2adb-4ea6-be0f-cb845074a39a,26/01/2024,15/02/2024,['budgeting'],Web,28852
+21f28104-c970-438d-8936-068e3a9b4dd7,60429018-6c67-434d-aac8-8c023be3d23a,12/01/2024,23/03/2024,"['loan_calc', 'notifications', 'savings_pot']",Web,102249
+b6a2dd35-2aec-4284-a7c3-94c2378b703c,e315bb98-ec89-4a50-b259-824d457ee0e8,13/01/2024,05/02/2024,"['notifications', 'loan_calc', 'budgeting']",Mobile,33509
+76f3fdcd-0621-4b0c-8387-acc9261dc13c,3cc9d344-42ca-4fed-b3f8-affeefe79732,23/01/2024,08/03/2024,"['budgeting', 'savings_pot', 'loan_calc']",Mobile,63849
+c8819ec1-2477-403d-bf97-640f995727d9,3ad98fc5-608a-498b-9e8f-032824bfe75a,30/01/2024,05/03/2024,"['budgeting', 'savings_pot', 'loan_calc']",Web,50601
+2a3ba00e-b590-40a7-b6aa-531a68be1912,2a10bb85-2fa7-4b29-bf3f-74df3b5db165,23/01/2024,15/03/2024,"['loan_calc', 'savings_pot']",Mobile,74519
+9b6bf305-fb04-4978-a519-fad0951355b8,a3fcb176-4d9a-40c9-bd91-2233af8ad45c,02/03/2024,07/03/2024,"['savings_pot', 'notifications', 'loan_calc']",Mobile,6605
+95701f21-7a65-4703-bc6f-2f529ab46853,7d6f5426-d97b-42ef-9eaa-c043c6bb77da,05/02/2024,05/03/2024,['savings_pot'],Mobile,42040
