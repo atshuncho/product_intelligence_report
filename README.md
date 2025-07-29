@@ -18,7 +18,7 @@ A series of SQL queries were written to explore:
 - Support satisfaction vs. resolution time
 - Indicators of upgrade from Free → Premium accounts
 
-📄 File: [`SQL/product_analysis.sql`](SQL/product_analysis.sql)
+File: [`SQL/product_analysis.sql`](SQL/product_analysis.sql)
 
 ---
 
