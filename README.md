@@ -32,6 +32,13 @@ Tabs:
 
 Screenshots available in [`/screenshots`](screenshots)
 
+
+<p float="left">
+  <img src="screenshots/customer_insights.png" width="400" />
+  <img src="screenshots/product_performance.png" width="400" />
+  <img src="screenshots/support_and_feedback.png" width="400" />
+</p>
+
 ---
 
 ## Key Questions Answered
