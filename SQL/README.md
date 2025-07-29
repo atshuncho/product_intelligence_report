@@ -1,17 +1,17 @@
-# 📊 Product Intelligence Analysis – SQL Project
+# Product Intelligence Analysis – SQL Project
 
 This SQL project explores key business metrics and customer behavior using structured queries. The dataset simulates product usage, customer engagement, and support feedback within a financial application.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 - `product_performance.sql`  
   Contains SQL queries used to analyze churn, approval rates, repeat usage, engagement, and support behavior.
 
 ---
 
-## 🔍 Key Business Questions Answered
+## Key Business Questions Answered
 
 1. **Which products have the highest churn rate over time?**  
    Calculates churn rate per product type by analyzing approvals, rejections, and churned customers.
@@ -43,7 +43,7 @@ This SQL project explores key business metrics and customer behavior using struc
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **SQL**
   - Aggregations (SUM, AVG, COUNT)
@@ -54,7 +54,7 @@ This SQL project explores key business metrics and customer behavior using struc
 
 ---
 
-## 📈 Sample Metrics Generated
+## Sample Metrics Generated
 
 | Metric | Example |
 |--------|---------|
@@ -66,7 +66,7 @@ This SQL project explores key business metrics and customer behavior using struc
 
 ---
 
-## 🎯 Business Impact
+## Business Impact
 
 The insights from this SQL analysis could be used to:
 - Improve **product design** by understanding user churn and feature engagement
@@ -75,7 +75,7 @@ The insights from this SQL analysis could be used to:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Open the SQL file in BigQuery, MySQL, or your preferred SQL engine.
 2. Run section by section to explore each insight.
@@ -83,7 +83,7 @@ The insights from this SQL analysis could be used to:
 
 ---
 
-## 💡 Future Work
+## Future Work
 
 - Visualize results in Power BI or Looker Studio
 - Add time-series tracking for churn and approval trends
