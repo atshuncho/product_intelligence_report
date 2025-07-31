@@ -21,7 +21,7 @@ ORDER BY churn_rate_pct DESC;
 SELECT 
     rep.*,
     non.amount_of_non_repeat_users,
-    amount_of_repeat_users / (amount_of_repeat_users + amount_of_non_repeat_users) AS return_percentage
+    (amount_of_repeat_users / (amount_of_repeat_users + amount_of_non_repeat_users)) * 100 AS return_percentage
 FROM
     (SELECT 
         product_type, COUNT(customer_id) AS amount_of_repeat_users
