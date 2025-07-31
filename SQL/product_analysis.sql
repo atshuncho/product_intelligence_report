@@ -19,16 +19,32 @@ ORDER BY churn_rate_pct DESC;
 -- 2. Which products have the highest repeat usage rate?
 
 SELECT 
-    product_type, COUNT(*) AS repeat_user_count
+    rep.*,
+    non.amount_of_non_repeat_users,
+    amount_of_repeat_users / (amount_of_repeat_users + amount_of_non_repeat_users) AS return_percentage
 FROM
     (SELECT 
-        customer_id, product_type
+        product_type, COUNT(customer_id) AS amount_of_repeat_users
+    FROM
+        (SELECT 
+        product_type, customer_id
     FROM
         product_usage
-    GROUP BY customer_id , product_type
-    HAVING COUNT(DISTINCT date) > 1) AS repeat_users
-GROUP BY product_type
-ORDER BY repeat_user_count DESC;
+    GROUP BY product_type , customer_id
+    HAVING COUNT(DISTINCT date) > 1) AS repeat_customers
+    GROUP BY product_type) rep
+        JOIN
+    (SELECT 
+        product_type,
+            COUNT(customer_id) AS amount_of_non_repeat_users
+    FROM
+        (SELECT 
+        product_type, customer_id
+    FROM
+        product_usage
+    GROUP BY product_type , customer_id
+    HAVING COUNT(DISTINCT date) = 1) AS non_repeat_users
+    GROUP BY product_type) non ON rep.product_type = non.product_type
     
 -- 3. How does the approval rate vary by product type?
 	
