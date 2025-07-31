@@ -44,7 +44,7 @@ FROM
         product_usage
     GROUP BY product_type , customer_id
     HAVING COUNT(DISTINCT date) = 1) AS non_repeat_users
-    GROUP BY product_type) non ON rep.product_type = non.product_type
+    GROUP BY product_type) non ON rep.product_type = non.product_type;
     
 -- 3. How does the approval rate vary by product type?
 	
