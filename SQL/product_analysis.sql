@@ -121,7 +121,9 @@ SELECT
 FROM
     customer_and_app_session_details
 GROUP BY age_group , session_channel
-ORDER BY age_group What features are most common in long sessions?
+ORDER BY age_group 
+
+-- What features are most common in long sessions?
 SELECT
   'budgeting' AS feature,
   COUNT(*) AS times_used,
