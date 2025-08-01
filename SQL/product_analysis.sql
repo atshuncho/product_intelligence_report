@@ -123,7 +123,7 @@ FROM
 GROUP BY age_group , session_channel
 ORDER BY age_group 
 
--- What features are most common in long sessions?
+-- 4. What features are most common in long sessions?
 SELECT
   'budgeting' AS feature,
   COUNT(*) AS times_used,
@@ -160,7 +160,7 @@ WHERE features_used LIKE '%notifications%'
 
 ORDER BY avg_session_duration DESC;
     
--- 6.Do mobile users spend more time than web users?
+-- 5. Do mobile users spend more time than web users?
 SELECT
 	session_channel, SUM(session_duration_min) AS total_usage_minutes
 FROM
@@ -169,7 +169,7 @@ GROUP BY
 	session_channel
 ORDER BY total_usage_minutes;
     
--- 7.Correlation between resolution time and satisfaction score?
+-- 6. Correlation between resolution time and satisfaction score?
 SELECT
 	satisfaction_score, AVG(resolution_time_hr) AS average_resolution_time
 FROM
@@ -179,7 +179,7 @@ GROUP BY
 ORDER BY 
 	satisfaction_score DESC; -- shows a negative correlation, as the average time of resolution decreases, the satisfaction score increases as expected 
 
--- 8.Customers most likely to upgrade from Free to Premium
+-- 7. Customers most likely to upgrade from Free to Premium
 -- first need to see what is unique about premium users.
 -- see if age is an indication
 
