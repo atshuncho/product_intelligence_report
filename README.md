@@ -73,7 +73,7 @@ This report can help a fintech or digital bank:
 
 ## Notes
 
-- All initial tables were AI-generated.
+- All initial csv tables were AI-generated.
 - All analysis and insights were independently created.
 - Dashboards and visuals were built using Power BI Desktop.
 
