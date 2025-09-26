@@ -1,12 +1,12 @@
-# 📊 Power BI Reports – Product Intelligence Dashboard
+# Power BI Reports – Product Intelligence Dashboard
 
 This folder contains a set of **Power BI dashboards** created to analyse customer usage, product performance, and support trends across a fictional financial platform. The reports are designed to reflect how a data analyst might monitor user behaviour and drive decision-making through data.
 
 ---
 
-## 🗂️ Report Breakdown
+##  Report Breakdown
 
-### 1. 🧠 Customer Insights
+### 1. Customer Insights
 ![Customer Insights](../screenshots/customer_insights.png)
 - Total number of customers
 - Session activity per customer
@@ -16,7 +16,7 @@ This folder contains a set of **Power BI dashboards** created to analyse custome
 
 ---
 
-### 2. 🚀 Product Performance
+### 2. Product Performance
 ![Product Performance](../screenshots/product_performance.png)
 - Product **churn rate**
 - **Approval rate** of products (e.g. Loans, Credit Cards)
@@ -26,7 +26,7 @@ This folder contains a set of **Power BI dashboards** created to analyse custome
 
 ---
 
-### 3. 💬 Support & Feedback
+### 3. Support & Feedback
 ![Support and Feedback](../screenshots/support_and_feedback.png)
 - Total support tickets raised
 - Average **resolution time** and **satisfaction score**
@@ -36,7 +36,7 @@ This folder contains a set of **Power BI dashboards** created to analyse custome
 
 ---
 
-## 🧭 Filter Options
+## Filter Options
 Each dashboard is interactive and includes filters for:
 - Product Type
 - Date Range (DD/MM/YYYY)
@@ -48,7 +48,7 @@ Each dashboard is interactive and includes filters for:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - **Microsoft Power BI Desktop (UK locale)**
 - Data model built using:
   - `customers`
@@ -60,7 +60,7 @@ Each dashboard is interactive and includes filters for:
 
 ---
 
-## 🎯 Purpose
+## Purpose
 These dashboards form part of a broader Product Intelligence project, aimed at:
 - Monitoring customer trends
 - Identifying product performance issues
@@ -70,7 +70,7 @@ All data is artificial and was created for learning and demonstration purposes. 
 
 ---
 
-## 📎 Related Files
+## Related Files
 - SQL scripts used for data analysis and transformations can be found in the `/SQL` folder.
 
 ---
